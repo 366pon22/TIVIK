@@ -10,10 +10,6 @@ https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD", 55555555 tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия HD
-http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
-
-
 #EXTINF:-1 group-title="📺Эфирные HD", 222222222 tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Информационные" ,Крик ТВ HD
 http://a0925677.xsph.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
 
