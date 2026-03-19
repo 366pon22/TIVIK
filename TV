@@ -3334,57 +3334,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg", ⚽️Sports-Streams 1
-https://playertv.xyz/site1/video.m3u8
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg", ⚽️Sports-Streams 2
-https://playertv.xyz/site2/video.m3u8
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg", ⚽️Sports-Streams 3
-https://playertv.xyz/site3/video.m3u8
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg", ⚽️Sports-Streams 4
-https://playertv.xyz/site4/video.m3u8
-
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 1 (VPN)
-https://kasta-tv-ua.short.gy/event1
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 2 (VPN)
-https://kasta-tv-ua.short.gy/event2
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 3 (VPN)
-https://kasta-tv-ua.short.gy/event3
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 4 (VPN)
-https://kasta-tv-ua.short.gy/event4
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 5 (VPN)
-https://kasta-tv-ua.short.gy/event5
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 6 (VPN)
-https://kasta-tv-ua.short.gy/event6
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 7 (VPN)
-https://kasta-tv-ua.short.gy/event7
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 8 (VPN)
-https://kasta-tv-ua.short.gy/event8
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 9 (VPN)
-https://kasta-tv-ua.short.gy/event9
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 10 (VPN)
-https://kasta-tv-ua.short.gy/event10
-#EXTINF:-1 group-title="Спорт_Stream" tvg-id="no_epg_sport" tvg-logo="https://psv4.userapi.com/s/v1/d2/HzomswMuaN0d1T4aH3KyNWP98Z2mcbmYzfpOYFVChr8rqGfbZ1CjsHTHgGRPTTAgn0gVLgvcp_3_TzEJf2yDB9P5dAppxuZy7_-LiI6wyrcpzLcVosSeJTlHNYusZxUO5ebHQlW2YlCy/Bez_nazvania_1.jpg",Event 11 (VPN)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="World Sport" tvg-logo="https://i.ibb.co/yFyXsbP7/image-2025-10-10-T152734-288.png",30A Golf Kingdom
 https://30a-tv.com/feeds/720p/53.m3u8
 #EXTINF:-1 group-title="World Sport" tvg-logo="https://i.ibb.co/m5NKzh5K/image-2025-10-10-T144349-662.png",ACC Digital Network
