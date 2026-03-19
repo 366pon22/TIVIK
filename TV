@@ -1,7 +1,8 @@
 
  #EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://str-01.sunset-media.org/epg.xml"
 
-
+#EXTINF:-1 group-title="Кино", Мир сериала HD
+http://178.217.72.66:8080/Mir_Seriala/index.m3u8
 
 
 
