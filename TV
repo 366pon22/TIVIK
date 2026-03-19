@@ -4,58 +4,6 @@
 
 
 
-#EXTINF:-1 group-title="Общие", Ссылка на плейлист устарела
-https://loganettv.vercel.app/all.m3u
-#EXTINF:-1 group-title="Общие", Новая ссылка https://loganettv.vercel.app/all.m3u
-https://loganettv.vercel.app/all.m3u
-#EXTINF:-1 group-title="Общие", Telegram-канал
-https://t.me/loganettv_original
-#EXTINF:-1 group-title="Общие", Telegram-чат
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", Telegram-резерв
-https://t.me/iptvbackup
-#EXTINF:-1 group-title="Общие", Первый канал
-http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy", Первый канал (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy-pl9", Первый канал +9 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие", Первый канал HD
-http://77.235.1.19:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="Общие", Первый канал HD +4
-http://77.235.1.19:8000/play/a073/index.m3u8
-#EXTINF:-1 group-title="Общие", Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya.m3u8
-#EXTINF:-l group-title="Общие", Первый канал Европа
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="rossia1-pl9", Россия 1 +9 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Общие", Planeta RTR
-https://streaming.goodstream.cyou/live/211.m3u8
-#EXTINF:-1 group-title="Общие", НТВ
-http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv", НТВ (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="ntv-pl7", НТВ +7 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие", НТВ HD
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Общие", НТВ-America
-http://4.59.210.197:8815/udp/127.0.0.1:6003
-#EXTINF:-1 group-title="Общие", НТВ-Беларусь
-http://194.158.222.36:6107
 
 
 
