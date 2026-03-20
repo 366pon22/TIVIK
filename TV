@@ -16,8 +16,11 @@ https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=KizugTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные" ,Ю HD
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="prnk-tv", Первый Российский Национальный канал HD
 
