@@ -13,6 +13,9 @@ https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=KizugTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
+#EXTINF:-1 xui-id="1443" tvg-id="" tvg-name="Россия 1 HD" tvg-logo="" group-title="📺Эфирные HD",Россия 1 HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbybP1aMjiDAemm1w95XWgqWA/m3u8
+
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 
@@ -153,6 +156,9 @@ https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺Эфирные HD",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
 
+#EXTINF:-1 xui-id="1405" tvg-id="" tvg-name="Моя планета HD" tvg-logo="" group-title="Россия",Моя планета HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyarDKXyZB6LwNxrXTKNvnyA/m3u8
+
 #EXTINF:-1 group-title="📺Эфирные HD",Мульт HD
 http://185.46.16.239:8000/Mir_24
 
@@ -183,9 +189,30 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 
 
+#EXTINF:-1 xui-id="1437" tvg-id="" tvg-name="Мульт HD" tvg-logo="" group-title="📺Эфирные HD",Мульт HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbySrM4Kn966R2BJnQJP0gTg8/m3u8
+
+
 #EXTINF:-1 group-title="📺Эфирные HD",Живи Активно HD
 https://livetv-app.mylifeisgood.net.ru/channels/jiviactivno.m3u8
 
+#EXTINF:-1 xui-id="1457" tvg-id="" tvg-name="Звезда Плюс HD" tvg-logo="" group-title="📺Эфирные HD",Звезда Плюс HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyQuMx2GwJNmkA6kuImFDrx0/m3u8
+
+#EXTINF:-1 xui-id="3736" tvg-id="" tvg-name="Настоящее время HD" tvg-logo="https://i.imgur.com/6JhhLfq.png" group-title="📺Эфирные HD",Настоящее время HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyQifNhe-v2watnIfOp7uZQY/m3u8
+
+#EXTINF:-1 xui-id="2372" tvg-id="" tvg-name="5 Канал HD" tvg-logo="" group-title="📺Эфирные HD",5 Канал HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbydYMTDL6MCKQcbDKFaXXZfk/m3u8
+
+#EXTINF:-1 xui-id="2420" tvg-id="" tvg-name="43 канал HD" tvg-logo="" group-title="📺Эфирные HD",43 канал HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbydB5q8CLLByWc5VjDO1vSuQ/m3u8
+
+#EXTINF:-1 xui-id="2569" tvg-id="" tvg-name="Дача HD" tvg-logo="" group-title="📺Эфирные HD",Дача HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyerdffRoEn-Rf7hkYSHFQHI/m3u8
+
+#EXTINF:-1 xui-id="2573" tvg-id="" tvg-name="36.6 HD" tvg-logo="" group-title="📺Эфирные HD",36.6 HD
+https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyWA9uDPIPiKxE0MhpvIE7BU/m3u8
 
 
 
