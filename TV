@@ -22,14 +22,9 @@ https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="prnk-tv", Первый Российский Национальный канал HD
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ntv", НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные" tvg-id="ДОМАШНИЙ", Домашний HD
-http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ЗВЕЗДА", Звезда HD
@@ -38,8 +33,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="МИР", МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://federal.tv/i/tnt.png", ТНТ HD
-http://95.66.188.74:80/TNT_HD/mono.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD", Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
