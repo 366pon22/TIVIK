@@ -221,35 +221,6 @@ http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 
 
 
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Площадь молодёжи 2
-https://live.cmirit.ru:443/live/rvi14_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Площадь молодёжи 3
-https://live.cmirit.ru:443/live/rvi15_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Площадь молодёжи 4
-https://live.cmirit.ru:443/live/rvi16_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Арт-объект 1
-https://live.cmirit.ru:443/live/rvi18_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Площадь молодёжи 7
-https://live.cmirit.ru:443/live/rvi19_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Площадь молодёжи 8
-https://live.cmirit.ru:443/live/rvi20_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",пергола 1
-https://live.cmirit.ru:443/live/rvi22_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",пергола 2
-https://live.cmirit.ru:443/live/rvi23_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - школа №10 - 2
-https://live.cmirit.ru:443/live/10school-02_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - школа №10 - 3
-https://live.cmirit.ru:443/live/10school-03_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - школа №10 - 4
-https://live.cmirit.ru:443/live/10school-04_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Спортивная площадка
-https://live.cmirit.ru:443/live/rvi24_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - ЖК Фосагро 03
-https://live.cmirit.ru:443/live/rvi29_1920x1080.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺",Череповец - Остинская-Проезжая01
-https://live.cmirit.ru:443/live/rvi31_1920x1080.stream/playlist.m3u8
-
 
 
 
