@@ -211,8 +211,7 @@ http://hls127.freeott.top:8080/Nashe_HD/video.m3u8
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",RU.TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-
+http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
 
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD" ,РЕН ТВ HD
@@ -222,11 +221,25 @@ http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 group-title="📺Эфирные HD",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
-#EXTINF:-1 group-title="📺Эфирные HD",RU.TV
-http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
+
 
 #EXTINF:-1 group-title="📺Эфирные HD",RU.TV
 http://127.0.0.1:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
