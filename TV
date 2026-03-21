@@ -98,25 +98,12 @@ http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",ТНТ HD1
-http://95.66.188.74:80/TNT_HD/mono.m3u8
-
-#EXTINF:-1 group-title="📺Эфирные HD",ТНТ HD2
-http://95.66.188.74/TNT_HD/mono.m3u8
-
-#EXTINF:-1 group-title="📺Эфирные HD",ТНТ Music HD
-http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
-
-
-
 
 #EXTINF:-1 group-title="📺Эфирные HD",365 Дней HD
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
-
-
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",Наше HD
@@ -140,8 +127,6 @@ http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD",Удар HD
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
-
-
 
 
 
@@ -169,10 +154,12 @@ https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyerdffRoEn-Rf7hkYSHFQHI/m3u8
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 
 
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 
 
-
-
+#EXTINF:-1 group-title="📺Эфирные HD",ТНТ Music HD
+http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
 
 
 
