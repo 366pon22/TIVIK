@@ -1,8 +1,6 @@
 
 
 
-#EXTINF:-1 group-title="TEST (VPN)", Поехали!
-http://5.188.159.128:8070/bridgetv/index.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
