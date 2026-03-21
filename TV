@@ -16,8 +16,7 @@ https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbybP1aMjiDAemm1w95XWgqWA/m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
-http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ntv", НТВ HD
@@ -34,8 +33,9 @@ https://live-stream-12.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd-avc1_
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 
-#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="📺Эфирные HD" ,ТНТ4
-http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 group-title="📺Эфирные HD", Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -65,8 +65,7 @@ http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1  tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="📺Эфирные HD",Смайл ТВ HD
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD", Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="zagorodny-int", Загородный Int HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhc
@@ -218,9 +217,11 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lA
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQxNjYyMTAsImlhdCI6MTc3NDA3OTgxMCwiY2lkIjo2LCJ1aWQiOjEwMjMxMDQ1MTksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.9IugOgjLdpnS_Q1OuZ8lhGIsLp-rCL9dJOSTPrXA-eQ&offset=10
 
 
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 
-
-
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="📺Эфирные HD" ,ТНТ4
+http://176.118.197.101/TNT4/index.m3u8
 
 
 
