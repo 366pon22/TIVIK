@@ -3,10 +3,8 @@
 
 
 
-
 #EXTINF:-1 group-title="📺Эфирные HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-
 
 
 #EXTINF:-1 group-title="📺Эфирные HD", Россия 24
@@ -212,7 +210,8 @@ http://87.246.54.249:8080/KinoHit/index.m3u8
 http://hls127.freeott.top:8080/Nashe_HD/video.m3u8
 
 
-
+#EXTINF:-1 group-title="📺Эфирные HD",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 
 
 
@@ -376,11 +375,6 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные", TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Mh42R1t899Dj47YFVhk1Yg&e=1774643545&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-
-
-
-
 
 
 
