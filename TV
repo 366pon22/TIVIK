@@ -218,23 +218,7 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lA
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD" ,РЕН ТВ HD
 http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQxNjYyMTAsImlhdCI6MTc3NDA3OTgxMCwiY2lkIjo2LCJ1aWQiOjEwMjMxMDQ1MTksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.9IugOgjLdpnS_Q1OuZ8lhGIsLp-rCL9dJOSTPrXA-eQ&offset=10
 
-#EXTINF:-1 group-title="📺Эфирные HD" ,Бобёр0
-http://hls.stb.md/BOBIOR_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NDA4NDUzNCwiZXhwIjoxNzc0MTcwOTM0LCJpYXQiOjE3NzQwODQ1MzQsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.ckA9HQPZIwlLFyQFhDwZfuOEra--MAQN1dQnNwsq1Nc
 
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" ,Бобёр4
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc3NDA5NzYwMSwiaHdpZCI6ImMzNjU1MzA5ODU0NjNmZDYzNDY5OWRiNTExYTYzMzUyMDkxOWQwM2U5NjRlYzFhZjkyYTc0ZjRkOGRiN2MwOGUiLCJsYXN0X3JlcV9kYXRlIjoxNzczNDkyODAxLCJzZXNzaW9uX2lkIjoiNDIwNzIxZmYzNmRjZWYwY2FlY2EzNWQ3Y2I2NjlmZWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.HbyX5UogNlxyrMic-v8Oo4_MwtkxUnPUSPuA4zVH2j0
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Бобер5
-http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
-
-#EXTINF:-1 group-title="📺Эфирные HD",Бобёр6
-http://193.25.8.59:8000/bober
-
-#EXTINF:-1 group-title="📺Эфирные HD",Бобёр7
-http://tv.ttk.mx:9077
 
 
 
