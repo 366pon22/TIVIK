@@ -27,26 +27,10 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ntv", НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ТВЦ", ТВ Центр HD
-https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rentv", Рен ТВ HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
-
-#EXTINF:-1 group-title="📺Эфирные HD", СТС HD
-http://95.66.188.74:80/CTC_HD/mono.m3u8
-
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="strk" tvg-logo="https://iptvx.one/picons/strk.png" group-title="📺Эфирные",СТРК HD
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-id="ДОМАШНИЙ", Домашний HD
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=domashny.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
 
-#EXTINF:-1 group-title="📺Эфирные HD",ТВ3 HD
-http://195.158.223.132:8002/TV_3
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-name="Пятница!", ПЯТНИЦА! HD
-https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ЗВЕЗДА", Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
