@@ -55,6 +55,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/IgiFpig0L2iU6pXClPyYDg,1774256456/streaming/tourist_eyes/324/1/tracks-v5a1/mono.m3u8
 
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10159/logo_256_1660828931.png", Приключения HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/4Ip47gHTEgdp8mTRC8CxkQ,1774256456/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10156/logo_256_1658734302.png", В мире животных HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/vuUeHHEl4D7Yw7Hal9rCNw,1774256456/streaming/animalshd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD", Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
@@ -138,7 +145,9 @@ http://185.46.16.239:8000/Planeta_HD
 
 
 
-
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10299/logo_256_1658733817.png", Ocean TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/rfIhsBmo3QgyAEwve9yTfQ,1774256457/streaming/oceantv/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",Тайны галактики HD
@@ -219,6 +228,22 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="📺Эфирные HD" ,ТНТ4
 http://176.118.197.101/TNT4/index.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png", Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/CGe-8dzPzzc-khOTbFdVYg,1774256457/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10235/logo_256_1660805632.png", Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/xPGXE2CRMySbc0DH5cFf2g,1774256457/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10236/logo_256_1660805653.png", Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/9biDOVT1vrwhqLIWr2Z72A,1774256457/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png", Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/RpNzvrUqUk0g0mY3-IfYbw,1774256457/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 
 
 
