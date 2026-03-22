@@ -239,7 +239,7 @@ http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="📺Эфирные HD" ,ТНТ4
 http://176.118.197.101/TNT4/index.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png", Матч! Футбол 1 HD
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/CGe-8dzPzzc-khOTbFdVYg,1774256457/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 
