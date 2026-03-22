@@ -229,8 +229,9 @@ http://46.53.208.4:80/live/285.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lACZChjXNHG-ZPxg450PAw&e=2074079873&scheme=https
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD" ,РЕН ТВ HD
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQxNjYyMTAsImlhdCI6MTc3NDA3OTgxMCwiY2lkIjo2LCJ1aWQiOjEwMjMxMDQ1MTksInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.9IugOgjLdpnS_Q1OuZ8lhGIsLp-rCL9dJOSTPrXA-eQ&offset=10
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i115.fastpic.org/big/2021/0927/1e/85f294a6ddf35c85f064a5af1d7ca71e.png", Рен ТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/BuIjnl_EYjYIOO9Kajuw8g,1774256455/streaming/rentvplus2/324/5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
@@ -254,6 +255,14 @@ https://mhd128.iptv2022.com/p/9biDOVT1vrwhqLIWr2Z72A,1774256457/streaming/footba
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10227/logo_256_1660806192.png", Матч! Премьер HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/RpNzvrUqUk0g0mY3-IfYbw,1774256457/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+
+
+
+
+
+
+
+
 
 
 
