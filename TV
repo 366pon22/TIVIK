@@ -107,6 +107,18 @@ http://46.53.208.4:80/live/2325.m3u8
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
 http://46.53.208.4:80/live/244.m3u8
 
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/oe_ZYlAmuovrs4eg-sJreA,1774295597/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png", Охотник и Рыболов HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/3aTmcpKF6xDs10J2wgO2xA,1774295597/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10675/logo_256_1658734683.png", Живая природа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/KBUZWRwRSYJTm05fwRCZxA,1774295597/streaming/livenature/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="📺Эфирные HD" ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
@@ -137,9 +149,6 @@ https://mhd128.iptv2022.com/p/PaslQbHbCtxWB126X5wqhQ,1774256455/streaming/hit/32
 #EXTINF:-1 xui-id="1405" tvg-id="" tvg-name="Моя планета HD" tvg-logo="" group-title="📺Эфирные HD",Моя планета HD
 https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyarDKXyZB6LwNxrXTKNvnyA/m3u8
 
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=HD_Oh_Rbl.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",Матч! HD
@@ -229,13 +238,19 @@ http://46.53.208.4:80/live/285.m3u8
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lACZChjXNHG-ZPxg450PAw&e=2074079873&scheme=https
 
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="http://i115.fastpic.org/big/2021/0927/1e/85f294a6ddf35c85f064a5af1d7ca71e.png", Рен ТВ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/BuIjnl_EYjYIOO9Kajuw8g,1774256455/streaming/rentvplus2/324/5/index.m3u8
 
 
 #EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
 http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/11159/logo_256_1655386039.png", Загородная Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/fKjLL9HcBLJgrf8cxFwLCw,1774295597/streaming/zagorod/324/1/index.m3u8
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10159/logo_256_1660828931.png", Приключения HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/z98xJCir_VxhsttQT8pKTw,1774295597/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="📺Эфирные HD" ,ТНТ4
 http://176.118.197.101/TNT4/index.m3u8
