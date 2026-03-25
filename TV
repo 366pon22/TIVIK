@@ -82,10 +82,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/trac
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rbk", РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10184/logo_256_1655452177.png", Суббота
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/IS24hmtMg7X8IW-CVwcWrw,1774256454/streaming/superott/324/1/tracks-v5a1/mono.m3u8
-
+#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="📺Эфирные HD" ,Суббота
+#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 
 
