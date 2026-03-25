@@ -27,9 +27,17 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=3YqyE1oHsRFTKelUY7k2mg&e=2074079825&scheme=https
 
 
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="📺Эфирные HD" ,СТС HD
-#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 
+#EXTINF:-1 group-title="📺Эфирные HD",СТС HD2
+http://cdn.kubteltv.workers.dev/?ID=377
+
+#EXTINF:-1 group-title="📺Эфирные HD",СТС HD22
+https://livetv-app.mylifeisgood.net.ru/channels/sts.m3u8
+
+
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/lIz4NdKFUuerUn8VvfvYzQ,1774468886/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
