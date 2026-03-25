@@ -28,21 +28,12 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=3Y
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",СТС HD2
+#EXTINF:-1 group-title="📺Эфирные HD",СТС HD
 http://cdn.kubteltv.workers.dev/?ID=377
 
-#EXTINF:-1 group-title="📺Эфирные HD",СТС HD22
-https://livetv-app.mylifeisgood.net.ru/channels/sts.m3u8
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/lIz4NdKFUuerUn8VvfvYzQ,1774468886/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/pZf1-5uZM5cMXW5FTaQ3HQ,1774256454/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
