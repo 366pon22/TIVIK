@@ -68,25 +68,14 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",Глазами туриста HD1
-http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
 
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD"  ,Глазами Туриста HD2
-http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQ0Njg4OTIsImlhdCI6MTc3NDM4MjQ5MiwiY2lkIjo2LCJ1aWQiOjEwMjQ1OTIzMDgsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.vX2_6cB1Fbsw6SdR43s25iEmpwN0xAeBfPVO2JNE_KM&offset=10
-
-EXTINF:-1 group-title="📺Эфирные HD",Глазами туриста 4K3
-http://cdn.kubteltv.workers.dev/?ID=342
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", Глазами туриста4
+#EXTINF:-1 group-title="📺Эфирные HD", Глазами туриста HD
 https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10676/logo_256_1660828620.png", Глазами туриста
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/IgiFpig0L2iU6pXClPyYDg,1774256456/streaming/tourist_eyes/324/1/tracks-v5a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10159/logo_256_1660828931.png", Приключения HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
