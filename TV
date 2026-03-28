@@ -44,9 +44,8 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTI4MjM5MSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc0Njc3NTkxLCJzZXNzaW9uX2lkIjoiZjJjMzQyNmU0MDIzOGMyN2QxOTZiMmM0OTM1NmJmMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.dl_-z45WA_fUZQMgezoRnbIgL6471QmlhopKoo57_N8
 
 
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD" ,Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzQ0Njg4OTIsImlhdCI6MTc3NDM4MjQ5MiwiY2lkIjo2LCJ1aWQiOjEwMjQ1OTIzMDgsInJlZyI6ZmFsc2UsImlwIjozNTg1NTUyNjM2LCJhZHVsdCI6ZmFsc2V9.vX2_6cB1Fbsw6SdR43s25iEmpwN0xAeBfPVO2JNE_KM&offset=10
+#EXTINF:-1 group-title="📺Эфирные HD", Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rentv", Рен ТВ HD
