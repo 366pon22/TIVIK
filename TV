@@ -10,9 +10,12 @@ https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTVLCOPT:http-user-agent=KizugTV
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
+
+
 EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/OTium2-CVIT8Qpy-4xSG2g,1775371895/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
@@ -22,6 +25,8 @@ https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ntv", НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD",Москва 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -45,8 +50,11 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/pZWslL5x0Fowg1s1eO1SmA,1775371895/streaming/pyatnicaott/324/5/tracks-v5a1/mono.m3u8
 
+
+
 #EXTINF:-1 group-title="📺Эфирные HD", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/113/logo_256_1655445172.png", РЕН ТВ HD
@@ -63,6 +71,8 @@ https://mhd128.iptv2022.com/p/CwJR9jI0FhFq--2o5vfQ4Q,1775371895/streaming/rentvo
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ЗВЕЗДА", Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="МИР", МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -93,11 +103,17 @@ https://mhd128.iptv2022.com/p/BTt2snBUIqhy9-8pte8n6w,1775371897/streaming/animal
 #EXTINF:-1 group-title="📺Эфирные HD", Муз ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
+
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="360 Новости", 360 Новости HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 
+
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rbk", РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="📺Эфирные HD" ,Суббота
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
@@ -110,15 +126,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="📺Эфирные HD",RTG HD
 http://46.53.208.4:80/live/1406.m3u8
 
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="360-podmoskovie", 360 ru HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD", Дикая рыбалка HD
 http://46.53.208.4:80/live/2324.m3u8
 
+
 #EXTINF:-1 group-title="📺Эфирные HD", ДИКАЯ ОХОТА HD
 http://46.53.208.4:80/live/2325.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
 http://46.53.208.4:80/live/244.m3u8
@@ -127,37 +147,55 @@ http://46.53.208.4:80/live/244.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/GZNAwDv26JIMuGpRF6lxDg,1775371897/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 
+
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png", Охотник и Рыболов HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/3aTmcpKF6xDs10J2wgO2xA,1774295597/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10675/logo_256_1658734683.png", Живая природа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/KBUZWRwRSYJTm05fwRCZxA,1774295597/streaming/livenature/324/1/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="📺Эфирные HD" ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/101/logo_256_1655445073.png", ОТР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/KKWGNmsFQMHOBw5CqFC8WQ,1774256454/streaming/otr/324/5/tracks-v5a1/mono.m3u8
 
+
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/83/logo_256_1655391215.png", Россия К HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/v_hyc3SXgxplpUQUzQTtiw,1774256454/streaming/rossiak/324/5/tracks-v5a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/129/logo_256_1655445000.png", ТВЦ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/yHozA5Hg2WvDTL-X2CYSqQ,1774256454/streaming/tvc/324/5/tracks-v5a1/mono.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="📺Эфирные HD",ВМЕСТЕ:РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10622/logo_256_1660892265.png", Хит HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/PaslQbHbCtxWB126X5wqhQ,1774256455/streaming/hit/324/1/tracks-v5a1/mono.m3u8
+
 
 
 
@@ -173,6 +211,8 @@ https://vip.iptvshams.ru/play/EcTDgYUr4Kp8Lw7OF6PbyarDKXyZB6LwNxrXTKNvnyA/m3u8
 
 #EXTINF:-1 group-title="📺Эфирные HD",365 Дней HD
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
