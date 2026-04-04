@@ -153,6 +153,10 @@ https://mhd128.iptv2022.com/p/GZNAwDv26JIMuGpRF6lxDg,1775371897/streaming/oribal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/OgRRWHMjyy--AhTeJITDXg,1775371897/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
 
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10176/logo_256_1658737516.png", Рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/dNwEzj6d2buFjaXeiugmeQ,1775371897/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10675/logo_256_1658734683.png", Живая природа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
