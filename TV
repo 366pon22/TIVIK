@@ -60,6 +60,9 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 https://mhd128.iptv2022.com/p/pZWslL5x0Fowg1s1eO1SmA,1775371895/streaming/pyatnicaott/324/5/tracks-v5a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="📺Эфирные HD" ,Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+
 
 #EXTINF:-1 group-title="📺Эфирные HD", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -72,6 +75,10 @@ https://mhd128.iptv2022.com/p/CwJR9jI0FhFq--2o5vfQ4Q,1775371895/streaming/rentvo
 
 
 
+
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="📺Эфирные HD" ,Рен ТВ HD
 
 
 
