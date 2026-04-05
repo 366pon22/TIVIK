@@ -12,9 +12,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/115/logo_256_1655391177.png", Россия 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/OTium2-CVIT8Qpy-4xSG2g,1775371895/streaming/rossia1ott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📺Эфирные HD", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
@@ -34,13 +33,17 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=3Y
 
 
 
+#EXTINF:-1 group-title="📺Эфирные HD",СТС HD
+https://livetv-app.mylifeisgood.net.ru/channels/sts.m3u8
+
+
+#EXTINF:-1 group-title="📺Эфирные HD",СТС HD
+http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
+
+
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/4PAlg6w_UtkPznekK3bSmQ,1775371895/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
-
-
-
-
+https://mhd128.iptv2022.com/p/HIFRiUNoXwz9AhgK69w_5w,1775458560/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
