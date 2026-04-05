@@ -39,12 +39,6 @@ https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=3Y
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",СТС HD
-https://livetv-app.mylifeisgood.net.ru/channels/sts.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",СТС HD
-http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
