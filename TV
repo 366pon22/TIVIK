@@ -33,9 +33,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",Москва 24 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=3YqyE1oHsRFTKelUY7k2mg&e=2074079825&scheme=https
+#EXTINF:-1 group-title="4K VIDEO (VPN)" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-16/87/de/87dec66bcd8f25305859854a2ea48ebe.jpg", Москва 4K
+https://river-4-435.rtbcdn.ru/hls-vod/fnjIaQ30ZbtA9-7QWRJaiw/1776001484/1780/0x5000c500c923ddc6/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
 
 
 
