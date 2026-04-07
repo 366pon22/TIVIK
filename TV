@@ -33,9 +33,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://pic.rtbcdn.ru/video/2026-01-16/87/de/87dec66bcd8f25305859854a2ea48ebe.jpg", Москва 4K
-https://river-4-435.rtbcdn.ru/hls-vod/fnjIaQ30ZbtA9-7QWRJaiw/1776001484/1780/0x5000c500c923ddc6/cf49bab452b0423e94330844a86f95d6.mp4.m3u8?i=3840x2024_25835
-
+#EXTINF:-1 group-title="📺Эфирные HD",МОСКВА 24
+http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 
 
 
