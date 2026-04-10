@@ -157,12 +157,12 @@ https://mhd128.iptv2022.com/p/5pEbdnRqblp8ioZL9Q18pw,1775847245/streaming/oribal
 
 
 
-
-
-
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png", Охотник и Рыболов HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/OgRRWHMjyy--AhTeJITDXg,1775371897/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/WpYoKn_Ji_7K8qV3chzxPg,1775847245/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10176/logo_256_1658737516.png", Рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
