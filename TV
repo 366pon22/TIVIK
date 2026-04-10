@@ -39,7 +39,7 @@ http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 
 
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/1tUd6mU6vvnJ_rfP23r_VQ,1775847242/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
 
@@ -93,9 +93,9 @@ https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10159/logo_256_1660828931.png", Приключения HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/DP1MCKRC4kKXpLJKlryJlw,1775371897/streaming/adventurehd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📺Эфирные HD" ,Приключения HD
+http://stream-msk-04.ott.tricolor.tv/dtv/id158_MSKSG-PVR-1--HD_Teletr/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
+
 
 
 
