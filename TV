@@ -56,8 +56,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="📺Эфирные HD" ,Пятница!
 https://vod.tuva.ru/friday/index.m3u8
 
-#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="📺Эфирные HD" ,Пятница! Int.
-https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD", Известия HD
