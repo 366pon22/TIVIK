@@ -4,7 +4,6 @@
 
 
 
-
 #EXTINF:-1 group-title="📺Эфирные HD",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 
@@ -732,17 +731,33 @@ http://91.228.35.249:8001/1:0:16:72:2FA8:13E:820000:0:0:0
 
 
 
-#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140",FoxKids-Remastered
-http://kinowalk.hopto.org/foxkids_remastered_live
+
+#EXTINF:-1 group-title="👶Детские",CPS Cartoon
+http://tinyurl.com/TvZaTak37/CPS_Cartoon/video.m3u8?token=freeportal&token=deooleg
+
+#EXTINF:-1 group-title="👶Детские", Канал Малыш
+https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Умка
 http://46.53.208.4:80/live/9488.m3u8
 
+#EXTINF:-1 group-title="👶Детские", Умка
+http://tinyurl.com/TvvZaTak/9488-req_5k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 group-title="👶Детские" tvg-logo="https://epg.iptvx.one/picons/animetv.png",Аниме ТВ HD
+http://92.63.106.41/24hp/stream.php?id=8854
+
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://jtx-online.ru/randomlogo/36.png",Jetix Online
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://jtx-online.ru/randomlogo/36.png",JTX ONLINE
+https://kinostreammedia.hopto.org/JTX-ONLINE/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://images.live.vkvideo.ru/user/19154193/avatar?change_time=1769970711&croped=1&mh=140&mw=140",FoxKids Remastered
+https://kinostreammedia.hopto.org/FOXKIDS-REMASTERED/index.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://shikimori.io/system/user_images/original/122443/770718.jpg", AHИМЭШKИ
-https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://psv4.userapi.com/s/v1/d2/AKJxOzypAG9Tjf4Cx_P69XfWrKQp4vbNdzP6Qmz3Eaya9s-Dh7GLmXFeYyuhhocZUsT_tsFlSKy-wqONvWy9O_40VGS-KUbJauDa1WkIOaAbH1TI5il0ymOSzcU-UUN2Ev9pivUVlQSL/image.jpg",DTR ZONA 2
 https://kino-stream.online/hls/DTRZONA2.m3u8
@@ -751,22 +766,25 @@ https://kino-stream.online/hls/DTRZONA2.m3u8
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://png.klev.club/uploads/posts/2024-04/png-klev-club-rmmj-p-tri-bogatirya-png-10.png" tvg-id="no_epg_mult", Три богатыря
-https://stream-msk-01.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-01.ott.tricolor.tv/dtv/id928_MSKSG-PVR-1--Kinozal_7/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://grizly.club/uploads/posts/2022-12/1670789337_grizly-club-p-prostokvashino-png-17.png"  tvg-id="no_epg_mult", ПРОСТОКВАШИНО
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://igora.ru/netcat_files/310/2282/1636194858_20_papik_pro_p_smeshariki_logotip_foto_20.png", СМЕШАРИКИ
-https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://federal.tv/i/sovmult.png" tvg-id="no_epg_mult", Советские Мультяшки
-https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
+
+#EXTINF:-1 group-title="👶Детские", Советские мультфильмы
+http://46.53.208.4:80/live/3007.m3u8
 
 #EXTINF:-1 group-title="👶Детские", СУББОТА!
-http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские",О!
-http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=O.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские",Лёва
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
@@ -774,9 +792,19 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1 group-title="👶Детские",Лёва
 http://46.53.208.4:80/live/2424.m3u8
 
+#EXTINF:-1 group-title="👶Детские",Лёва HD
+http://tinyurl.com/TvvZaTak/2424-req_offset_28000000-req_window_0-3k_v5.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500", Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские" tvg-logo="https://play-lh.googleusercontent.com/JsxZX5f6bigPcJb2gCI96Mji1syOKZKai5zkJRM73Uq6_B0olA3Bybyen8bsl95fiw", VK Stream 1
+https://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-id="no_epg_mult" group-title="👶Детские"  tvg-logo="https://play-lh.googleusercontent.com/JsxZX5f6bigPcJb2gCI96Mji1syOKZKai5zkJRM73Uq6_B0olA3Bybyen8bsl95fiw", VK Stream 2
+https://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1 group-title="👶Детские", BABY TIME
-
+http://tinyurl.com/TvZaTak007/baby_time/video.m3u8
 
 #EXTINF:-1 group-title="👶Детские", KIDS TV
 
@@ -784,17 +812,14 @@ http://46.53.208.4:80/live/2424.m3u8
 #EXTINF:-1 group-title="👶Детские", КИНОМУЛЬТ
 http://46.53.208.4:80/live/157.m3u8
 
-#EXTINF:-1 group-title="👶Детские", Советские мультфильмы
-http://46.53.208.4:80/live/3007.m3u8
-
-#EXTINF:-1 group-title="👶Детские" tvg-logo="http://1lot.tv/ch/10697.png", Baby Time
-http://srvru2.play-x.ru:7799/channel/4a3838a9/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-
 #EXTINF:-1 group-title="👶Детские", МУЛЬТ и МУЗЫКА
 http://31.148.48.15:80/Multimuzika/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_cinema" tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png", Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8115.png", Ералаш
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-logo="https://psv4.userapi.com/s/v1/d/ni1BD2ijvTRmtAamNLRqy-YRmFoTjl9e9_t7WGcLmCmH8lXbCeoqNDALvtLkkFaKGZbQUKVm9K_6iYD0AEUK7Qmz2XQG9AhcJOe5S1rGD-ycFqsmtdeE0g/kidsfm.png" tvg-id="no_epg_music", KIDS FM
 #EXTVLCOPT:http-user-agent=KizugTV
@@ -812,8 +837,14 @@ https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶Детские",Nickelodeon
 https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="👶Детские",Nickelodeon
+https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
+
 #EXTINF:-1 group-title="👶Детские",NICKTOONS
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="👶Детские",Nicktoons
+https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские",CARTOONITO
 http://88.216.112.114/Cartoonito/index.m3u8
@@ -863,22 +894,25 @@ http://46.53.208.4:80/live/1303.m3u8
 #EXTINF:-1 group-title="👶Детские", CARTOON CLASSICS
 http://193.25.8.59:8000/Avto24
 
+#EXTINF:-1 group-title="👶Детские" tvg-id="jimjam" tvg-logo="https://iptvx.one/picons/jimjam.png",JimJam
+http://158.160.149.81:8080/269/index.m3u8
+
 #EXTINF:-1 group-title="👶Детские", Тооку
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 
 #EXTINF:-1 group-title="👶Детские", Солнце
-http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+http://stream-msk-08.ott.tricolor.tv/dtv/id253_MSKSG-PVR-1--Disney/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="mama",Мама
-http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1 group-title="👶Детские", 2x2
-https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 #EXTINF:-1  group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png", Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png", Пингвин Лоло
+#EXTINF:-1  group-title="👶Детские" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png", Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="👶Детские", СТС Kids
@@ -893,14 +927,11 @@ http://46.53.208.4:80/live/5512.m3u8
 #EXTINF:-1 group-title="👶Детские", Детский Мир
 http://193.25.8.59:8005/detmir
 
-#EXTINF:-1 group-title="👶Детские" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-
 #EXTINF:-1 group-title="👶Детские", СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
 
 #EXTINF:-1 group-title="👶Детские", Ani
-http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
+http://185.46.16.239:8000/Ani
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл (ТЕСТ)
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
@@ -911,36 +942,37 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://papik.pro/grafic/uploads/posts/2023-04/1681638968_papik-pro-p-tom-i-dzherri-logotip-vektor-29.png",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 group-title="👶Детские", MM Tom&Jerry
+http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo
+
+#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://toppng.com/uploads/preview/tom-and-jerry-cartoon-logo-11530958739hnbggs7vy2.png",Том и Джерри
+http://s.only4.tv/8116/video.m3u8?token=zoCHqBtVEo
+
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg",BIGS BUGS BUNNY
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 
 #EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIwasG09brFBqG1iPgM4K_0sZozlENZI67eQ&s", Mr.Bean Cartoon
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc7fgOzI6ZPVFjFNmO4mtw&e=2065265033&scheme=https
 
-#EXTINF:-1 group-title="👶Детские", Fox Kids
+#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT960dq9ksZeKgpm8LSr9DR4of7os5cNeVq6A&s", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 
 #EXTINF:-1 group-title="👶Детские", DUCK TV
 http://46.53.208.4:80/live/1492.m3u8
 
-#EXTINF:-1 group-title="👶Детские", Том и Джерри
-http://s.only4.tv/8116/video.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="👶Детские", MM Том и Джерри
-http://s.only4.tv/7131/index.m3u8?token=zoCHqBtVEo
 
-#EXTINF:-1 group-title="👶Детские" tvg-id="no_epg_mult" tvg-logo="https://e7.pngegg.com/pngimages/212/439/png-clipart-angry-birds-2-drawing-cartoon-angry-birds-font-game-logo.png", ANGRY BIRDS
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="KIDS" tvg-id="no_epg_mult", ANGRY
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="KIDS",Gurinel TV
 http://5.32.175.27:9001/
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/GQwpvZ0S/images.jpg",ARM TOON TV
@@ -1049,7 +1081,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=143
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=188
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.shutterstock.com/image-vector/kids-club-logo-letter-sign-260nw-678342241.jpg",Детский иностранный 21
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=190
-
+#EXTINF:-1 group-title="KIDS",ZooMoo
+http://181.78.109.48:9998/play/a00d/index.m3u8
 #EXTINF:-1 group-title="KIDS",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/JimJam_id.png/revision/latest?cb=20230531175743",JimJam
