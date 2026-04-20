@@ -41,10 +41,10 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=4N
 https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=0tj7PXwq3n5FTAmmhnRkIA&e=2076149514&scheme=https
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",МОСКВА 24
-http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
 
 
+#EXTINF:-1 group-title="С сайтов (VPN)" ,Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 
 
 
