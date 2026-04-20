@@ -4483,26 +4483,32 @@ http://live.mediabaytv.workers.dev/?ID=545
 
 
 
+
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://sun1-22.userapi.com/impg/RNM6W5WFDyaOLSgnsTzQltwrhIqEFJ4vXMNTcg/F46j34IKhNc.jpg?size=320x180&quality=95&sign=a49a698984a518a76d1ae4a2be825f99&c_uniq_tag=IouPj_8lLghGnEwt685DgdLXQo32O8o0FJXtLGKb2BE&type=video_thumb" tvg-id="no_epg_music", Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://pic.rutubelist.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg?width=300" tvg-id="no_epg_cinema", Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://pic.rutubelist.ru/video/2025-10-02/18/89/188980e103fe58923afd3105465c86a5.jpg?width=500" tvg-id="no_epg_cinema", Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube-tv.png",RUTUBE TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=-MU_dVXMJ3f5M3l3FekUdQ&e=2065265026&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",360
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=FuhXZ_U4H6lMoEGi3_YMtg&e=2065265077&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",4 канал
+#EXTINF:-1 group-title="Рушка👥ТВ",4 канал (Екатеринбург)
 https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=iT0oCENwjIYr_mH33z_EJA&e=2065265043&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",41 РЕГИОН
 https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=JVyMB3TQz4B7X-3iYNR4Gw&e=2065265048&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Activa TV
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://i.imgur.com/S69lDu4.png",Activa TV
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=nsjZXL_XFDkSEgvnl9PWOA&e=2065265083&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Deluxe Dance
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/960px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png",Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=2PdeoSAQvLnsFmTNOFmlMA&e=2065265095&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Red Bull TV
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=MGygHHNlpEPywPxGn8DfvQ&e=2065265103&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=l9sMcvc09PjVhjS_kvBghA&e=2065265083&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Sky Sports F1
-https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=1G0O7QhxKQk4Pxmb-8prVw&e=2065265102&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Sky Sports Main Event
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=aYOV0uXqUXI9vpnVx4iWxQ&e=2065265102&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=UKPQkmfUxT78nXq6u5XoMw&e=2065265101&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",TVS Classic Sports
@@ -4541,13 +4547,13 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=Pj
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=Un6Be0cNawA6ZJcdub4pDA&e=2065265050&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Илли ТВ
 https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=USqW4r8bx2Uf2rtW08SEAw&e=2065265094&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Истоки Орёл
+#EXTINF:-1 group-title="Рушка👥ТВ",Истоки
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=3KrHFmb8Q3VHY6RJCI2_wQ&e=2065265076&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Катунь 24
 https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=yug9CrqKXKXmmCJqpKw0pw&e=2065265057&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=Gkzyy-fyXHS_6X_U3cmMxw&e=2065265059&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Магас
+#EXTINF:-1 group-title="Рушка👥ТВ",	НТРК Ингушетия
 https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=gzM6_s3xPg7tiseYAUg-cg&e=2065265073&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mn4r6dGfo6f2nLpaZN8hQA&e=2065265059&scheme=https
@@ -4565,7 +4571,7 @@ https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=Vu
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=RJ-IFYluPBr1mLynVHXLbw&e=2065265065&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=6m3Gs23GSL7HcQGUblqWUA&e=2065265022&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",НТС Иркутск
+#EXTINF:-1 group-title="Рушка👥ТВ",НТС (Иркутск)
 https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=wWymlA2CXo1B5uMysqUGHw&e=2065265064&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Омск ТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AM7TGjVau5r8mCL50tz0UQ&e=2065265070&scheme=https
@@ -4573,7 +4579,7 @@ https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AM
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=M4W26yxH5UPPxR7FGu03bA&e=2065265076&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",ОТС HD
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=R7uRqJD4BfOsnfbQWCz6DQ&e=2065265036&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Охотник и рыболов
+#EXTINF:-1 group-title="Рушка👥ТВ",Охотник и Рыболов International
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=45omNOh2_cLPFnK2xBADmg&e=2065265029&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Первоуральск ТВ
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=KtLHMxMn5MH7p1B6URHMHA&e=2065265042&scheme=https
@@ -4587,13 +4593,11 @@ https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=bt
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=6O4BoI4avYfrNaZqXvt9jw&e=2065265062&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=RYU4HEkhMrd2kBeYqOjCQg&e=2065265024&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Резонанс ТВ
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=ClKkGe7sGBPeAte9RrwVQg&e=2065265080&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Рифей-ТВ
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=OWMfacI-biB-NvQMZH-ocQ&e=2065265060&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",САМОТЛОР
+#EXTINF:-1 group-title="Рушка👥ТВ",Самотлор (Нижневартовск)
 https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=zOgfQER_yw-UvRmhX1Geuw&e=2065265063&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Сангат
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://pic.rtbcdn.ru/user/2025-02-03/d1/3a/d13a5ebc5a2d8e903625ba1aa4220bd5.jpg",Сангат
 https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=ICoWT0C0_JwmWdOi2j12Ew&e=2065265037&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Саратов 24
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=P7Vy2--y3bM7iVuGoWU7vw&e=2065265053&scheme=https
@@ -4601,7 +4605,7 @@ https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=P7
 https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=n-EJhUulqAMWFxThG_MWYQ&e=2065265061&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=xurXu3NLFUVWuUAYkRTzUw&e=2065265081&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Смотри Радио
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://cdn-b2c.dom.ru/content/static/files/news/image/2022-04-21/v-orenburge-poyavitsya-novyy-telekanal-smotri-radio.jpg",Смотри Радио
 https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=84VoV9jM2FFNStOjol9NqQ&e=2065265082&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",Спас
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=qLbz9aaYINsBg5lsqwA7aA&e=2065265079&scheme=https
@@ -4615,18 +4619,35 @@ https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=ty
 https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=oY5pCd7Wb0JMHTG2NrFCkw&e=2065265040&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=ChhDyH1yBW0Ai5c764CloQ&e=2065265025&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",ТВ-ИН Магнитогорск
+#EXTINF:-1 group-title="Рушка👥ТВ",ТВ-ИН (Магнитогорск)
 https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=W5MK4jSQhgjpy4VcExxLjg&e=2065265078&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",ТМК
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=KDOqBKi-D1KGFLZJFM13Ag&e=2065265060&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=xAkpcydX85OM4wreUIrrlg&e=2065265023&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Царьград
+#EXTINF:-1 group-title="Рушка👥ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tsargrad_TV_logo.svg/960px-Tsargrad_TV_logo.svg.png",Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=a75z_oGxaKBZsHDWLxS84g&e=2065265070&scheme=https
 #EXTINF:-1 group-title="Рушка👥ТВ",ЮУРГУ-ТВ
 https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=7SlPtVe9WnoLyF_NcBthUg&e=2065265042&scheme=https
-#EXTINF:-1 group-title="Рушка👥ТВ",Ямал-Медиа
+#EXTINF:-1 group-title="Рушка👥ТВ",Ямал-Регион
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=CoLM8WZpvdllcIVUqQ57iQ&e=2065265072&scheme=https
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
