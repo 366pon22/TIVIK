@@ -102,8 +102,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD", Муз ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/93/logo_256_1655386660.png", Муз ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/Y_h6krFFHBs9BEczBpimJw,1776759416/streaming/muztv/324/5/tracks-v5a1/mono.m3u8
 
 
 
