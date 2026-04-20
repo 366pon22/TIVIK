@@ -30,9 +30,10 @@ https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 https://cdn-01.bonus-tv.ru/u/playlist.m3u8
 
 
+#EXTINF:-1 group-title="📺Эфирные" tvg-id="ntv", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ntv", НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",Москва 24
