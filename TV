@@ -6141,24 +6141,12 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
-http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охотник и рыболов HD
-http://hls.stb.md/OHOTNIK_IRIBALOV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Дикая охота HD
-http://hls.stb.md/DIKAYAOHOTA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Дикая рыбалка HD
-http://hls.stb.md/DIKAYARIBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Дикий
-http://hls.stb.md/DIKYI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Живи!
-http://hls.stb.md/JIVI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzAxMzgzMCwiZXhwIjoxNzc3MTAwMjMwLCJpYXQiOjE3NzcwMTM4MzAsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.Zo08Zr7uXZfdqWeoEY__3gS17uYIe896NVUjpI-wjnU
+
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и Рыбалка
 http://37.46.49.14:18010/play/a02u/index.m3u8
@@ -6174,12 +6162,9 @@ http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
-http://iptv.prosto.tv:7000/ch344/video.m3u8
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и рыбалка
-http://193.25.8.59:8000/ohota
+
 
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
@@ -6197,20 +6182,8 @@ http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Диалоги о рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Диалоги о Рыбалке
-https://livetv-app.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Дикая рыбалка HD
-http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Дикая охота HD
-http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Диалоги о рыбалке HD
-http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и Рыболов HD
-http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
 
 
 
