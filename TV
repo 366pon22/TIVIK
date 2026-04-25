@@ -129,6 +129,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
 
 
+#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ТВЦ", ТВ Центр HD
+https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
 
 #EXTINF:-1 group-title="📺Эфирные HD",RTG HD
