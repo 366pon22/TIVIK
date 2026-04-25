@@ -2086,9 +2086,6 @@ http://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
 
 
 
-
-
-
 #EXTINF:-1 group-title="⚡Познавательные" tvg-logo="https://1tourtv.ru/wp-content/uploads/2026/01/photo_2026-01-20_16-57-44-kopiya.png" tvg-id="no_epg", Первый Туристический Канал HD 24/7
 http://91.186.196.185/hls/hotels/stream.m3u8
 
@@ -2258,6 +2255,7 @@ http://193.25.8.59:8000/drive
 
 #EXTINF:-1 group-title="⚡Познавательные", АВТО24
 http://46.53.208.4:80/live/588.m3u8
+
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="360-podmoskovie", 360 ru
 https://stream-msk-16.ott.tricolor.tv/dtv/id941_MSKSG-PVR-1--Telekanal_360_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
 
@@ -2355,8 +2353,8 @@ http://stream-msk-03.ott.tricolor.tv/dtv/id283_MSKSG-PVR-1--Tehno24/03/plst.m3u8
 #EXTINF:-1 group-title="⚡Познавательные",НАША СИБИРЬ
 https://livetv-app.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные",TLC
-http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:-1 group-title="⚡Познавательные",TLC HD
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные", Nat Geo Wild
 http://188.237.47.212:6005
@@ -2399,6 +2397,9 @@ http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные",Animal Planet
 http://31.148.48.15/Animal_Planet_HD/index.m3u8
+
+#EXTINF:-1 group-title="⚡Познавательные",Animal Planet
+http://176.96.241.40/AnimalPlanet/index.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="voprosy-i-otvety" tvg-logo="https://www.cableman.ru/sites/default/files/voprosy_i_otvety.png", Вопросы и ответы
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
@@ -2467,13 +2468,13 @@ http://46.53.208.4:80/live/2324.m3u8
 #EXTINF:-1 group-title="⚡Познавательные", ДИКАЯ ОХОТА HD
 http://46.53.208.4:80/live/2325.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", 
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", Охота и рыбалка
 http://193.25.8.59:8000/ohota
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
 http://46.53.208.4:80/live/244.m3u8
 
-#EXTINF:-1 group-title="⚡Познавательные", Дикий 
+#EXTINF:-1 group-title="⚡Познавательные", Дикий охота и рыбалка
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="Охотник и рыболов HD", Охотник и рыболов HD
@@ -2541,6 +2542,9 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id936_MSKSG-PVR-1--Doktor_SD/04/plst.m
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", Точка.рф
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 
+#EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", Точка.рф
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+
 #EXTINF:-1 group-title="⚡Познавательные" tvg-id="HD Life", HDL
 http://31148.rafail1982.uz/HD_Life/index.m3u8
 
@@ -2596,6 +2600,18 @@ http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные",ANIMAUX
 http://145.239.5.177/314/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
