@@ -13178,8 +13178,73 @@ http://dmi3y-tv6.ru/hls/film/YA_LEGENDA.m3u8
 http://dmi3y-tv6.ru/hls/film/YA_FRANKENSHTEYN.m3u8
 
 
-
-
+#EXTINF:-1 group-title="Липецк" tvg-id="pervy",Первый (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="rossia1",Россия 1 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="match-tv",Матч ТВ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="ntv",НТВ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="5kanal-ru",Пятый (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="kultura",Россия К (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="rossia-24",Россия 24 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="karusel",Карусель (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="otr",ОТР (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="tvcentr",ТВ Центр (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="rentv",РЕН ТВ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="sts",СТС (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="domashny",Домашний (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="tv3-ru",ТВ-3 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="piatnica",Пятница! (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="zvezda",Звезда (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="tnt",ТНТ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="che",Че! (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="yu",Ю (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Липецк",Елец ТВ (Елец)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_ELETS/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="lipeck24",Липецк 24 (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_LIPTIME/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="vot-tv",ВОТ ТВ (Липецк)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="Липецк" tvg-id="lipeckoe-vremia",Липецкое время 24 (Липецк)
 
 
 
