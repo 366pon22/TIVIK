@@ -8158,55 +8158,49 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="oxota-i-rybalka", Охота и рыбалка
+http://193.25.8.59:8000/ohota
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
+http://46.53.208.4:80/live/244.m3u8
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка", Дикий охота и рыбалка
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка",Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzc2MTg2NTEsImlhdCI6MTc3NzUzMjI1MSwiY2lkIjo2LCJ1aWQiOjEwMzg0NjA4MjQsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sySogAYYVSRNaL7an74UoKmKux9Ig8z3l9oKRPxk_fU&offset=10
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и Рыбалка
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
+http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzUzMjEzMSwiZXhwIjoxNzc3NjE4NTMxLCJpYXQiOjE3Nzc1MzIxMzEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.OemqgESqiMbW96yVOVdimvAu2bBGBwqcfx3dMLGgRgU
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
+http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzUzMjEzMSwiZXhwIjoxNzc3NjE4NTMxLCJpYXQiOjE3Nzc1MzIxMzEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.OemqgESqiMbW96yVOVdimvAu2bBGBwqcfx3dMLGgRgU
+
+EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и Рыбалка
 http://37.46.49.14:18010/play/a02u/index.m3u8
 
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Рыбалка и охота
-http://46.53.208.4:80/live/244-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и рыбалка
+http://193.25.8.59:8000/ohota
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Дикая Рыбалка HD
-http://46.53.208.4:80/live/2324-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и рыбалка
+http://tv.ttk.mx:9034
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Дикая охота HD
-http://46.53.208.4:80/live/2325-req_offset_28000000-req_window_0-1k_v5.m3u8
-
-
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10176/logo_256_1658737516.png", Рыболов
+#EXTINF:-1 group-title="🐟 Охота и рыбалка)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png", Охота и рыбалка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/mNiBVc5ArBjs1D9DQxR8Vw,1777100255/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/ViNml6Da4fXAityKEwQDPQ,1777618640/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка)" ,Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzc2MTg2NTEsImlhdCI6MTc3NzUzMjI1MSwiY2lkIjo2LCJ1aWQiOjEwMzg0NjA4MjQsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sySogAYYVSRNaL7an74UoKmKux9Ig8z3l9oKRPxk_fU&offset=10
 
 
 
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/-A9-KhZUS6yMCyxeLdJPzA,1777100255/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/gvxGloXr8WIRJRV6nf78Ig,1777100255/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Диалоги о рыбалке
-http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzcxMDAyNjIsImlhdCI6MTc3NzAxMzg2MiwiY2lkIjo2LCJ1aWQiOjEwMzYzNjA3OTksInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzc5LCJhZHVsdCI6ZmFsc2V9.txDYkBrdpxiwbeR_3vEQxd4j7ZD6ajsxEBJgQAe_fP0&offset=10
-
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=w7XFm3naW396l4r7dUMIoA&e=2075285559&scheme=https
-
-
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png", Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/vItbeLyD21vpCT2ZGNSTYg,1777143463/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Азербайджан",Konul Tv
