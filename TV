@@ -8164,21 +8164,16 @@ http://193.25.8.59:8000/ohota
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
 http://46.53.208.4:80/live/244.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка", Дикий охота и рыбалка
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка",Охота и Рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzc2MTg2NTEsImlhdCI6MTc3NzUzMjI1MSwiY2lkIjo2LCJ1aWQiOjEwMzg0NjA4MjQsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sySogAYYVSRNaL7an74UoKmKux9Ig8z3l9oKRPxk_fU&offset=10
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
 http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzUzMjEzMSwiZXhwIjoxNzc3NjE4NTMxLCJpYXQiOjE3Nzc1MzIxMzEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.OemqgESqiMbW96yVOVdimvAu2bBGBwqcfx3dMLGgRgU
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и рыбалка
-http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3NzUzMjEzMSwiZXhwIjoxNzc3NjE4NTMxLCJpYXQiOjE3Nzc1MzIxMzEsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.OemqgESqiMbW96yVOVdimvAu2bBGBwqcfx3dMLGgRgU
 
 EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и Рыбалка
 http://37.46.49.14:18010/play/a02u/index.m3u8
@@ -8196,8 +8191,6 @@ http://tv.ttk.mx:9034
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/ViNml6Da4fXAityKEwQDPQ,1777618640/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка)" ,Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Nzc2MTg2NTEsImlhdCI6MTc3NzUzMjI1MSwiY2lkIjo2LCJ1aWQiOjEwMzg0NjA4MjQsInJlZyI6ZmFsc2UsImlwIjozNzQ2MjUyNCwiYWR1bHQiOmZhbHNlfQ.sySogAYYVSRNaL7an74UoKmKux9Ig8z3l9oKRPxk_fU&offset=10
 
 
 
