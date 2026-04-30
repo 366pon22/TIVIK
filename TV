@@ -47,9 +47,9 @@ https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=4N
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/126/logo_256_1655445109.png", СТС HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/dJeTLokuYSTvdyXuCQ1BFQ,1777143460/streaming/stsott/324/5/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📺Эфирные HD" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+#EXTVLCOPT:http-user-agent=KizugTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rentv", Рен ТВ HD
