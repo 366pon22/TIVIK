@@ -77,8 +77,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/78/logo_256_1655391637.png", Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/0yGNw5U0KgAIT_cfdK1XkA,1777143462/streaming/karusel/324/5/tracks-v5a1/mono.m3u8
