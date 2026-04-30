@@ -1974,113 +1974,129 @@ https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" tvg-id="no_epg",DTR ZONA 1 (HD)
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="dtr" tvg-logo="https://kino-stream.online/logo/logo.png" tvg-id="no_epg",DTR ZONA 1 (HD)
 https://kino-stream.online/hls/DTRZONA1.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png", Твоё ТВ - Юмор 
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png", Твоё ТВ - Юмор 
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="tnt4" tvg-logo="http://www.oreol.tv/img/tht4.jpg", ТНТ4 HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://static.tildacdn.com/tild6137-6531-4963-b232-343232333364/NIK-logo.png", Новый Игровой Канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="sarafan" , Сарафан
-http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово", Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://kino-static.tricolor.ru/media/v2/2272fd2e-446c-4960-bfa2-7dd31b55a029",Клуб юмора
-https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="tnt4" tvg-logo="http://www.oreol.tv/img/tht4.jpg", ТНТ4 HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ", КВН ТВ
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="sarafan" , Сарафан
+http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
+
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://kino-static.tricolor.ru/media/v2/2272fd2e-446c-4960-bfa2-7dd31b55a029",Клуб юмора
+https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
+
+#EXTINF:-1 group-title="🎉Развлекалово", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg" tvg-id="no_epg",НТВ Ты супер!
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg" tvg-id="no_epg",НТВ Ты супер!
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ
-https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ
+https://fl1003.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ 2
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://psv4.userapi.com/s/v1/d2/Vt5PnEwTvb7LM0890HnS9dornk3putWB16GmqYAHsCqAe3bUtu3eGXFpndvNKtxUfPzSBjl6O3SSo-U8DDkn4PYG9V7iEDK5oe1k41T1h4GLiZ6zHev1-aSxOHpSD7c-QQfNgvVI7ILj/kinozal.png", ЗАЛИПАТЕЛЬНЫЕ_РОЛИКИ 2
 https://30a-tv.com/feeds/720p/63.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://sun9-77.userapi.com/impg/SHJF8Y3fdvsJlgXf-ZVufeVPMnTr26jdOCwi1g/JRZBDGv4icA.jpg?size=800x450&quality=95&keep_aspect_ratio=1&background=000000&sign=ed00a59c010cb353fa2df18a6609a021&type=video_thumb" tvg-id="no_epg",D-TV6
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://sun9-77.userapi.com/impg/SHJF8Y3fdvsJlgXf-ZVufeVPMnTr26jdOCwi1g/JRZBDGv4icA.jpg?size=800x450&quality=95&keep_aspect_ratio=1&background=000000&sign=ed00a59c010cb353fa2df18a6609a021&type=video_thumb" tvg-id="no_epg",D-TV6
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 
-#EXTINF:-1  group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="gags-network", Gags Network
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1  group-title="🎉Развлекалово" tvg-id="gags-network", Gags Network
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1  group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="gags-network", Gags Network
+#EXTINF:-1  group-title="🎉Развлекалово" tvg-id="gags-network", Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
 http://46.53.208.4:80/live/971.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.imgur.com/On6ggLe.png", Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ", Че!
-https://stream-msk-18.ott.tricolor.tv/dtv/id1044_MSKSG-PVR-1--CHE_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово", Че!
+https://stream-msk-18.ott.tricolor.tv/dtv/id1044_MSKSG-PVR-1--CHE_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://i.ibb.co/VQLyshj/2.jpg", Че! (+2)
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.ibb.co/VQLyshj/2.jpg", Че! (+2)
 #EXTVLCOPT:http-user-agent=KizugTV
 http://s91412.cdn.ngenix.net/mdrm/CH_CHE_2/variant.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://i.ibb.co/n6TMzb5/4.jpg", Че! (+4)
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://i.ibb.co/n6TMzb5/4.jpg", Че! (+4)
 #EXTVLCOPT:http-user-agent=KizugTV
 http://s91412.cdn.ngenix.net/mdrm/CH_CHE_4/variant.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-logo="https://mt.media/upload/iblock/619/619b4d955a42abdc4ff53125b1ceeaad.png", Анекдот ТВ
-http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-logo="https://mt.media/upload/iblock/619/619b4d955a42abdc4ff53125b1ceeaad.png", Анекдот ТВ
+http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ", Плюс Минус 16
-https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово", Плюс Минус 16
+https://live-mirror-19.ott.tricolor.tv/dtv/id1010_MSKSG-PVR-1--russian_ship_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="womens-magazine", Women's Magazine
-https://stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1--WomensMagazine_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="womens-magazine", Women's Magazine
+https://stream-msk-20.ott.tricolor.tv/dtv/id1020_MSKSG-PVR-1--WomensMagazine_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="U" tvg-logo="http://www.oreol.tv/img/027_u.jpg", Ю ТВ
-https://stream-msk-08.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="U" tvg-logo="http://www.oreol.tv/img/027_u.jpg", Ю ТВ
+https://stream-msk-08.ott.tricolor.tv/dtv/id247_MSKSG-PVR-1--U/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="nostalgia" tvg-logo="http://epg.it999.ru/img/783.png", Ностальгия
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="nostalgia" tvg-logo="http://epg.it999.ru/img/783.png", Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ", TVM Channel
-http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово", TVM Channel
+http://stream-msk-11.ott.tricolor.tv/dtv/id655_MSKSG-PVR-1--TVMChannel/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ", Калейдоскоп ТВ
-https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
+#EXTINF:-1 group-title="🎉Развлекалово", Калейдоскоп ТВ
+https://stream-msk-08.ott.tricolor.tv/dtv/id862_MSKSG-PVR-1--Kaleydoskop/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="teledom", Теледом HD
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="teledom", Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-yapic/43978/FDASnmS3H4aHTrxdR4kjaSg-1/orig", GAMEPLAY
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/get-yapic/43978/FDASnmS3H4aHTrxdR4kjaSg-1/orig", GAMEPLAY
+https://fl1003.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://supergeekdesigns.com/cdn/shop/files/logo_2022_99112479-2c2a-4b76-b1b8-d7c345d72591_300x.png?v=1649069414",Unique TV Supergeek
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://supergeekdesigns.com/cdn/shop/files/logo_2022_99112479-2c2a-4b76-b1b8-d7c345d72591_300x.png?v=1649069414",Unique TV Supergeek
 http://pop.uniquetv.com.br/supergeek/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg", Gameplay трейлеры
-https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://i.pinimg.com/736x/41/58/86/41588635ad796b5237698a0003dbf5e9.jpg", Gameplay трейлеры
+https://fl1003.bozztv.com/ushba44/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/TOB9vmW.png", AFV 
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/TOB9vmW.png", AFV 
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://i.ibb.co/0pGZ1pW3/Screenshot-1.jpg", Petsami (Домашние животные)
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://i.ibb.co/0pGZ1pW3/Screenshot-1.jpg", Petsami (Домашние животные)
 https://fl1004.bozztv.com/ushba11/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://i.ibb.co/hMzzf2r/Screenshot-1.png", AMAZING SHOW
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://i.ibb.co/hMzzf2r/Screenshot-1.png", AMAZING SHOW
 http://49.0.64.96:8007/AMAZING
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/702_3bc5163aaf05103f8ed7270cd7536e12.png", PetClub
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/702_3bc5163aaf05103f8ed7270cd7536e12.png", PetClub
 https://glb.bozztv.com/glb/ushba20/index.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/American_Ninja_Warrior_Logo.jpg", American Ninja Warrior
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/American_Ninja_Warrior_Logo.jpg", American Ninja Warrior
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/mnau-tv.png",MNAU TV
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://www.poda.cz/wp-content/uploads/2023/02/mnau-tv.png",MNAU TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="🎉РАЗВЛЕКАТЕЛЬНЫЕ" tvg-id="no_epg" tvg-logo="https://centergoroda.com/upload/iblock/fb8/8ggo08x454jp9flmutkcrtmxb06mdhh5/500_500-rkh.png",Столото ТВ
+#EXTINF:-1 group-title="🎉Развлекалово" tvg-id="no_epg" tvg-logo="https://centergoroda.com/upload/iblock/fb8/8ggo08x454jp9flmutkcrtmxb06mdhh5/500_500-rkh.png",Столото ТВ
 http://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
