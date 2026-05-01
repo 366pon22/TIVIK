@@ -6986,7 +6986,8 @@ http://tv.ttk.mx:9034
 #EXTINF:-1 group-title="🐟 Охота и рыбалка",ДИКАЯ ОХОТА HD1
 http://46.53.208.4:80/live/2325.m3u8
 
-
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и Рыболов HD1
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 
 
