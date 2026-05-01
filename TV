@@ -1885,6 +1885,7 @@ http://user10573.clients-cdnnow.ru/hls/user67240_1_1080p/index.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="no_epg" group-title="⚡Познавательные" tvg-logo="https://tmsearch.onlinepatent.ru/images/416/41695e86-981b-4774-8911-2a3fc4fd829c.jpg", Дачная жизнь
 https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
 
@@ -2402,6 +2403,8 @@ http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 #EXTINF:-1 group-title="⚡Познавательные",ANIMAUX
 http://145.239.5.177/314/index.m3u8
+
+
 
 
 
