@@ -146,21 +146,6 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/_L2ySHRoL-eXqKthwnihSQ,1776759415/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", ДИКАЯ ОХОТА HD
-http://46.53.208.4:80/live/2325.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="oxota-i-rybalka", РЫБАЛКА И ОХОТА HD
-http://46.53.208.4:80/live/244.m3u8
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺Эфирные HD",Диалоги о рыбалке
-http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzYyMzU4NjYsImlhdCI6MTc3NjE0OTQ2NiwiY2lkIjo2LCJ1aWQiOjEwMzI1NTUxMDgsInJlZyI6ZmFsc2UsImlwIjo3NjQ4ODY3NDcsImFkdWx0IjpmYWxzZX0.p6vXb4soh9jyaXmFwFTRXTw4W6qATc5gvGPq9lvkV-I&offset=10
 
 
 
@@ -171,8 +156,6 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD" ,Рыболов
-https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
 
 
 
