@@ -7699,6 +7699,11 @@ http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="no_epg", 555 Hunt Fishing TV
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="no_epg", 555 Hunt Fishing TV HD
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 
 
 
