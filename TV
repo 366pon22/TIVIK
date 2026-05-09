@@ -7648,13 +7648,10 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" ,Охота и Рыбалка
-http://37.46.49.14:18010/play/a02u/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и Рыболов HD1
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
@@ -7679,6 +7676,11 @@ https://mhd128.iptv2022.com/p/3KYZ3s87TAOUulLrDYo_BQ,1778352902/streaming/dikiy/
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png", Дикая охота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/b-WgaiEWwN_195UlvnsfKA,1778352902/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и Рыболов HD1
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+
 
 
 
