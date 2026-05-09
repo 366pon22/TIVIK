@@ -7672,8 +7672,13 @@ https://mhd128.iptv2022.com/p/GAtMVVjEL1-Xdn7_bjJ-bg,1778352902/streaming/oribal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/Ge4TKhq0qXWhuq7vm7Jeaw,1778352902/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png", Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/3KYZ3s87TAOUulLrDYo_BQ,1778352902/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
 
-
+#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png", Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/b-WgaiEWwN_195UlvnsfKA,1778352902/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 
 
 
