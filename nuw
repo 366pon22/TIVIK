@@ -1,0 +1,58 @@
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикая рыбалка HD
+http://hls.stb.md/DIKAYARIBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикий
+http://hls.stb.md/DIKYI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Живи!
+http://hls.stb.md/JIVI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Охота и рыбалка
+#EXTINF:-1 group-title="IZONE", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 group-title="Turon Media",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Цитадель-Крым (VPN)",Охота и рыбалка
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png", Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/wyh5C_oO_2JpOiieADJrCg,1778352902/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/GAtMVVjEL1-Xdn7_bjJ-bg,1778352902/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/Ge4TKhq0qXWhuq7vm7Jeaw,1778352902/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Охота и рыбалка
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzgzNTI5MDksImlhdCI6MTc3ODI2NjUwOSwiY2lkIjo2LCJ1aWQiOjEwNDE3NTA0ODYsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.oViUJbBkHC0mV4VI13h3P6_hkSlBh9EcSiIV6LrHmGw&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Диалоги о рыбалке
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzgzNTI5MDksImlhdCI6MTc3ODI2NjUwOSwiY2lkIjo2LCJ1aWQiOjEwNDE3NTA0ODYsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.oViUJbBkHC0mV4VI13h3P6_hkSlBh9EcSiIV6LrHmGw&offset=10
+#EXTINF:-1 group-title="Сайт (VPN🇷🇺)",Охота и рыбалка
+http://193.25.8.59:8000/ohota
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Диалоги о Рыбалке
+https://livetv-app.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикая рыбалка HD
+http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикая охота HD
+http://127.0.0.1:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Дикий
+http://127.0.0.1:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Диалоги о рыбалке HD
+http://127.0.0.1:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Глазами туриста HD
+http://127.0.0.1:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Охотник и Рыболов HD
+http://127.0.0.1:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
+
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикая рыбалка HD
+http://hls.stb.md/DIKAYARIBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикий
+http://hls.stb.md/DIKYI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Живи!
+http://hls.stb.md/JIVI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Охота и рыбалка
+http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Охотник и рыболов HD
+http://hls.stb.md/OHOTNIK_IRIBALOV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" catchup="append" catchup-days="7" catchup-type="flussonic",TLC
+http://hls.stb.md/DISCOVERY_TLC_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
