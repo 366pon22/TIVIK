@@ -56,3 +56,39 @@ http://hls.stb.md/OKHOTAIRYBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5c
 http://hls.stb.md/OHOTNIK_IRIBALOV_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
 #EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" catchup="append" catchup-days="7" catchup-type="flussonic",TLC
 http://hls.stb.md/DISCOVERY_TLC_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+
+
+
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикая охота HD
+http://hls.stb.md/DIKAYAOHOTA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикая рыбалка HD
+http://hls.stb.md/DIKAYARIBALKA_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+#EXTINF:-1 group-title="StarNet (VPN 🇳🇱)" ,Дикий
+http://hls.stb.md/DIKYI_H264/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjEwOS4yMDEuMTUyLjE4MSIsIm5iZiI6MTc3ODI2NTkwNiwiZXhwIjoxNzc4MzUyMzA2LCJpYXQiOjE3NzgyNjU5MDYsImlzcyI6InN0Yi5zdGFybmV0Lm1kIn0.3KOvk2-jaDh19pefPcpSFQNNeuz37QM7UETMctpQyzI
+
+
+#EXTINF:-1 group-title="IZONE", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+
+#EXTINF:-1 group-title="Cloudflare_Inc!",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)", Дикий 
+https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
+
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png", Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/3KYZ3s87TAOUulLrDYo_BQ,1778352902/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png", Дикая охота HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/b-WgaiEWwN_195UlvnsfKA,1778352902/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
+https://mhd128.iptv2022.com/p/Ge4TKhq0qXWhuq7vm7Jeaw,1778352902/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
+
+https://mhd128.iptv2022.com/p/Ge4TKhq0qXWhuq7vm7Jeaw,1778352902/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
