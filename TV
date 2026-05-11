@@ -7603,46 +7603,33 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png", Охота и рыбалка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/wyh5C_oO_2JpOiieADJrCg,1778352902/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png", Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/GAtMVVjEL1-Xdn7_bjJ-bg,1778352902/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/Ge4TKhq0qXWhuq7vm7Jeaw,1778352902/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png", Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/3KYZ3s87TAOUulLrDYo_BQ,1778352902/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png", Дикая охота HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/b-WgaiEWwN_195UlvnsfKA,1778352902/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Охотник и Рыболов HD1
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Наша Тема HD
-http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzgzOTU2NTQsImlhdCI6MTc3ODMwOTI1NCwiY2lkIjo2LCJ1aWQiOjEwNDE4ODI5MTMsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.n1fyuKaL-lB-sxwVBu_He_zyyf-CoHG6cYluy8RGM3Q&offset=10
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка", Рыболов
-https://stream-msk-13.ott.tricolor.tv/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🐟 Охота и рыбалка", Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="no_epg", 555 Hunt Fishing TV
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="🐟 Охота и рыбалка" ,Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-id="no_epg", 555 Hunt Fishing TV HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-
-
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Наша Тема HD
+http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzgzOTU2NTQsImlhdCI6MTc3ODMwOTI1NCwiY2lkIjo2LCJ1aWQiOjEwNDE4ODI5MTMsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.n1fyuKaL-lB-sxwVBu_He_zyyf-CoHG6cYluy8RGM3Q&offset=10
 
 
 
