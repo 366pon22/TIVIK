@@ -3,310 +3,6 @@
 
 
 
-#EXTINF:-1 group-title="📺Эфирные HD",Первый канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", Россия 24
-#EXTVLCOPT:http-user-agent=KizugTV
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 group-title="📺Эфирные HD",Матч! HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-
-
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="📺Эфирные HD" ,Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
-https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📺Эфирные HD" ,Ю HD
-https://cdn-01.bonus-tv.ru/u/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",НТВ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=4NInkPEWtVNOxGrXaVE1eA&e=2075285551&scheme=https
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" ,Москва 24
-https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", СТС HD
-http://live-stream-01.ott.tricolor.tv/live/live/STS_0_hd/hls_enc/STS_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODk0MDI4OCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc4MzM1NDg4LCJzZXNzaW9uX2lkIjoiNjczYzkyMGRkODI4OTZjODQxMmRhNTJmN2UyZmM3YmQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.mTuN_DNWYDsHDgBWn6yFFtaK6LGz59xu5w32vjxPlfo
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rentv", Рен ТВ HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
-
-
-
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=RYU4HEkhMrd2kBeYqOjCQg&e=2065265024&scheme=https
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",ТВ3 HD
-https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/78/logo_256_1655391637.png", Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/0yGNw5U0KgAIT_cfdK1XkA,1777143462/streaming/karusel/324/5/tracks-v5a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ЗВЕЗДА", Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="📺Эфирные HD" ,Че!
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="МИР", МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/93/logo_256_1655386660.png", Муз ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/Y_h6krFFHBs9BEczBpimJw,1776759416/streaming/muztv/324/5/tracks-v5a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="360 Новости", 360 Новости HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="rbk", РБК HD
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="super" tvg-logo="https://iptvx.one/picons/subbota.png" group-title="📺Эфирные HD" ,Суббота
-#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="ТВЦ", ТВ Центр HD
-https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzExMDUzNiwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc2NTA1NzM2LCJzZXNzaW9uX2lkIjoiMDJjZTEyYzFkMGI1ZWI3ZjQxYzE0ZDlhMjVmZDcyOTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.QkN_faUQcTxMB1w4Fn9FfIpLgDmHh0iEsd-B9PiAdJA
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",RTG HD
-http://46.53.208.4:80/live/1406.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Приключения
-https://s06.watcher.uz/140/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="📺Эфирные HD",Глазами Туриста
-https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-id="360-podmoskovie", 360 ru HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Охотник и Рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="📺Эфирные HD" ,Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/101/logo_256_1655445073.png", ОТР HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/KKWGNmsFQMHOBw5CqFC8WQ,1774256454/streaming/otr/324/5/tracks-v5a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD" ,Россия К
-http://live-mirror-01.ottgoods.ru/live/live/rossia_k/hls_enc/rossia_k-mp4a_59200_rus=20000-avc1_6000000=10004.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NTg5NjYwOCwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc1MjkxODA4LCJzZXNzaW9uX2lkIjoiMTVkNzYyNzdhNjAxZDEzZDNjMTY3MTg0MWVkODdlNmIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.p9Q6mIKW_5-4SeMgRSYtk8hn1ODTzpAu5moG5iwYdQw
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", РОССИЯ КУЛЬТУРА
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="📺Эфирные HD",ВМЕСТЕ:РФ HD
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD", ПЯТЫЙ КАНАЛ HD
-https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3ODMyODgwMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3NzI0MDAzLCJzZXNzaW9uX2lkIjoiMjQyZTkxYjgwOWExOWIxZDZhNTFkMTA1YjMxY2ZjMDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.YRA1asCEpfiC4DDaKfhq3G2TRy-drrdTfdO7KaF6YJQ
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Моя Планета HD
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",365 Дней HD
-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Тайны галактики HD
-http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Дом Кино Премиум HD
-http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",ТВЦ HD
-http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Удар HD
-http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="1hd" tvg-logo="http://epg.one/img2/1hd.png" group-title="📺Эфирные HD", 1HD Music
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-
-
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="📺Эфирные HD" ,ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",ТНТ Music HD
-http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="📺Эфирные HD",Старт Триумф HD
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-
-#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="📺Эфирные HD" ,RTД HD
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-
-#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="📺Эфирные HD",ВМЕСТЕ:РФ HD
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",Viju TV1000 Новелла HD
-http://46.53.208.4:80/live/545.m3u8
-
-#EXTINF:-1 group-title="📺Эфирные HD",Кинопоказ HD
-http://46.53.208.4:80/live/285.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📺Эфирные HD",RU.TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lACZChjXNHG-ZPxg450PAw&e=2074079873&scheme=https
-
-
-
-
-#EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="📺Эфирные HD",Загородный Int. HD
-http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="📺Эфирные HD" ,Живая Планета
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="📺Эфирные HD" ,TERRA
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="📺Эфирные" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
@@ -7637,17 +7333,51 @@ https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
 
 #EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="🐟 Охота и рыбалка", Диалоги о рыбалке1
 http://ottlinks.club/low/mbdapn76zt/267.m3u8
+#EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Мужской
 http://ottlinks.club/low/mbdapn76zt/269.m3u8
+#EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Наша Тема
 http://ottlinks.club/low/mbdapn76zt/270.m3u8
+#EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Оружие
 http://ottlinks.club/low/mbdapn76zt/271.m3u8
+#EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охота и Рыбалка2
 http://ottlinks.club/low/mbdapn76zt/272.m3u8
+#EXTGRP:🐟 Охота и рыбалка
+
 #EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов2
 http://ottlinks.club/low/mbdapn76zt/273.m3u8
+#EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
+http://ottlinks.club/low/mbdapn76zt/274.m3u8
+#EXTGRP:🐟 Охота и рыбалка
+
+
+http://ottlinks.club/low/mbdapn76zt/266.m3u8
+#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Мужские", Диалоги о рыбалке
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/267.m3u8
+#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Мужской
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/269.m3u8
+#EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Наша Тема
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/270.m3u8
+#EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Оружие
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/271.m3u8
+#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охота и Рыбалка
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/272.m3u8
+#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охотник и рыболов
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/273.m3u8
+#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охотник и рыболов HD
+
+
+
 
 
 
