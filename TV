@@ -7635,6 +7635,25 @@ https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
 #EXTINF:-1 group-title="🐟 Охота и рыбалка",VF Рыбалка
 https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
 
+#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="🐟 Охота и рыбалка", Диалоги о рыбалке1
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/267.m3u8
+#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Мужской
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/269.m3u8
+#EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Наша Тема
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/270.m3u8
+#EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Оружие
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/271.m3u8
+#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охота и Рыбалка2
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/272.m3u8
+#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/273.m3u8
+#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
 
 
 
