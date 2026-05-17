@@ -681,8 +681,8 @@ http://ottlinks.club/low/mbdapn76zt/146.m3u8
 #EXTINF:0 tvg-id="149" tvg-logo="http://epg.cdntv.online/img/149.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Детский мир
 #EXTGRP:Детские
 http://ottlinks.club/low/mbdapn76zt/149.m3u8
-#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Плюсовые", Карусель (+4)
-#EXTGRP:Плюсовые
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Детские", Карусель (+4)
+#EXTGRP:Детские
 http://ottlinks.club/low/mbdapn76zt/152.m3u8
 #EXTINF:0 tvg-id="153" tvg-logo="http://epg.cdntv.online/img/153.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", МУЛЬТ
 #EXTGRP:Детские
