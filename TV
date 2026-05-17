@@ -711,7 +711,7 @@ http://ottlinks.club/low/mbdapn76zt/164.m3u8
 #EXTINF:0 tvg-id="165" tvg-logo="http://epg.cdntv.online/img/165.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
 http://ottlinks.club/low/mbdapn76zt/165.m3u8
-#EXTINF:0 tvg-id="166" tvg-logo="http://epg.cdntv.online/img/166.png" group-title="Плюсовые", 2x2 (+4)
+#EXTINF:0 tvg-id="166" tvg-logo="http://epg.cdntv.online/img/166.png" group-title="Детские", 2x2 (+4)
 
 #EXTINF:0 tvg-id="480" tvg-logo="http://epg.cdntv.online/img/480.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Boomerang
 #EXTGRP:Детские
@@ -5514,139 +5514,6 @@ http://46.32.176.50/karusel/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Сайт (VPN)",НТВ Хит
-http://193.25.8.59:8000/Paramount
-#EXTINF:-1 group-title="Сайт (VPN)",Россия К
-http://193.25.8.59:8000/rossiak
-#EXTINF:-1 group-title="Сайт (VPN)",Рен ТВ
-http://193.25.8.59:8000/ren
-#EXTINF:-1 group-title="Сайт (VPN)",ТНТ4
-http://193.25.8.59:8000/tntcomedy
-#EXTINF:-1 group-title="Сайт (VPN)",Galaxy TV
-http://193.25.8.59:8000/galaxy
-#EXTINF:-1 group-title="Сайт (VPN)",История
-http://193.25.8.59:8000/History
-#EXTINF:-1 group-title="Сайт (VPN)",
-http://193.25.8.59:8000/ohota
-#EXTINF:-1 group-title="Сайт (VPN)",Моя планета
-http://193.25.8.59:8000/myplanet
-#EXTINF:-1 group-title="Сайт (VPN)",Terra
-http://193.25.8.59:8000/natgeo
-#EXTINF:-1 group-title="Сайт (VPN)",Viasat Nature
-http://193.25.8.59:8000/nature
-#EXTINF:-1 group-title="Сайт (VPN)",Наука 2.0
-http://193.25.8.59:8000/nauka
-#EXTINF:-1 group-title="Сайт (VPN)",RTG HD
-http://193.25.8.59:8000/rtg
-#EXTINF:-1 group-title="Сайт (VPN)",Пятый канал
-http://193.25.8.59:8000/5
-#EXTINF:-1 group-title="Сайт (VPN)",Поехали!
-http://193.25.8.59:8000/360
-#EXTINF:-1 group-title="Сайт (VPN)",DocuBox
-http://193.25.8.59:8000/24Doc
-#EXTINF:-1 group-title="Сайт (VPN)", 2x2
-http://193.25.8.59:8000/2x2
-#EXTINF:-1 group-title="Сайт (VPN)",Amedia 1
-http://193.25.8.59:8000/amedia1
-#EXTINF:-1 group-title="Сайт (VPN)",Amedia 2
-http://193.25.8.59:8000/amedia2
-#EXTINF:-1 group-title="Сайт (VPN)",Fast & FunBox
-http://193.25.8.59:8000/Avto24
-#EXTINF:-1 group-title="Сайт (VPN)",Беларусь 24
-http://193.25.8.59:8000/belarus24
-#EXTINF:-1 group-title="Сайт (VPN)",Домашний
-http://193.25.8.59:8000/dom
-#EXTINF:-1 group-title="Сайт (VPN)",Дом Кино
-http://193.25.8.59:8000/domkino
-#EXTINF:-1 group-title="Сайт (VPN)",Драйв
-http://193.25.8.59:8000/drive
-#EXTINF:-1 group-title="Сайт (VPN)",Еврокино
-http://193.25.8.59:8000/eurokino
-#EXTINF:-1 group-title="Сайт (VPN)",СТС
-http://193.25.8.59:8000/ESPN
-#EXTINF:-1 group-title="Сайт (VPN)",Кинеко
-http://193.25.8.59:8000/fox
-#EXTINF:-1 group-title="Сайт (VPN)",Hollywood
-http://193.25.8.59:8000/interaz
-#EXTINF:-1 group-title="Сайт (VPN)",Мир 24
-http://193.25.8.59:8000/mir24
-#EXTINF:-1 group-title="Сайт (VPN)",Мир сериала
-http://193.25.8.59:8000/mirseriala
-#EXTINF:-1 group-title="Сайт (VPN)",Мир
-http://193.25.8.59:8000/mir
-#EXTINF:-1 group-title="Сайт (VPN)",Москва 24
-http://193.25.8.59:8000/moskva24
-#EXTINF:-1 group-title="Сайт (VPN)",Мужской
-http://193.25.8.59:8000/muzhskoy
-#EXTINF:-1 group-title="Сайт (VPN)",НСТ
-http://193.25.8.59:8000/nst
-#EXTINF:-1 group-title="Сайт (VPN)",Усадьба
-http://193.25.8.59:8000/usadba
-#EXTINF:-1 group-title="Сайт (VPN)",ОТР
-http://193.25.8.59:8000/otr
-#EXTINF:-1 group-title="Сайт (VPN)",Точка Отрыва
-http://193.25.8.59:8000/outdoor
-#EXTINF:-1 group-title="Сайт (VPN)",Че
-http://193.25.8.59:8000/perec
-#EXTINF:-1 group-title="Сайт (VPN)",Пятница
-http://193.25.8.59:8000/pyatnitsa
-#EXTINF:-1 group-title="Сайт (VPN)",РБК
-http://193.25.8.59:8000/RBK
-#EXTINF:-1 group-title="Сайт (VPN)",Ретро
-http://193.25.8.59:8000/retro
-#EXTINF:-1 group-title="Сайт (VPN)",Русский роман
-http://193.25.8.59:8000/rusroman
-#EXTINF:-1 group-title="Сайт (VPN)",.Red
-http://193.25.8.59:8000/set
-#EXTINF:-1 group-title="Сайт (VPN)",.Sci-Fi
-http://193.25.8.59:8000/axn
-#EXTINF:-1 group-title="Сайт (VPN)",Союз
-http://193.25.8.59:8000/soyuz
-#EXTINF:-1 group-title="Сайт (VPN)",Спас
-http://193.25.8.59:8000/spas
-#EXTINF:-1 group-title="Сайт (VPN)",Театр
-http://193.25.8.59:8000/teatr
-#EXTINF:-1 group-title="Сайт (VPN)",Телекафе
-http://193.25.8.59:8000/telecafe
-#EXTINF:-1 group-title="Сайт (VPN)",Timeless Dizi Channel
-http://193.25.8.59:8000/tlc
-#EXTINF:-1 group-title="Сайт (VPN)",Мосфильм. Золотая коллекция
-http://193.25.8.59:8000/tnv
-#EXTINF:-1 group-title="Сайт (VPN)",Победа
-http://193.25.8.59:8000/tochka
-#EXTINF:-1 group-title="Сайт (VPN)",TV1000
-http://193.25.8.59:8000/TV1000
-#EXTINF:-1 group-title="Сайт (VPN)",TV1000 Русское кино
-http://193.25.8.59:8000/TV1000RU
-#EXTINF:-1 group-title="Сайт (VPN)",ТВ3
-http://193.25.8.59:8000/tv3
-#EXTINF:-1 group-title="Сайт (VPN)",ТВЦ
-http://193.25.8.59:8000/tvc
-#EXTINF:-1 group-title="Сайт (VPN)",Ю
-http://193.25.8.59:8000/u
-#EXTINF:-1 group-title="Сайт (VPN)",Время
-http://193.25.8.59:8000/vremya
-#EXTINF:-1 group-title="Сайт (VPN)",TV XXI
-http://193.25.8.59:8000/XXI
-#EXTINF:-1 group-title="Сайт (VPN)",Зоопарк
-http://193.25.8.59:8000/zoo
-#EXTINF:-1 group-title="Сайт (VPN)",Звезда
-http://193.25.8.59:8000/zvezda
-#EXTINF:-1 group-title="Сайт (VPN)",Карусель
-http://193.25.8.59:8000/karusel
-#EXTINF:-1 group-title="Сайт (VPN)",Бобёр
-http://193.25.8.59:8000/bober
-#EXTINF:-1 group-title="Сайт (VPN)",Европа плюс ТВ
-http://193.25.8.59:8000/vh1
-#EXTINF:-1 group-title="Сайт (VPN)",Bridge TV Шлягер
-http://193.25.8.59:8000/mtv
-#EXTINF:-1 group-title="Сайт (VPN)",Bridge TV Русский Хит
-http://193.25.8.59:8000/rusong
-#EXTINF:-1 group-title="Сайт (VPN)",Музыка первого
-http://193.25.8.59:8000/muzika
-#EXTINF:-1 group-title="Сайт (VPN)",Шансон ТВ
-http://193.25.8.59:8000/shanson
 
 
 
