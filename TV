@@ -1,5 +1,96 @@
 
 
+#EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/1.m3u8
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/29.m3u8
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/2.m3u8
+#EXTINF:0 tvg-id="33" tvg-logo="http://epg.cdntv.online/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 1 HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/33.m3u8
+#EXTINF:0 tvg-id="3" tvg-logo="http://epg.cdntv.online/img/3.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Матч! ТВ
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/3.m3u8
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/4.m3u8
+#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", НТВ HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/360.m3u8
+
+#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/5.m3u8
+#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия К
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/6.m3u8
+#EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Россия 24
+#EXTGRP:Новостные
+http://ottlinks.club/low/mbdapn76zt/7.m3u8
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/8.m3u8
+#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ОТР
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/9.m3u8
+#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/10.m3u8
+#EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/2076.m3u8
+#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/11.m3u8
+#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Рен ТВ HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/388.m3u8
+
+#EXTINF:0 tvg-id="12" tvg-logo="http://epg.cdntv.online/img/12.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Религиозные", Спас
+#EXTGRP:Религиозные
+http://ottlinks.club/low/mbdapn76zt/12.m3u8
+#EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", СТС
+#EXTGRP:Развлекательные
+http://ottlinks.club/low/mbdapn76zt/13.m3u8
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/14.m3u8
+#EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/2077.m3u8
+#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/15.m3u8
+#EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3 HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/1036.m3u8
+#EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", Пятница!
+#EXTGRP:Развлекательные
+http://ottlinks.club/low/mbdapn76zt/16.m3u8
+#EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/17.m3u8
+#EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/1115.m3u8
+
+#EXTINF:0 tvg-id="18" tvg-logo="http://epg.cdntv.online/img/18.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/18.m3u8
+#EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/1352.m3u8
+#EXTINF:0 tvg-id="2293" tvg-logo="http://epg.cdntv.online/img/2293.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/2293.m3u8
+
+
+
+
 
 
 
