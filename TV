@@ -569,7 +569,84 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=Mc
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 
 
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/8.m3u8
 
+
+#EXTINF:0 tvg-id="141" tvg-logo="http://epg.cdntv.online/img/141.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Cartoon Network
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/141.m3u8
+#EXTINF:0 tvg-id="143" tvg-logo="http://epg.cdntv.online/img/143.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Солнце
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/143.m3u8
+#EXTINF:0 tvg-id="145" tvg-logo="http://epg.cdntv.online/img/145.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Nick Jr
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/145.m3u8
+#EXTINF:0 tvg-id="146" tvg-logo="http://epg.cdntv.online/img/146.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Nickelodeon
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/146.m3u8
+#EXTINF:0 tvg-id="149" tvg-logo="http://epg.cdntv.online/img/149.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Детский мир
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/149.m3u8
+#EXTINF:0 tvg-id="152" tvg-logo="http://epg.cdntv.online/img/152.png" group-title="Плюсовые", Карусель (+4)
+#EXTGRP:Плюсовые
+http://ottlinks.club/low/mbdapn76zt/152.m3u8
+#EXTINF:0 tvg-id="153" tvg-logo="http://epg.cdntv.online/img/153.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", МУЛЬТ
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/153.m3u8
+#EXTINF:0 tvg-id="154" tvg-logo="http://epg.cdntv.online/img/154.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Мама
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/154.m3u8
+#EXTINF:0 tvg-id="157" tvg-logo="http://epg.cdntv.online/img/157.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Мультимания
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/157.m3u8
+#EXTINF:0 tvg-id="158" tvg-logo="http://epg.cdntv.online/img/158.png" group-title="Детские", Мультимузыка
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/158.m3u8
+#EXTINF:0 tvg-id="161" tvg-logo="http://epg.cdntv.online/img/161.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Рыжий
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/161.m3u8
+#EXTINF:0 tvg-id="162" tvg-logo="http://epg.cdntv.online/img/162.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", СТС Kids
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/162.m3u8
+#EXTINF:0 tvg-id="163" tvg-logo="http://epg.cdntv.online/img/163.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Сказки зайки
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/163.m3u8
+#EXTINF:0 tvg-id="164" tvg-logo="http://epg.cdntv.online/img/164.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Смайлик ТВ
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/164.m3u8
+#EXTINF:0 tvg-id="165" tvg-logo="http://epg.cdntv.online/img/165.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Советские мультфильмы
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/165.m3u8
+#EXTINF:0 tvg-id="166" tvg-logo="http://epg.cdntv.online/img/166.png" group-title="Плюсовые", 2x2 (+4)
+
+#EXTINF:0 tvg-id="480" tvg-logo="http://epg.cdntv.online/img/480.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Boomerang
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/480.m3u8
+#EXTINF:0 tvg-id="484" tvg-logo="http://epg.cdntv.online/img/484.png" group-title="Детские", В Гостях у сказки HD
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/484.m3u8
+#EXTINF:0 tvg-id="485" tvg-logo="http://epg.cdntv.online/img/485.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Уникум
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/485.m3u8
+#EXTINF:0 tvg-id="488" tvg-logo="http://epg.cdntv.online/img/488.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Радость моя
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/488.m3u8
+
+#EXTINF:0 tvg-id="2188" tvg-logo="http://epg.cdntv.online/img/2188.png" group-title="Детские", КиноМульт
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/2188.m3u8
+#EXTINF:0 tvg-id="2189" tvg-logo="http://epg.cdntv.online/img/2189.png" group-title="Детские", СуперГерои
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/2189.m3u8
+#EXTINF:0 tvg-id="2191" tvg-logo="http://epg.cdntv.online/img/2191.png" group-title="Детские", Лёва
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/2191.m3u8
+
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
+#EXTGRP:Детские
+http://ottlinks.club/low/mbdapn76zt/8.m3u8
 
 
 
