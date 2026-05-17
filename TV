@@ -40,7 +40,14 @@ http://ottlinks.club/low/mbdapn76zt/8.m3u8
 http://ottlinks.club/low/mbdapn76zt/9.m3u8
 #EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр
 #EXTGRP:Федеральные
-http://ottlinks.club/low/mbdapn76zt/10.m3u8
+#EXTINF:0 tvg-id="581" tvg-logo="http://epg.cdntv.online/img/581.png" group-title="Федеральные", Москва 24
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/581.m3u
+
+#EXTINF:0 tvg-id="361" tvg-logo="http://epg.cdntv.online/img/361.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Известия HD
+#EXTGRP:Федеральные
+http://ottlinks.club/low/mbdapn76zt/361.m3u8
+
 #EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ Центр HD
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/2076.m3u8
@@ -88,9 +95,7 @@ http://ottlinks.club/low/mbdapn76zt/18.m3u8
 #EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Мир HD
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/1352.m3u8
-#EXTINF:0 tvg-id="2293" tvg-logo="http://epg.cdntv.online/img/2293.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал HD
-#EXTGRP:Федеральные
-http://ottlinks.club/low/mbdapn76zt/2293.m3u8
+
 
 
 
