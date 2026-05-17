@@ -28,11 +28,11 @@ http://ottlinks.club/low/mbdapn76zt/5.m3u8
 #EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия К
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/6.m3u8
-#EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Новостные", Россия 24
-#EXTGRP:Новостные
+#EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Россия 24
+#EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/7.m3u8
-#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Детские", Карусель
-#EXTGRP:Детские
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Карусель
+#EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/8.m3u8
 #EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ОТР
 #EXTGRP:Федеральные
@@ -50,11 +50,11 @@ http://ottlinks.club/low/mbdapn76zt/11.m3u8
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/388.m3u8
 
-#EXTINF:0 tvg-id="12" tvg-logo="http://epg.cdntv.online/img/12.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Религиозные", Спас
-#EXTGRP:Религиозные
+#EXTINF:0 tvg-id="12" tvg-logo="http://epg.cdntv.online/img/12.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Спас
+#EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/12.m3u8
-#EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", СТС
-#EXTGRP:Развлекательные
+#EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", СТС
+#EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/13.m3u8
 #EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Домашний
 #EXTGRP:Федеральные
@@ -68,8 +68,8 @@ http://ottlinks.club/low/mbdapn76zt/15.m3u8
 #EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", ТВ3 HD
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/1036.m3u8
-#EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", Пятница!
-#EXTGRP:Развлекательные
+#EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятница!
+#EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/16.m3u8
 #EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда
 #EXTGRP:Федеральные
