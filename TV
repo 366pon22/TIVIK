@@ -7312,8 +7312,8 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Рыбалка 
-http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения" ,Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🐟 Охота и рыбалка", Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
@@ -7322,20 +7322,11 @@ https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Qz
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🐟 Охота и рыбалка" ,Наша Тема HD
-http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzgzOTU2NTQsImlhdCI6MTc3ODMwOTI1NCwiY2lkIjo2LCJ1aWQiOjEwNDE4ODI5MTMsInJlZyI6ZmFsc2UsImlwIjo3NjEyNTI4NjAsImFkdWx0IjpmYWxzZX0.n1fyuKaL-lB-sxwVBu_He_zyyf-CoHG6cYluy8RGM3Q&offset=10
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",Диалоги о рыбалке
-https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
 
-#EXTINF:-1 group-title="🐟 Охота и рыбалка",VF Рыбалка
-https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
 
-#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="🐟 Охота и рыбалка", Диалоги о рыбалке1
-http://ottlinks.club/low/mbdapn76zt/267.m3u8
-#EXTGRP:🐟 Охота и рыбалка
-#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Мужской
-http://ottlinks.club/low/mbdapn76zt/269.m3u8
+
+
 #EXTGRP:🐟 Охота и рыбалка
 #EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Наша Тема
 http://ottlinks.club/low/mbdapn76zt/270.m3u8
