@@ -2924,8 +2924,7 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 
 
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Фильмовые",Info
-https://m3u.usite.pro/1/demo.mp4
+
 #EXTINF:-1 group-title="Фильмовые",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2
