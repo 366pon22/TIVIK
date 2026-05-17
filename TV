@@ -7516,25 +7516,25 @@ http://ottlinks.club/low/mbdapn76zt/274.m3u8
 
 
 http://ottlinks.club/low/mbdapn76zt/266.m3u8
-#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Мужские", Диалоги о рыбалке
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Охота и рыбалка", Диалоги о рыбалке
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/267.m3u8
-#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Мужской
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Мужской
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/269.m3u8
-#EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Наша Тема
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="270" tvg-logo="http://epg.cdntv.online/img/270.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Наша Тема
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/270.m3u8
-#EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Оружие
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="271" tvg-logo="http://epg.cdntv.online/img/271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Оружие
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/271.m3u8
-#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охота и Рыбалка
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Охота и Рыбалка
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/272.m3u8
-#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охотник и рыболов
-#EXTGRP:Мужские
+#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Охотник и рыболов
+#EXTGRP:Охота и рыбалка
 http://ottlinks.club/low/mbdapn76zt/273.m3u8
-#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охотник и рыболов HD
+#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Охота и рыбалка", Охотник и рыболов HD
 
 
 
