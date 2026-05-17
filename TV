@@ -2356,7 +2356,7 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://i.ibb.co/pjMWxZB8/image-28.png",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="Беларусь 5", Беларусь 5
+#EXTINF:-1 group-title="🏆Спорт" tvg-id=" 5", Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🏆Спорт" tvg-id="Беларусь 5", Беларусь 5 HD
@@ -7571,28 +7571,10 @@ http://185.57.68.33/240/index.m3u8
 
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ2 (Могилёв)
-http://46.53.208.4:80/live/1013.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Муви ТВ
-http://nat6-minsk-pool-46-53-208-4.telecom.by/live/5007.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",NOVELLA TV
-http://46.53.208.4:80/live/1205.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛ МУЗ ТВ
-http://46.53.208.4:80/live/966.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",RU TV by
-http://46.53.208.4:80/live/972.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",СКИФ
-http://46.53.208.4:80/live/3101.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ЗВЯЗДА
-http://46.53.208.4:80/live/6238.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БОБРУЙСК
-http://46.53.208.4:80/live/6239.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БУГ ТВ
-http://46.53.208.4:80/live/7001.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ЛАГУНА ТВ
-http://46.53.208.4:80/live/7002.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ВОСЬМОЙ КАНАЛ (Беларусь)
-http://46.53.208.4:80/live/962.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 1
@@ -7601,54 +7583,39 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_slen
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый городской (Гомель)
-http://46.53.208.4:80/live/6036.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Гомель
 http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Гомель)
-http://46.53.208.4:80/live/2011.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Витебск)
-http://46.53.208.4:80/live/2012.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Брест)
-http://46.53.208.4:80/live/2013.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БЕЛАРУСЬ 4 (Могилёв)
-http://46.53.208.4:80/live/2097.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ВИТЕБСК
-http://46.53.208.4:80/live/2023.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
-https://stream-msk-14.ott.tricolor.tv:443/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3Mzk4NTYzMywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzczMzgwODMzLCJzZXNzaW9uX2lkIjoiY2YyMjgwNDZjNjUwZmQ1NTA5ZGM1NTJkZGRiZGViNGMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CWztxx7MunSGgs2z_0323ROvgeO8TN3m9D8cYQg5xuc
-#EXTINF:-1 group-title="Беларусь 🇧🇾",НТВ БЕЛАРУСЬ
-http://46.53.208.4:80/live/8005.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ОНТ
-https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
-http://87.252.229.200:8083/pinsk
+
+
+
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
 http://178.124.207.1:1780/tvphd
 #EXTINF:-1 group-title="Беларусь 🇧🇾",РТР Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ3 Беларусь
-http://86.57.209.210/TB-3/index.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",ТВ3 БЕЛАРУСЬ
-http://46.53.208.4:80/live/5127.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+
+
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
 https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",НАШЕ ТВ (Витебск)
-http://46.53.208.4:80/live/218.m3u8
+
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Мир BY
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Центр BY
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Беларусь 🇧🇾",Новое Радио BY
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",+TV
-http://46.53.208.4:80/live/977.m3u8
+
 
 #EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1
 #EXTGRP:Беларусь
