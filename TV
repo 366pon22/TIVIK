@@ -7617,23 +7617,23 @@ https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 
 
-#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 1
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 1
+#EXTGRP:Беларусь 🇧🇾
 http://ottlinks.club/low/mbdapn76zt/770.m3u8
-#EXTINF:0 tvg-id="771" tvg-logo="http://epg.cdntv.online/img/771.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 2
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="771" tvg-logo="http://epg.cdntv.online/img/771.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 2
+#EXTGRP:Беларусь 🇧🇾
 http://ottlinks.club/low/mbdapn76zt/771.m3u8
-#EXTINF:0 tvg-id="772" tvg-logo="http://epg.cdntv.online/img/772.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 3
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="772" tvg-logo="http://epg.cdntv.online/img/772.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 3
+#EXTGRP:Беларусь 🇧🇾
 http://ottlinks.club/low/mbdapn76zt/772.m3u8
-#EXTINF:0 tvg-id="778" tvg-logo="http://epg.cdntv.online/img/778.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", Беларусь 5
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="778" tvg-logo="http://epg.cdntv.online/img/778.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 5
+#EXTGRP:Беларусь 🇧🇾
 http://ottlinks.club/low/mbdapn76zt/778.m3u8
-#EXTINF:0 tvg-id="779" tvg-logo="http://epg.cdntv.online/img/779.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", НТВ Беларусь
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="779" tvg-logo="http://epg.cdntv.online/img/779.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", НТВ Беларусь
+#EXTGRP:Беларусь 🇧🇾
 http://ottlinks.club/low/mbdapn76zt/779.m3u8
-#EXTINF:0 tvg-id="780" tvg-logo="http://epg.cdntv.online/img/780.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь", РТР-Беларусь
-#EXTGRP:Беларусь
+#EXTINF:0 tvg-id="780" tvg-logo="http://epg.cdntv.online/img/780.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", РТР-Беларусь
+#EXTGRP:Беларусь 🇧🇾
 
 
 
