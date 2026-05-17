@@ -13236,6 +13236,13 @@ http://dmi3y-tv6.ru/hls/film/YA_LEGENDA.m3u8
 http://dmi3y-tv6.ru/hls/film/YA_FRANKENSHTEYN.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="lipeck24" tvg-logo="https://iptvx.one/picons/lipeck24.png" group-title="Липецк" ,Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=PxMZcpt76COiPH4EwWL3hw&e=2070623508&scheme=https
+#EXTINF:-1 tvg-id="lipeckoe-vremia" tvg-logo="https://iptvx.one/picons/lipeckoe-vremia.png" group-title="Липецк" ,Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=IOkUTZHoPSqNn0IukRgYNw&e=2070623511&scheme=https
+
 #EXTINF:-1 group-title="Липецк" tvg-id="pervy",Первый (Липецк)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
