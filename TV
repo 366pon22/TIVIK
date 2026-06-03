@@ -7452,7 +7452,24 @@ https://captaintv.net/iptv/users/366/EYfpFF.m3u8
 https://captaintv.net/iptv/users/366/OHOsxh.m3u8
 
 
-
+#EXTINF:0 group-title="Познавательные1" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7",Дикая охота HD
+https://captaintv.net/iptv/users/366/ldQQPA.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7",Дикая рыбалка HD
+https://captaintv.net/iptv/users/366/RzBSMx.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке
+https://captaintv.net/iptv/users/366/dTEMFj.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7",Дикий
+https://captaintv.net/iptv/users/366/wsShxo.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7",Охота и рыбалка
+https://captaintv.net/iptv/users/366/exnQzv.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png" tvg-rec="3",Охотник и Рыболов HD orig
+https://captaintv.net/iptv/users/366/jAREYm.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="5992" tvg-logo="http://epg.one/img/5992.png" tvg-rec="0",VF Охота
+https://captaintv.net/iptv/users/366/RAxlGx.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка
+https://captaintv.net/iptv/users/366/EYfpFF.m3u8
+#EXTINF:0 group-title="Познавательные1" tvg-id="6646" tvg-logo="http://epg.one/img/6646.png" tvg-rec="0",Рыболов HD
+https://captaintv.net/iptv/users/366/OHOsxh.m3u8
 
 
 
