@@ -7424,21 +7424,15 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="🐟 Охота и рыбалка", Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
 
-#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTGRP:🐟 Охота и рыбалка
 
 
 
 
-#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охота и Рыбалка2
-http://ottlinks.club/low/mbdapn76zt/272.m3u8
-#EXTGRP:🐟 Охота и рыбалка
 
 
-#EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
-http://ottlinks.club/low/mbdapn76zt/274.m3u8
-#EXTGRP:🐟 Охота и рыбалка
+
+
+
 
 
 http://ottlinks.club/low/mbdapn76zt/266.m3u8
@@ -7457,13 +7451,9 @@ http://ottlinks.club/low/mbdapn76zt/269.m3u8
 
 
 
-http://ottlinks.club/low/mbdapn76zt/271.m3u8
-#EXTINF:0 tvg-id="272" tvg-logo="http://epg.cdntv.online/img/272.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охота и Рыбалка
-#EXTGRP:Охота и рыбалка
 
-http://ottlinks.club/low/mbdapn76zt/272.m3u8
-#EXTINF:0 tvg-id="273" tvg-logo="http://epg.cdntv.online/img/273.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов
-#EXTGRP:🐟 Охота и рыбалка
+
+
 
 http://ottlinks.club/low/mbdapn76zt/273.m3u8
 #EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="🐟 Охота и рыбалка", Охотник и рыболов HD
