@@ -1982,12 +1982,9 @@ https://captaintv.net/iptv/users/366/jcljpB.m3u8
 https://captaintv.net/iptv/users/366/BuADSp.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2186" tvg-logo="http://epg.one/img/2186.png" tvg-rec="3",DocuBox HD
 https://captaintv.net/iptv/users/366/GjHlxK.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2483" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7",Дикая охота HD
-https://captaintv.net/iptv/users/366/ldQQPA.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2484" tvg-logo="http://epg.one/img/2484.png" tvg-rec="7",Дикая рыбалка HD
-https://captaintv.net/iptv/users/366/RzBSMx.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2627" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке
-https://captaintv.net/iptv/users/366/dTEMFj.m3u8
+
+
+
 #EXTINF:0 group-title="Познавательные" tvg-id="2513" tvg-logo="http://epg.one/img/2513.png" tvg-rec="3",Загородный int HD
 https://captaintv.net/iptv/users/366/WxYoyI.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.one/img/2507.png" tvg-rec="3",Investigation Discovery HD
@@ -2036,16 +2033,14 @@ https://captaintv.net/iptv/users/366/OWFrte.m3u8
 https://captaintv.net/iptv/users/366/dcbcUm.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2280" tvg-logo="http://epg.one/img/2280.png" tvg-rec="7",RTG TV
 https://captaintv.net/iptv/users/366/wSXIRd.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2283" tvg-logo="http://epg.one/img/2283.png" tvg-rec="7",Дикий
-https://captaintv.net/iptv/users/366/wsShxo.m3u8
+
 #EXTINF:0 group-title="Познавательные" tvg-id="1035" tvg-logo="http://epg.one/img/1035.png" tvg-rec="7",Travel+Adventure
 https://captaintv.net/iptv/users/366/shsKQl.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2350" tvg-logo="http://epg.one/img/2350.png" tvg-rec="7",Поехали!
 https://captaintv.net/iptv/users/366/eAaRie.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2418" tvg-logo="http://epg.one/img/2418.png" tvg-rec="7",Galaxy
 https://captaintv.net/iptv/users/366/jdVmds.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2419" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7",Охота и рыбалка
-https://captaintv.net/iptv/users/366/exnQzv.m3u8
+
 #EXTINF:0 group-title="Познавательные" tvg-id="2420" tvg-logo="http://epg.one/img/2420.png" tvg-rec="7",ЕГЭ ТВ
 https://captaintv.net/iptv/users/366/ovPrji.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2423" tvg-logo="http://epg.one/img/2423.png" tvg-rec="3",365 дней ТВ
@@ -2132,8 +2127,7 @@ https://captaintv.net/iptv/users/366/TOmwiH.m3u8
 https://captaintv.net/iptv/users/366/dqYKlq.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2495" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD orig
 https://captaintv.net/iptv/users/366/zHlZhj.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="1681" tvg-logo="http://epg.one/img/1681.png" tvg-rec="3",Охотник и Рыболов HD orig
-https://captaintv.net/iptv/users/366/jAREYm.m3u8
+
 #EXTINF:0 group-title="Познавательные" tvg-id="2498" tvg-logo="http://epg.one/img/2498.png" tvg-rec="3",В мире животных HD orig
 https://captaintv.net/iptv/users/366/FsdMrh.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="675" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета HD orig
@@ -2214,14 +2208,12 @@ https://captaintv.net/iptv/users/366/dTsQwo.m3u8
 https://captaintv.net/iptv/users/366/uXiZhB.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="5991" tvg-logo="http://epg.one/img/5991.png" tvg-rec="0",VF Авто
 https://captaintv.net/iptv/users/366/zqOGsA.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="5992" tvg-logo="http://epg.one/img/5992.png" tvg-rec="0",VF Охота
-https://captaintv.net/iptv/users/366/RAxlGx.m3u8
+
 #EXTINF:0 group-title="Познавательные" tvg-id="5993" tvg-logo="http://epg.one/img/5993.png" tvg-rec="0",VF Домашний повар
 https://captaintv.net/iptv/users/366/fGAvLw.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="5994" tvg-logo="http://epg.one/img/5994.png" tvg-rec="0",VF Путешествия
 https://captaintv.net/iptv/users/366/wsdcsq.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6124" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка
-https://captaintv.net/iptv/users/366/EYfpFF.m3u8
+
 #EXTINF:0 group-title="Познавательные" tvg-id="6125" tvg-logo="http://epg.one/img/6125.png" tvg-rec="0",VF Стройка
 https://captaintv.net/iptv/users/366/ooqapC.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="6213" tvg-logo="http://epg.one/img/6213.png" tvg-rec="0",Z!Travel HD
@@ -2234,8 +2226,6 @@ https://captaintv.net/iptv/users/366/DibgrU.m3u8
 https://captaintv.net/iptv/users/366/URdMCD.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="6413" tvg-logo="http://epg.one/img/6413.png" tvg-rec="0",MM Translation HD
 https://captaintv.net/iptv/users/366/EujQGM.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="6646" tvg-logo="http://epg.one/img/6646.png" tvg-rec="0",Рыболов HD
-https://captaintv.net/iptv/users/366/OHOsxh.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="113" tvg-logo="http://epg.one/img/113.png" tvg-rec="0",ЖИВИ! HD
 https://captaintv.net/iptv/users/366/fKvMxR.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="415" tvg-logo="http://epg.one/img/415.png" tvg-rec="0",Точка.РФ HD
