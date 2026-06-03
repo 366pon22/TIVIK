@@ -3656,7 +3656,1428 @@ https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
 
 
-
+#EXTINF:0 group-title="Кино" tvg-id="9226" tvg-logo="http://epg.one/img/9226.png" tvg-rec="3",VF Сериалы Турции
+https://captaintv.net/iptv/users/366/WLfcUU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9227" tvg-logo="http://epg.one/img/9227.png" tvg-rec="0",VF Вестерн
+https://captaintv.net/iptv/users/366/bdRcoG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8883" tvg-logo="http://epg.one/img/8883.png" tvg-rec="0",Viasat Kino World orig
+https://captaintv.net/iptv/users/366/SppdKa.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8883" tvg-logo="http://epg.one/img/8883.png" tvg-rec="0",Viasat Kino World HD
+https://captaintv.net/iptv/users/366/YMthGh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8883" tvg-logo="http://epg.one/img/8883.png" tvg-rec="0",Viasat Kino World HD orig
+https://captaintv.net/iptv/users/366/SUWYvs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9300" tvg-logo="http://epg.one/img/9300.png" tvg-rec="0",BOX СССР 4K
+https://captaintv.net/iptv/users/366/GrIErK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9302" tvg-logo="http://epg.one/img/9302.png" tvg-rec="0",BCU Kinozakaz Premiere 4K
+https://captaintv.net/iptv/users/366/wOqZTA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9304" tvg-logo="http://epg.one/img/9304.png" tvg-rec="0",BOX Premiere+ 4K HDR
+https://captaintv.net/iptv/users/366/PDNphs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="477" tvg-logo="http://epg.one/img/477.png" tvg-rec="0",Любимое Кино HD
+https://captaintv.net/iptv/users/366/bzLGnG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="0",FX HD
+https://captaintv.net/iptv/users/366/qAsien.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="17030" tvg-logo="http://epg.one/img/17030.png" tvg-rec="0",Триколор Боевики HD
+https://captaintv.net/iptv/users/366/ggEhQZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="17032" tvg-logo="http://epg.one/img/17032.png" tvg-rec="0",Триколор Ужасы HD
+https://captaintv.net/iptv/users/366/KZtfif.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9179" tvg-logo="http://epg.one/img/9179.png" tvg-rec="0",Romance HD
+https://captaintv.net/iptv/users/366/ndvulh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9180" tvg-logo="http://epg.one/img/9180.png" tvg-rec="0",Suspense HD
+https://captaintv.net/iptv/users/366/CaVRyh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9181" tvg-logo="http://epg.one/img/9181.png" tvg-rec="0",Sumiko HD
+https://captaintv.net/iptv/users/366/CtMFxe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9123" tvg-logo="http://epg.one/img/9123.png" tvg-rec="0",KinoLiving
+https://captaintv.net/iptv/users/366/TEjyjn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9001" tvg-logo="http://epg.one/img/9001.png" tvg-rec="7",Лавстори HD
+https://captaintv.net/iptv/users/366/emDODC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9002" tvg-logo="http://epg.one/img/9002.png" tvg-rec="3",Советская киноклассика HD
+https://captaintv.net/iptv/users/366/bRooID.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9057" tvg-logo="http://epg.one/img/9057.png" tvg-rec="7",Viju TV1000 Новелла HD
+https://captaintv.net/iptv/users/366/cHwRIp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="0",Феникс плюс Кино HD
+https://captaintv.net/iptv/users/366/KSgKUM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9065" tvg-logo="http://epg.one/img/9065.png" tvg-rec="3",VHS-ка HD
+https://captaintv.net/iptv/users/366/cKJxOs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9066" tvg-logo="http://epg.one/img/9066.png" tvg-rec="0",Viasat Kino Megahit HD
+https://captaintv.net/iptv/users/366/RLaFes.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9067" tvg-logo="http://epg.one/img/9067.png" tvg-rec="0",Viasat Serial HD
+https://captaintv.net/iptv/users/366/QaRmrn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="0",.black HD
+https://captaintv.net/iptv/users/366/JgUfjv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="516" tvg-logo="http://epg.one/img/516.png" tvg-rec="0",.sci-fi HD
+https://captaintv.net/iptv/users/366/KdaJLc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9069" tvg-logo="http://epg.one/img/9069.png" tvg-rec="0",Scream HD
+https://captaintv.net/iptv/users/366/JPlxlA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="431" tvg-logo="http://epg.one/img/431.png" tvg-rec="0",Shot TV HD
+https://captaintv.net/iptv/users/366/pDaCXe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9006" tvg-logo="http://epg.one/img/9006.png" tvg-rec="0",О!Кино
+https://captaintv.net/iptv/users/366/tJBSSF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9149" tvg-logo="http://epg.one/img/9149.png" tvg-rec="0",4ever Drama HD UA
+https://captaintv.net/iptv/users/366/iTGXxg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9074" tvg-logo="http://epg.one/img/9074.png" tvg-rec="0",NOW Series HD
+https://captaintv.net/iptv/users/366/EClrnj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5635" tvg-logo="http://epg.one/img/5635.png" tvg-rec="0",FilmZone Plus HD EE
+https://captaintv.net/iptv/users/366/EwElhm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="431" tvg-logo="http://epg.one/img/431.png" tvg-rec="0",Shot TV orig
+https://captaintv.net/iptv/users/366/TQinDV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7271" tvg-logo="http://epg.one/img/7271.png" tvg-rec="3",VF Счастливы Вместе
+https://captaintv.net/iptv/users/366/YTJQZe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7272" tvg-logo="http://epg.one/img/7272.png" tvg-rec="7",VF Бесстыжие
+https://captaintv.net/iptv/users/366/pIpziI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7270" tvg-logo="http://epg.one/img/7270.png" tvg-rec="7",VF Владимир Высоцкий
+https://captaintv.net/iptv/users/366/uzWmbZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7273" tvg-logo="http://epg.one/img/7273.png" tvg-rec="7",VF Два с половиной человека
+https://captaintv.net/iptv/users/366/lkGnYR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6163" tvg-logo="http://epg.one/img/6163.png" tvg-rec="0",VF Новогодний
+https://captaintv.net/iptv/users/366/rGQwOW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7274" tvg-logo="http://epg.one/img/7274.png" tvg-rec="0",VF Ёлки
+https://captaintv.net/iptv/users/366/QCMtRP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5981" tvg-logo="http://epg.one/img/5981.png" tvg-rec="0",VF New Year
+https://captaintv.net/iptv/users/366/HnDSWJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5982" tvg-logo="http://epg.one/img/5982.png" tvg-rec="0",VF С новым годом!
+https://captaintv.net/iptv/users/366/vyFqTE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7276" tvg-logo="http://epg.one/img/7276.png" tvg-rec="0",VF Гарри Поттер
+https://captaintv.net/iptv/users/366/wJoIBf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7277" tvg-logo="http://epg.one/img/7277.png" tvg-rec="0",VF Секс в большом городе
+https://captaintv.net/iptv/users/366/adqrnU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7275" tvg-logo="http://epg.one/img/7275.png" tvg-rec="0",VF Карточный домик
+https://captaintv.net/iptv/users/366/ekKEJk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7278" tvg-logo="http://epg.one/img/7278.png" tvg-rec="0",VF Disney Movie
+https://captaintv.net/iptv/users/366/qUdFHX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7279" tvg-logo="http://epg.one/img/7279.png" tvg-rec="0",VF Теория большого взрыва
+https://captaintv.net/iptv/users/366/suaoLf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6724" tvg-logo="http://epg.one/img/6724.png" tvg-rec="0",Timeless Dizi Channel
+https://captaintv.net/iptv/users/366/DNISUq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7280" tvg-logo="http://epg.one/img/7280.png" tvg-rec="0",TVRUS
+https://captaintv.net/iptv/users/366/BNzcSQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7485" tvg-logo="http://epg.one/img/7485.png" tvg-rec="3",CineMan Premium
+https://captaintv.net/iptv/users/366/QeTWqf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="3",FX Life
+https://captaintv.net/iptv/users/366/JwLnNG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="615" tvg-logo="http://epg.one/img/615.png" tvg-rec="0",FX Life HD
+https://captaintv.net/iptv/users/366/kFTKpd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6843" tvg-logo="http://epg.one/img/6843.png" tvg-rec="0",MM Family Guy HD
+https://captaintv.net/iptv/users/366/RfdUzQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6842" tvg-logo="http://epg.one/img/6842.png" tvg-rec="0",MM OldSchool HD
+https://captaintv.net/iptv/users/366/mireBF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2359" tvg-logo="http://epg.one/img/2359.png" tvg-rec="0",FAN HD
+https://captaintv.net/iptv/users/366/MfkPYx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="3",Amedia Hit HD
+https://captaintv.net/iptv/users/366/hJroAx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2743" tvg-logo="http://epg.one/img/2743.png" tvg-rec="3",Ultra HD Cinema 4K
+https://captaintv.net/iptv/users/366/SgzXyO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2804" tvg-logo="http://epg.one/img/2804.png" tvg-rec="3",Кино UHD 4K
+https://captaintv.net/iptv/users/366/lUeqDj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1588" tvg-logo="http://epg.one/img/1588.png" tvg-rec="7",Остросюжетное HD
+https://captaintv.net/iptv/users/366/XWvTwF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="3",Премиальное FHD
+https://captaintv.net/iptv/users/366/tNZCdu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
+https://captaintv.net/iptv/users/366/IWTwSg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2020" tvg-logo="http://epg.one/img/2020.png" tvg-rec="3",Дом Кино Премиум HD orig
+https://captaintv.net/iptv/users/366/htCcDx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png" tvg-rec="3",Про Любовь HD
+https://captaintv.net/iptv/users/366/AxtuKA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2831" tvg-logo="http://epg.one/img/2831.png" tvg-rec="3",Наш Кинопоказ HD
+https://captaintv.net/iptv/users/366/mhGNUK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2832" tvg-logo="http://epg.one/img/2832.png" tvg-rec="3",Блокбастер HD
+https://captaintv.net/iptv/users/366/zLzxtP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD
+https://captaintv.net/iptv/users/366/inrOHc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2834" tvg-logo="http://epg.one/img/2834.png" tvg-rec="3",Кинопоказ HD
+https://captaintv.net/iptv/users/366/bmEQBb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png" tvg-rec="3",Наше Мужское HD
+https://captaintv.net/iptv/users/366/GRxlmC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2836" tvg-logo="http://epg.one/img/2836.png" tvg-rec="3",Камеди HD
+https://captaintv.net/iptv/users/366/VFUiDs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD
+https://captaintv.net/iptv/users/366/sVTBqM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2772" tvg-logo="http://epg.one/img/2772.png" tvg-rec="3",Романтичное HD
+https://captaintv.net/iptv/users/366/TyTffK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="138" tvg-logo="http://epg.one/img/138.png" tvg-rec="7",Комедийное HD
+https://captaintv.net/iptv/users/366/rvvIDR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2019" tvg-logo="http://epg.one/img/2019.png" tvg-rec="7",Душевное HD
+https://captaintv.net/iptv/users/366/WgxOUM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2018" tvg-logo="http://epg.one/img/2018.png" tvg-rec="7",Наше HD
+https://captaintv.net/iptv/users/366/iLGLnS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2509" tvg-logo="http://epg.one/img/2509.png" tvg-rec="3",Любимое HD
+https://captaintv.net/iptv/users/366/ytIkWP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="7",Кинопремьера HD
+https://captaintv.net/iptv/users/366/UOLErg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2493" tvg-logo="http://epg.one/img/2493.png" tvg-rec="3",Киноужас HD
+https://captaintv.net/iptv/users/366/kUuhQY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="3",Русский роман HD
+https://captaintv.net/iptv/users/366/XisIAx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="3",Русский иллюзион HD
+https://captaintv.net/iptv/users/366/toyoLa.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама HD
+https://captaintv.net/iptv/users/366/aLCnfL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD
+https://captaintv.net/iptv/users/366/RnJhXO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="7",Amedia Premium HD
+https://captaintv.net/iptv/users/366/YGotOa.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="934" tvg-logo="http://epg.one/img/934.png" tvg-rec="7",Hollywood HD
+https://captaintv.net/iptv/users/366/rLvuUs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="http://epg.one/img/1395.png" tvg-rec="3",Bollywood HD
+https://captaintv.net/iptv/users/366/DWjnfA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
+https://captaintv.net/iptv/users/366/QJRedQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1013" tvg-logo="http://epg.one/img/1013.png" tvg-rec="3",Viju+ Premiere HD orig
+https://captaintv.net/iptv/users/366/atrqjj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
+https://captaintv.net/iptv/users/366/vawpdi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1011" tvg-logo="http://epg.one/img/1011.png" tvg-rec="3",Viju+ Comedy HD orig
+https://captaintv.net/iptv/users/366/hzyHlC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="7",Viju+ Megahit HD
+https://captaintv.net/iptv/users/366/cYKFml.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1012" tvg-logo="http://epg.one/img/1012.png" tvg-rec="3",Viju+ Megahit HD orig
+https://captaintv.net/iptv/users/366/LbPGER.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2229" tvg-logo="http://epg.one/img/2229.png" tvg-rec="3",Epic Drama
+https://captaintv.net/iptv/users/366/XPBgxq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2773" tvg-logo="http://epg.one/img/2773.png" tvg-rec="3",День Победы HD
+https://captaintv.net/iptv/users/366/kMmYXZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="3",Победа HD
+https://captaintv.net/iptv/users/366/EPTlfq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="7",Победа
+https://captaintv.net/iptv/users/366/QpbxjV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="7",Amedia 2 HD
+https://captaintv.net/iptv/users/366/dhuEAp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="7",Viju TV1000 Русское
+https://captaintv.net/iptv/users/366/YmlWzT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="516" tvg-logo="http://epg.one/img/516.png" tvg-rec="7",.sci-fi
+https://captaintv.net/iptv/users/366/EjQWAq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
+https://captaintv.net/iptv/users/366/JfMsMr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="7",Киносемья
+https://captaintv.net/iptv/users/366/GSgudW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="7",Родное Кино
+https://captaintv.net/iptv/users/366/HUooZC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="7",Viju TV1000 Action
+https://captaintv.net/iptv/users/366/RiaXfD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="7",Кинохит
+https://captaintv.net/iptv/users/366/ZhQsqN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="7",Amedia 2
+https://captaintv.net/iptv/users/366/uxipwc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="7",Наше Новое Кино
+https://captaintv.net/iptv/users/366/itYnul.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="309" tvg-logo="http://epg.one/img/309.png" tvg-rec="7",ТВ 21
+https://captaintv.net/iptv/users/366/PaItvS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
+https://captaintv.net/iptv/users/366/YrUSAZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="798" tvg-logo="http://epg.one/img/798.png" tvg-rec="7",Индийское Кино
+https://captaintv.net/iptv/users/366/TzwNfo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="7",Киносерия
+https://captaintv.net/iptv/users/366/oTPtMH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="7",Русский иллюзион
+https://captaintv.net/iptv/users/366/sEywXl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="7",Еврокино
+https://captaintv.net/iptv/users/366/XLiePQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7314" tvg-logo="http://epg.one/img/7314.png" tvg-rec="7",Кинеко
+https://captaintv.net/iptv/users/366/seLBcY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7315" tvg-logo="http://epg.one/img/7315.png" tvg-rec="7",Сапфир
+https://captaintv.net/iptv/users/366/nNxuod.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
+https://captaintv.net/iptv/users/366/YMQSym.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="7",Amedia 1
+https://captaintv.net/iptv/users/366/PXoKwE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="7",Amedia Premium
+https://captaintv.net/iptv/users/366/RzYvoi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="7",Amedia Hit
+https://captaintv.net/iptv/users/366/aTCZwo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="7",Viju TV1000
+https://captaintv.net/iptv/users/366/mYYAUr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="7",Мужское Кино
+https://captaintv.net/iptv/users/366/KzjXbt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="608" tvg-logo="http://epg.one/img/608.png" tvg-rec="7",Hollywood
+https://captaintv.net/iptv/users/366/eyearx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="7",.red
+https://captaintv.net/iptv/users/366/befyUz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="7",2x2
+https://captaintv.net/iptv/users/366/eOJKpF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="7",.black
+https://captaintv.net/iptv/users/366/JFXGvB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="7",Русский бестселлер
+https://captaintv.net/iptv/users/366/loMZbC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="7",Русский роман
+https://captaintv.net/iptv/users/366/mcZcFd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="7",Русский детектив
+https://captaintv.net/iptv/users/366/ByYDCM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="477" tvg-logo="http://epg.one/img/477.png" tvg-rec="7",Любимое Кино
+https://captaintv.net/iptv/users/366/fdehGk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="462" tvg-logo="http://epg.one/img/462.png" tvg-rec="7",Киносвидание
+https://captaintv.net/iptv/users/366/oUDnKb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="7",Кино ТВ
+https://captaintv.net/iptv/users/366/FbPUEQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1620" tvg-logo="http://epg.one/img/1620.png" tvg-rec="7",Комедия
+https://captaintv.net/iptv/users/366/IAlDuy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2359" tvg-logo="http://epg.one/img/2359.png" tvg-rec="7",FAN
+https://captaintv.net/iptv/users/366/AFoynq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="7",НТВ Хит
+https://captaintv.net/iptv/users/366/DtkISl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="7",НТВ Сериал
+https://captaintv.net/iptv/users/366/LJIcpw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="518" tvg-logo="http://epg.one/img/518.png" tvg-rec="7",НСТ
+https://captaintv.net/iptv/users/366/hhBsSr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2233" tvg-logo="http://epg.one/img/2233.png" tvg-rec="3",Индия
+https://captaintv.net/iptv/users/366/wJhzYA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2181" tvg-logo="http://epg.one/img/2181.png" tvg-rec="3",FilmBox
+https://captaintv.net/iptv/users/366/YcdgXn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама
+https://captaintv.net/iptv/users/366/abTcXz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2275" tvg-logo="http://epg.one/img/2275.png" tvg-rec="7",Мир Сериала
+https://captaintv.net/iptv/users/366/KdbIyL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2402" tvg-logo="http://epg.one/img/2402.png" tvg-rec="7",Ретро
+https://captaintv.net/iptv/users/366/yZEWdV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png" tvg-rec="7",Иллюзион+
+https://captaintv.net/iptv/users/366/BghvtK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="7",Феникс плюс Кино
+https://captaintv.net/iptv/users/366/nwlxLh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red HD
+https://captaintv.net/iptv/users/366/bZMKFg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img/2407.png" tvg-rec="3",Киноман
+https://captaintv.net/iptv/users/366/RFBzTA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2754" tvg-logo="http://epg.one/img/2754.png" tvg-rec="3",Cinema
+https://captaintv.net/iptv/users/366/OXTrWo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="920" tvg-logo="http://epg.one/img/920.png" tvg-rec="7",Comedy Central
+https://captaintv.net/iptv/users/366/jYCVjJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2952" tvg-logo="http://epg.one/img/2952.png" tvg-rec="3",Зал 1
+https://captaintv.net/iptv/users/366/mqZhIv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2953" tvg-logo="http://epg.one/img/2953.png" tvg-rec="3",Зал 2
+https://captaintv.net/iptv/users/366/xExzfN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2954" tvg-logo="http://epg.one/img/2954.png" tvg-rec="3",Зал 3
+https://captaintv.net/iptv/users/366/LcobKO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2955" tvg-logo="http://epg.one/img/2955.png" tvg-rec="3",Зал 4
+https://captaintv.net/iptv/users/366/UPfCuM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2956" tvg-logo="http://epg.one/img/2956.png" tvg-rec="3",Зал 5
+https://captaintv.net/iptv/users/366/PHXiqR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2957" tvg-logo="http://epg.one/img/2957.png" tvg-rec="3",Зал 6
+https://captaintv.net/iptv/users/366/rMeLjJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2958" tvg-logo="http://epg.one/img/2958.png" tvg-rec="3",Зал 7
+https://captaintv.net/iptv/users/366/OdOUwM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2959" tvg-logo="http://epg.one/img/2959.png" tvg-rec="3",Зал 8
+https://captaintv.net/iptv/users/366/wjzaHS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2960" tvg-logo="http://epg.one/img/2960.png" tvg-rec="3",Зал 9
+https://captaintv.net/iptv/users/366/vvnlcS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2961" tvg-logo="http://epg.one/img/2961.png" tvg-rec="3",Зал 10
+https://captaintv.net/iptv/users/366/GDHpgx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2962" tvg-logo="http://epg.one/img/2962.png" tvg-rec="3",Зал 11
+https://captaintv.net/iptv/users/366/ePTzpb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2963" tvg-logo="http://epg.one/img/2963.png" tvg-rec="3",Зал 12
+https://captaintv.net/iptv/users/366/kiylyR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2309" tvg-logo="http://epg.one/img/2309.png" tvg-rec="3",Шокирующее HD
+https://captaintv.net/iptv/users/366/MNZOKB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD
+https://captaintv.net/iptv/users/366/zLaziU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD
+https://captaintv.net/iptv/users/366/KZFCtF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD
+https://captaintv.net/iptv/users/366/zDMpdy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7315" tvg-logo="http://epg.one/img/7315.png" tvg-rec="3",Сапфир HD
+https://captaintv.net/iptv/users/366/GnKfti.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png" tvg-rec="3",Мосфильм. Золотая коллекция
+https://captaintv.net/iptv/users/366/qaEeUF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="3361" tvg-logo="http://epg.one/img/3361.png" tvg-rec="3",Trash HD
+https://captaintv.net/iptv/users/366/ybUWvp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2309" tvg-logo="http://epg.one/img/2309.png" tvg-rec="3",Шокирующее HD orig
+https://captaintv.net/iptv/users/366/OKurUC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="138" tvg-logo="http://epg.one/img/138.png" tvg-rec="3",Комедийное HD orig
+https://captaintv.net/iptv/users/366/SUohuJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="934" tvg-logo="http://epg.one/img/934.png" tvg-rec="3",Hollywood HD orig
+https://captaintv.net/iptv/users/366/BLWFPW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="3",FX HD orig
+https://captaintv.net/iptv/users/366/eqSMbf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="566" tvg-logo="http://epg.one/img/566.png" tvg-rec="3",Кинопремьера HD orig
+https://captaintv.net/iptv/users/366/XPxYHv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="3",Amedia Premium HD orig
+https://captaintv.net/iptv/users/366/JMKenk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2493" tvg-logo="http://epg.one/img/2493.png" tvg-rec="3",Киноужас HD orig
+https://captaintv.net/iptv/users/366/EAwseR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red HD orig
+https://captaintv.net/iptv/users/366/MgIUlV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="3",Русский роман HD orig
+https://captaintv.net/iptv/users/366/XLTMxk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1588" tvg-logo="http://epg.one/img/1588.png" tvg-rec="3",Остросюжетное HD orig
+https://captaintv.net/iptv/users/366/LmSufe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2018" tvg-logo="http://epg.one/img/2018.png" tvg-rec="3",Наше HD orig
+https://captaintv.net/iptv/users/366/wtryAY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD orig
+https://captaintv.net/iptv/users/366/YhuDLz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action HD orig
+https://captaintv.net/iptv/users/366/ToWewD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 HD orig
+https://captaintv.net/iptv/users/366/jxakoB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское HD orig
+https://captaintv.net/iptv/users/366/ZTfqmz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="3",Amedia 1 HD orig
+https://captaintv.net/iptv/users/366/VOzKAb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="3",Amedia Hit HD orig
+https://captaintv.net/iptv/users/366/IseEjn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="3",Еврокино HD orig
+https://captaintv.net/iptv/users/366/oAQiow.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png" tvg-rec="3",Иллюзион+ HD orig
+https://captaintv.net/iptv/users/366/HYdTqH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="3",Русский иллюзион HD orig
+https://captaintv.net/iptv/users/366/QlAcUj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2831" tvg-logo="http://epg.one/img/2831.png" tvg-rec="3",Наш Кинопоказ HD orig
+https://captaintv.net/iptv/users/366/WCJMfQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2832" tvg-logo="http://epg.one/img/2832.png" tvg-rec="3",Блокбастер HD orig
+https://captaintv.net/iptv/users/366/lRZHbH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2835" tvg-logo="http://epg.one/img/2835.png" tvg-rec="3",Наше Мужское HD orig
+https://captaintv.net/iptv/users/366/DJjtRh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2829" tvg-logo="http://epg.one/img/2829.png" tvg-rec="3",Про Любовь HD orig
+https://captaintv.net/iptv/users/366/zEVrGn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2833" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD orig
+https://captaintv.net/iptv/users/366/jmpVNi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2836" tvg-logo="http://epg.one/img/2836.png" tvg-rec="3",Камеди HD orig
+https://captaintv.net/iptv/users/366/eNAPIa.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2834" tvg-logo="http://epg.one/img/2834.png" tvg-rec="3",Кинопоказ HD orig
+https://captaintv.net/iptv/users/366/gMPyBf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="516" tvg-logo="http://epg.one/img/516.png" tvg-rec="3",.sci-fi orig
+https://captaintv.net/iptv/users/366/qQzCcX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="3",Киномикс orig
+https://captaintv.net/iptv/users/366/LSodtg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="12" tvg-logo="http://epg.one/img/12.png" tvg-rec="3",Родное Кино orig
+https://captaintv.net/iptv/users/366/wtDsSC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="3",Кинохит orig
+https://captaintv.net/iptv/users/366/EhevaR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2492" tvg-logo="http://epg.one/img/2492.png" tvg-rec="0",Amedia 2 orig
+https://captaintv.net/iptv/users/366/pnnwfg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="309" tvg-logo="http://epg.one/img/309.png" tvg-rec="3",ТВ 21 orig
+https://captaintv.net/iptv/users/366/ILpIpM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="798" tvg-logo="http://epg.one/img/798.png" tvg-rec="3",Индийское Кино orig
+https://captaintv.net/iptv/users/366/BspsvD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="3",Киносерия orig
+https://captaintv.net/iptv/users/366/QEUAEn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="53" tvg-logo="http://epg.one/img/53.png" tvg-rec="3",Русский иллюзион orig
+https://captaintv.net/iptv/users/366/rrpKfs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img/352.png" tvg-rec="3",Еврокино orig
+https://captaintv.net/iptv/users/366/clkhSY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7314" tvg-logo="http://epg.one/img/7314.png" tvg-rec="3",Кинеко HD
+https://captaintv.net/iptv/users/366/bccuFo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="834" tvg-logo="http://epg.one/img/834.png" tvg-rec="3",Дом Кино orig
+https://captaintv.net/iptv/users/366/dUojJj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img/1371.png" tvg-rec="3",Amedia 1 orig
+https://captaintv.net/iptv/users/366/gVyxks.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="3",Мужское Кино HD orig
+https://captaintv.net/iptv/users/366/LYMARL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="3",2x2 orig
+https://captaintv.net/iptv/users/366/dkckyo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="935" tvg-logo="http://epg.one/img/935.png" tvg-rec="3",.black orig
+https://captaintv.net/iptv/users/366/uPtGls.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="3",Русский бестселлер orig
+https://captaintv.net/iptv/users/366/CqixJH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1570" tvg-logo="http://epg.one/img/1570.png" tvg-rec="3",Русский детектив orig
+https://captaintv.net/iptv/users/366/RvOJlU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="477" tvg-logo="http://epg.one/img/477.png" tvg-rec="3",Любимое Кино orig
+https://captaintv.net/iptv/users/366/uIoVdM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1620" tvg-logo="http://epg.one/img/1620.png" tvg-rec="3",Комедия orig
+https://captaintv.net/iptv/users/366/DUSnGz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2359" tvg-logo="http://epg.one/img/2359.png" tvg-rec="3",FAN orig
+https://captaintv.net/iptv/users/366/AEjXWK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="3",НТВ Хит orig
+https://captaintv.net/iptv/users/366/JQwIeB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1754" tvg-logo="http://epg.one/img/1754.png" tvg-rec="3",НТВ Сериал orig
+https://captaintv.net/iptv/users/366/dAWTdU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="518" tvg-logo="http://epg.one/img/518.png" tvg-rec="3",НСТ orig
+https://captaintv.net/iptv/users/366/xRMhNG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2233" tvg-logo="http://epg.one/img/2233.png" tvg-rec="3",Индия orig
+https://captaintv.net/iptv/users/366/NeTzVE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2182" tvg-logo="http://epg.one/img/2182.png" tvg-rec="3",FilmBox ArtHouse orig
+https://captaintv.net/iptv/users/366/raAHMC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2275" tvg-logo="http://epg.one/img/2275.png" tvg-rec="3",Мир Сериала orig
+https://captaintv.net/iptv/users/366/jBrQbg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2402" tvg-logo="http://epg.one/img/2402.png" tvg-rec="3",Ретро orig
+https://captaintv.net/iptv/users/366/luKXdP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img/2404.png" tvg-rec="3",Феникс плюс Кино orig
+https://captaintv.net/iptv/users/366/wiCDNV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img/2407.png" tvg-rec="3",Киноман orig
+https://captaintv.net/iptv/users/366/nfozCw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png" tvg-rec="3",Мосфильм. Золотая коллекция orig
+https://captaintv.net/iptv/users/366/rWpEIu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама HD orig
+https://captaintv.net/iptv/users/366/vWdyFH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="http://epg.one/img/1395.png" tvg-rec="3",Bollywood HD orig
+https://captaintv.net/iptv/users/366/fEvKhA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2447" tvg-logo="http://epg.one/img/2447.png" tvg-rec="3",Победа orig
+https://captaintv.net/iptv/users/366/siCCZJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="267" tvg-logo="http://epg.one/img/267.png" tvg-rec="0",Viju TV1000 Русское orig
+https://captaintv.net/iptv/users/366/uDsDkY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="3",Киносемья HD orig
+https://captaintv.net/iptv/users/366/xtONoj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="125" tvg-logo="http://epg.one/img/125.png" tvg-rec="3",Viju TV1000 Action orig
+https://captaintv.net/iptv/users/366/OWnadn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="3",Наше Новое Кино orig
+https://captaintv.net/iptv/users/366/qjrpdx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="3",Кинокомедия orig
+https://captaintv.net/iptv/users/366/GkcCXI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img/1372.png" tvg-rec="3",Amedia Premium FHD orig
+https://captaintv.net/iptv/users/366/SnrMpa.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img/2007.png" tvg-rec="3",Amedia Hit orig
+https://captaintv.net/iptv/users/366/lYbsiH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="127" tvg-logo="http://epg.one/img/127.png" tvg-rec="3",Viju TV1000 orig
+https://captaintv.net/iptv/users/366/ijSlxI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="608" tvg-logo="http://epg.one/img/608.png" tvg-rec="3",Hollywood orig
+https://captaintv.net/iptv/users/366/oPlMgR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="311" tvg-logo="http://epg.one/img/311.png" tvg-rec="3",.red orig
+https://captaintv.net/iptv/users/366/TEtygr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="462" tvg-logo="http://epg.one/img/462.png" tvg-rec="3",Киносвидание orig
+https://captaintv.net/iptv/users/366/ANpbSw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2174" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама orig
+https://captaintv.net/iptv/users/366/gsoFkN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="401" tvg-logo="http://epg.one/img/401.png" tvg-rec="3",Русский роман orig
+https://captaintv.net/iptv/users/366/PDxmch.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2403" tvg-logo="http://epg.one/img/2403.png" tvg-rec="3",Иллюзион+ orig
+https://captaintv.net/iptv/users/366/WXBuyR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1037" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ orig
+https://captaintv.net/iptv/users/366/vtANro.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2838" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD orig
+https://captaintv.net/iptv/users/366/yolVrH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="0",Премиальное HD
+https://captaintv.net/iptv/users/366/mtCdsq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="987" tvg-logo="http://epg.one/img/987.png" tvg-rec="0",Киносемья HD
+https://captaintv.net/iptv/users/366/UbWwXr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="462" tvg-logo="http://epg.one/img/462.png" tvg-rec="0",Киносвидание HD
+https://captaintv.net/iptv/users/366/mxSDJl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2857" tvg-logo="http://epg.one/img/2857.png" tvg-rec="0",Страшное HD
+https://captaintv.net/iptv/users/366/luUXCZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="821" tvg-logo="http://epg.one/img/821.png" tvg-rec="0",Кинокомедия HD
+https://captaintv.net/iptv/users/366/liHOLj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="644" tvg-logo="http://epg.one/img/644.png" tvg-rec="0",Киномикс HD
+https://captaintv.net/iptv/users/366/bsKaIw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img/542.png" tvg-rec="0",Кинохит HD
+https://captaintv.net/iptv/users/366/tykISx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4466" tvg-logo="http://epg.one/img/4466.png" tvg-rec="0",KinoJam 1 HD
+https://captaintv.net/iptv/users/366/bStKru.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4467" tvg-logo="http://epg.one/img/4467.png" tvg-rec="0",KinoJam 2 HD
+https://captaintv.net/iptv/users/366/EWmWaM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="3357" tvg-logo="http://epg.one/img/3357.png" tvg-rec="0",Мосфильм. Золотая коллекция HD
+https://captaintv.net/iptv/users/366/GfQnsF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4591" tvg-logo="http://epg.one/img/4591.png" tvg-rec="7",VF Adventure
+https://captaintv.net/iptv/users/366/VIhWUs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4592" tvg-logo="http://epg.one/img/4592.png" tvg-rec="7",VF Anime
+https://captaintv.net/iptv/users/366/UZgRCA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4593" tvg-logo="http://epg.one/img/4593.png" tvg-rec="7",VF Cartoon
+https://captaintv.net/iptv/users/366/cPGHBr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4594" tvg-logo="http://epg.one/img/4594.png" tvg-rec="7",VF Comedy
+https://captaintv.net/iptv/users/366/yJDgXf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4595" tvg-logo="http://epg.one/img/4595.png" tvg-rec="7",VF Family
+https://captaintv.net/iptv/users/366/DOBBzW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4596" tvg-logo="http://epg.one/img/4596.png" tvg-rec="7",VF Fantasy
+https://captaintv.net/iptv/users/366/BvrfeI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4597" tvg-logo="http://epg.one/img/4597.png" tvg-rec="7",VF Melodrama
+https://captaintv.net/iptv/users/366/dpnJjK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4598" tvg-logo="http://epg.one/img/4598.png" tvg-rec="7",VF Mystic
+https://captaintv.net/iptv/users/366/fdHnVF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4599" tvg-logo="http://epg.one/img/4599.png" tvg-rec="7",VF Ужасы
+https://captaintv.net/iptv/users/366/JFTAcf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4600" tvg-logo="http://epg.one/img/4600.png" tvg-rec="7",VF VHS MIX
+https://captaintv.net/iptv/users/366/JJxjpI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4601" tvg-logo="http://epg.one/img/4601.png" tvg-rec="7",VF Ужасы VHS
+https://captaintv.net/iptv/users/366/KKhehp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4644" tvg-logo="http://epg.one/img/4644.png" tvg-rec="7",VF Премьера
+https://captaintv.net/iptv/users/366/dSJxzw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4645" tvg-logo="http://epg.one/img/4645.png" tvg-rec="7",VF Premiere
+https://captaintv.net/iptv/users/366/yUbqML.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4646" tvg-logo="http://epg.one/img/4646.png" tvg-rec="7",VF Классика
+https://captaintv.net/iptv/users/366/pnmWNP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4647" tvg-logo="http://epg.one/img/4647.png" tvg-rec="7",VF Classic
+https://captaintv.net/iptv/users/366/zBQOpb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4648" tvg-logo="http://epg.one/img/4648.png" tvg-rec="7",VF Комедия
+https://captaintv.net/iptv/users/366/hbNsLe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4666" tvg-logo="http://epg.one/img/4666.png" tvg-rec="7",VF Катастрофы
+https://captaintv.net/iptv/users/366/oaeIyv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4663" tvg-logo="http://epg.one/img/4663.png" tvg-rec="7",VF Marvel
+https://captaintv.net/iptv/users/366/tUASxJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4665" tvg-logo="http://epg.one/img/4665.png" tvg-rec="7",VF Военные
+https://captaintv.net/iptv/users/366/CAzmYD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4669" tvg-logo="http://epg.one/img/4669.png" tvg-rec="7",VF Наша победа
+https://captaintv.net/iptv/users/366/NVdZFr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4667" tvg-logo="http://epg.one/img/4667.png" tvg-rec="7",VF Мосфильм
+https://captaintv.net/iptv/users/366/AkQgkb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4670" tvg-logo="http://epg.one/img/4670.png" tvg-rec="7",VF Фильмы СССР
+https://captaintv.net/iptv/users/366/Yklcpb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4668" tvg-logo="http://epg.one/img/4668.png" tvg-rec="7",VF Мультфильмы СССР
+https://captaintv.net/iptv/users/366/BOzRGS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4664" tvg-logo="http://epg.one/img/4664.png" tvg-rec="7",VF Боевик
+https://captaintv.net/iptv/users/366/wsGHug.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="0",Премиальное HD 50
+https://captaintv.net/iptv/users/366/ddXeHd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2019" tvg-logo="http://epg.one/img/2019.png" tvg-rec="0",Душевное HD orig
+https://captaintv.net/iptv/users/366/xipoHl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2732" tvg-logo="http://epg.one/img/2732.png" tvg-rec="0",Премиальное HD orig
+https://captaintv.net/iptv/users/366/OgguiT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1584" tvg-logo="http://epg.one/img/1584.png" tvg-rec="0",Мужское Кино HD
+https://captaintv.net/iptv/users/366/FBFFuX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="431" tvg-logo="http://epg.one/img/431.png" tvg-rec="3",Shot TV
+https://captaintv.net/iptv/users/366/xHuOut.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4682" tvg-logo="http://epg.one/img/4682.png" tvg-rec="7",CineMan
+https://captaintv.net/iptv/users/366/Gbkill.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4683" tvg-logo="http://epg.one/img/4683.png" tvg-rec="7",CineMan Top
+https://captaintv.net/iptv/users/366/nnZBrC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4684" tvg-logo="http://epg.one/img/4684.png" tvg-rec="7",CineMan Action
+https://captaintv.net/iptv/users/366/wNbjOT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4685" tvg-logo="http://epg.one/img/4685.png" tvg-rec="7",CineMan Thriller
+https://captaintv.net/iptv/users/366/umydDG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4686" tvg-logo="http://epg.one/img/4686.png" tvg-rec="7",CineMan Мелодрама
+https://captaintv.net/iptv/users/366/eXbgKf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4687" tvg-logo="http://epg.one/img/4687.png" tvg-rec="7",CineMan Marvel
+https://captaintv.net/iptv/users/366/XZVFIO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4688" tvg-logo="http://epg.one/img/4688.png" tvg-rec="7",CineMan Ужасы
+https://captaintv.net/iptv/users/366/lHborl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4689" tvg-logo="http://epg.one/img/4689.png" tvg-rec="7",CineMan Комедия
+https://captaintv.net/iptv/users/366/KlzjTz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4690" tvg-logo="http://epg.one/img/4690.png" tvg-rec="7",CineMan VHS
+https://captaintv.net/iptv/users/366/JkZyOq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4691" tvg-logo="http://epg.one/img/4691.png" tvg-rec="7",CineMan РуКино
+https://captaintv.net/iptv/users/366/wMmfal.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4692" tvg-logo="http://epg.one/img/4692.png" tvg-rec="7",CineMan Сваты
+https://captaintv.net/iptv/users/366/JiLxeg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5585" tvg-logo="http://epg.one/img/5585.png" tvg-rec="0",CineMan Катастрофы
+https://captaintv.net/iptv/users/366/bnpZWb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6051" tvg-logo="http://epg.one/img/6051.png" tvg-rec="0",CineMan Ментовские войны
+https://captaintv.net/iptv/users/366/iWFJJl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6052" tvg-logo="http://epg.one/img/6052.png" tvg-rec="0",CineMan ПёС + Лихач
+https://captaintv.net/iptv/users/366/ungYEK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6053" tvg-logo="http://epg.one/img/6053.png" tvg-rec="0",CineMan Лесник
+https://captaintv.net/iptv/users/366/KHUlZr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7150" tvg-logo="http://epg.one/img/7150.png" tvg-rec="0",CineMan MiniSeries
+https://captaintv.net/iptv/users/366/ceXFkq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4736" tvg-logo="http://epg.one/img/4736.png" tvg-rec="7",BCU Premiere 1 HD
+https://captaintv.net/iptv/users/366/hoXXqN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4737" tvg-logo="http://epg.one/img/4737.png" tvg-rec="7",BCU Premiere 2 HD
+https://captaintv.net/iptv/users/366/MXGlRN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4738" tvg-logo="http://epg.one/img/4738.png" tvg-rec="7",BCU Premiere 3 HD
+https://captaintv.net/iptv/users/366/sxyAjF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4747" tvg-logo="http://epg.one/img/4747.png" tvg-rec="7",BCU СССР HD
+https://captaintv.net/iptv/users/366/TVGiBG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4748" tvg-logo="http://epg.one/img/4748.png" tvg-rec="7",BCU Action HD
+https://captaintv.net/iptv/users/366/ppoGJf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4749" tvg-logo="http://epg.one/img/4749.png" tvg-rec="7",BCU Catastrophe HD
+https://captaintv.net/iptv/users/366/yuwopY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4750" tvg-logo="http://epg.one/img/4750.png" tvg-rec="7",BCU Cinema HD
+https://captaintv.net/iptv/users/366/ELFoeu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4751" tvg-logo="http://epg.one/img/4751.png" tvg-rec="7",BCU Cinema+ HD
+https://captaintv.net/iptv/users/366/RvKyyu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8963" tvg-logo="http://epg.one/img/8963.png" tvg-rec="7",BCU Comedy HDR
+https://captaintv.net/iptv/users/366/gvnLWu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4753" tvg-logo="http://epg.one/img/4753.png" tvg-rec="7",BCU Fantastic HD
+https://captaintv.net/iptv/users/366/JxaKxt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4754" tvg-logo="http://epg.one/img/4754.png" tvg-rec="7",BCU FilMystic HD
+https://captaintv.net/iptv/users/366/adHgTX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4755" tvg-logo="http://epg.one/img/4755.png" tvg-rec="7",BCU History HD
+https://captaintv.net/iptv/users/366/FwLbYn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4758" tvg-logo="http://epg.one/img/4758.png" tvg-rec="7",BCU Kinorating HD
+https://captaintv.net/iptv/users/366/LGlEya.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8964" tvg-logo="http://epg.one/img/8964.png" tvg-rec="7",BCU Marvel HDR
+https://captaintv.net/iptv/users/366/ZlWqLM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4760" tvg-logo="http://epg.one/img/4760.png" tvg-rec="7",BCU Premiere HD
+https://captaintv.net/iptv/users/366/viZsru.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="7",BCU Romantic HD
+https://captaintv.net/iptv/users/366/GocTqw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4762" tvg-logo="http://epg.one/img/4762.png" tvg-rec="7",BCU Russian HD
+https://captaintv.net/iptv/users/366/punCWD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD
+https://captaintv.net/iptv/users/366/VeAZgW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4764" tvg-logo="http://epg.one/img/4764.png" tvg-rec="7",BCU Media HD
+https://captaintv.net/iptv/users/366/ncTYre.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4765" tvg-logo="http://epg.one/img/4765.png" tvg-rec="7",BCU Stars HD
+https://captaintv.net/iptv/users/366/YKEaUe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4766" tvg-logo="http://epg.one/img/4766.png" tvg-rec="7",BCU Ultra 4K
+https://captaintv.net/iptv/users/366/nEGnDz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4767" tvg-logo="http://epg.one/img/4767.png" tvg-rec="7",BCU RuSerial HD
+https://captaintv.net/iptv/users/366/XgIwux.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4768" tvg-logo="http://epg.one/img/4768.png" tvg-rec="7",BCU Сваты HD
+https://captaintv.net/iptv/users/366/nlcuVz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4769" tvg-logo="http://epg.one/img/4769.png" tvg-rec="7",BCU Criminal HD
+https://captaintv.net/iptv/users/366/IiHsMt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5561" tvg-logo="http://epg.one/img/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
+https://captaintv.net/iptv/users/366/VpvbJK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5513" tvg-logo="http://epg.one/img/5513.png" tvg-rec="0",BCU Media HD OLD
+https://captaintv.net/iptv/users/366/hzqflK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5514" tvg-logo="http://epg.one/img/5514.png" tvg-rec="0",BCU Marvel HD
+https://captaintv.net/iptv/users/366/dLCamx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5515" tvg-logo="http://epg.one/img/5515.png" tvg-rec="0",BCU Comedy HD
+https://captaintv.net/iptv/users/366/hQICkS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6131" tvg-logo="http://epg.one/img/6131.png" tvg-rec="0",BCU Reality HD
+https://captaintv.net/iptv/users/366/rOSSxl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6067" tvg-logo="http://epg.one/img/6067.png" tvg-rec="0",BCU Reality OLD
+https://captaintv.net/iptv/users/366/jfoEAQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6175" tvg-logo="http://epg.one/img/6175.png" tvg-rec="0",BCU Survival HD
+https://captaintv.net/iptv/users/366/JzITbz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6164" tvg-logo="http://epg.one/img/6164.png" tvg-rec="0",BCU Survival OLD
+https://captaintv.net/iptv/users/366/EWFQRw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6176" tvg-logo="http://epg.one/img/6176.png" tvg-rec="0",BCU Cosmo HD
+https://captaintv.net/iptv/users/366/lsFDRG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6198" tvg-logo="http://epg.one/img/6198.png" tvg-rec="0",BCU TruMotion HD
+https://captaintv.net/iptv/users/366/vgpEcc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4761" tvg-logo="http://epg.one/img/4761.png" tvg-rec="0",BCU Romantic OLD
+https://captaintv.net/iptv/users/366/lPLoGK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="11311" tvg-rec="7",StrahTV Alladin
+https://captaintv.net/iptv/users/366/tEhbiF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" tvg-rec="7",StrahTV The X-Files
+https://captaintv.net/iptv/users/366/lWgXUn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4776" tvg-logo="http://epg.one/img/4776.png" tvg-rec="7",StrahTV VHS HD
+https://captaintv.net/iptv/users/366/YdROOD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" tvg-rec="7",StrahTV Интерны ТВ
+https://captaintv.net/iptv/users/366/oFgVWJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4695" tvg-logo="http://epg.one/img/4695.png" tvg-rec="7",StrahTV СССР
+https://captaintv.net/iptv/users/366/zpjatr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" tvg-rec="7",StrahTV Сваты
+https://captaintv.net/iptv/users/366/FRgDUl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" tvg-rec="7",StrahTV Универ ТВ
+https://captaintv.net/iptv/users/366/vmuewM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4777" tvg-logo="http://epg.one/img/4777.png" tvg-rec="7",StrahTV Хит HD
+https://captaintv.net/iptv/users/366/aFwQBr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" tvg-rec="7",StrahTV Космо HD
+https://captaintv.net/iptv/users/366/vmBeDb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4779" tvg-logo="http://epg.one/img/4779.png" tvg-rec="7",StrahTV Страх HD
+https://captaintv.net/iptv/users/366/sKefxk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4780" tvg-logo="http://epg.one/img/4780.png" tvg-rec="7",StrahTV Фантастика HD
+https://captaintv.net/iptv/users/366/LAbHff.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4781" tvg-logo="http://epg.one/img/4781.png" tvg-rec="7",StrahTV Юнит HD
+https://captaintv.net/iptv/users/366/auQWOm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4719" tvg-logo="http://epg.one/img/4719.png" tvg-rec="7",PG Premiere HD
+https://captaintv.net/iptv/users/366/LtQEbb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4720" tvg-logo="http://epg.one/img/4720.png" tvg-rec="7",PG Premium HD
+https://captaintv.net/iptv/users/366/HrgmGh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4721" tvg-logo="http://epg.one/img/4721.png" tvg-rec="7",PG РуКино HD
+https://captaintv.net/iptv/users/366/GRmHZk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4722" tvg-logo="http://epg.one/img/4722.png" tvg-rec="7",PG Victory HD
+https://captaintv.net/iptv/users/366/VYTaWt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4723" tvg-logo="http://epg.one/img/4723.png" tvg-rec="7",PG Paradox HD
+https://captaintv.net/iptv/users/366/YERiIS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4724" tvg-logo="http://epg.one/img/4724.png" tvg-rec="7",PG Thriller HD
+https://captaintv.net/iptv/users/366/MRBuTs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4725" tvg-logo="http://epg.one/img/4725.png" tvg-rec="7",PG Paradise HD
+https://captaintv.net/iptv/users/366/KyqSub.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4726" tvg-logo="http://epg.one/img/4726.png" tvg-rec="7",PG Serial HD
+https://captaintv.net/iptv/users/366/hspJWJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4727" tvg-logo="http://epg.one/img/4727.png" tvg-rec="7",PG USSR HD
+https://captaintv.net/iptv/users/366/cFOBeW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD
+https://captaintv.net/iptv/users/366/wABNtw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7151" tvg-logo="http://epg.one/img/7151.png" tvg-rec="0",VB VHS Classic
+https://captaintv.net/iptv/users/366/WcoIwe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4804" tvg-logo="http://epg.one/img/4804.png" tvg-rec="0",VF Кино 4K
+https://captaintv.net/iptv/users/366/yciNXM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4805" tvg-logo="http://epg.one/img/4805.png" tvg-rec="0",VF Сериал 4K
+https://captaintv.net/iptv/users/366/ezttWx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4789" tvg-logo="http://epg.one/img/4789.png" tvg-rec="0",VF TOP Series
+https://captaintv.net/iptv/users/366/raTBuA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4791" tvg-logo="http://epg.one/img/4791.png" tvg-rec="0",VF Art house
+https://captaintv.net/iptv/users/366/QfeHcE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4792" tvg-logo="http://epg.one/img/4792.png" tvg-rec="0",VF Detective
+https://captaintv.net/iptv/users/366/SURNLD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4793" tvg-logo="http://epg.one/img/4793.png" tvg-rec="0",VF Fantastic
+https://captaintv.net/iptv/users/366/NHZzip.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4794" tvg-logo="http://epg.one/img/4794.png" tvg-rec="0",VF Оскар
+https://captaintv.net/iptv/users/366/oNDODg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5113" tvg-logo="http://epg.one/img/5113.png" tvg-rec="0",TOP Великолепный Век HD
+https://captaintv.net/iptv/users/366/YddNNe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5114" tvg-logo="http://epg.one/img/5114.png" tvg-rec="0",TOP 80 S HD
+https://captaintv.net/iptv/users/366/wqQQNV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5115" tvg-logo="http://epg.one/img/5115.png" tvg-rec="0",TOP BUDO HD
+https://captaintv.net/iptv/users/366/xdaeGF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5116" tvg-logo="http://epg.one/img/5116.png" tvg-rec="0",TOP Cinema HD
+https://captaintv.net/iptv/users/366/BBQHpK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5117" tvg-logo="http://epg.one/img/5117.png" tvg-rec="0",TOP USSR HD
+https://captaintv.net/iptv/users/366/bNXhDh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5118" tvg-logo="http://epg.one/img/5118.png" tvg-rec="0",TOP MIX HD
+https://captaintv.net/iptv/users/366/xSbXlV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5122" tvg-logo="http://epg.one/img/5122.png" tvg-rec="0",MM 007 HD
+https://captaintv.net/iptv/users/366/YenjGz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5123" tvg-logo="http://epg.one/img/5123.png" tvg-rec="0",MM Love HD
+https://captaintv.net/iptv/users/366/ogabji.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5124" tvg-logo="http://epg.one/img/5124.png" tvg-rec="0",MM NewFilm 1 HD
+https://captaintv.net/iptv/users/366/rYlFJl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5125" tvg-logo="http://epg.one/img/5125.png" tvg-rec="0",MM NewFilm 2 HD
+https://captaintv.net/iptv/users/366/Jmaefl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5126" tvg-logo="http://epg.one/img/5126.png" tvg-rec="0",MM NewFilm 3 HD
+https://captaintv.net/iptv/users/366/NZltiC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5127" tvg-logo="http://epg.one/img/5127.png" tvg-rec="0",MM NewFilm RU HD
+https://captaintv.net/iptv/users/366/UWIAJQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5128" tvg-logo="http://epg.one/img/5128.png" tvg-rec="0",MM Rock HD
+https://captaintv.net/iptv/users/366/UGklud.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5129" tvg-logo="http://epg.one/img/5129.png" tvg-rec="0",MM Tom and Jerry HD
+https://captaintv.net/iptv/users/366/sRbyZz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5130" tvg-logo="http://epg.one/img/5130.png" tvg-rec="0",MM UFO HD
+https://captaintv.net/iptv/users/366/HbpLBs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5131" tvg-logo="http://epg.one/img/5131.png" tvg-rec="0",MM USSR 1941-1945 HD
+https://captaintv.net/iptv/users/366/QxEemT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5132" tvg-logo="http://epg.one/img/5132.png" tvg-rec="0",MM USSR Комедия HD
+https://captaintv.net/iptv/users/366/vdeJHm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5133" tvg-logo="http://epg.one/img/5133.png" tvg-rec="0",MM USSR Мультфильм HD
+https://captaintv.net/iptv/users/366/CmKDgk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5134" tvg-logo="http://epg.one/img/5134.png" tvg-rec="0",MM USSR Сказки HD
+https://captaintv.net/iptv/users/366/bRBtSx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8001" tvg-logo="http://epg.one/img/8001.png" tvg-rec="0",MM USSR Драма HD
+https://captaintv.net/iptv/users/366/izkuqP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5136" tvg-logo="http://epg.one/img/5136.png" tvg-rec="0",MM World Hits HD
+https://captaintv.net/iptv/users/366/seIhRp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5137" tvg-logo="http://epg.one/img/5137.png" tvg-rec="0",MM Агата Кристи HD
+https://captaintv.net/iptv/users/366/EUJGSi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5138" tvg-logo="http://epg.one/img/5138.png" tvg-rec="0",MM Грайндхаус HD
+https://captaintv.net/iptv/users/366/EtiGvP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5139" tvg-logo="http://epg.one/img/5139.png" tvg-rec="0",MM Honey HD
+https://captaintv.net/iptv/users/366/bzrcBG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5140" tvg-logo="http://epg.one/img/5140.png" tvg-rec="0",MM Боевик Classic HD
+https://captaintv.net/iptv/users/366/vyVDeF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5141" tvg-logo="http://epg.one/img/5141.png" tvg-rec="0",MM Боевик HD
+https://captaintv.net/iptv/users/366/GXmxCR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5142" tvg-logo="http://epg.one/img/5142.png" tvg-rec="0",MM Вестерн HD
+https://captaintv.net/iptv/users/366/VhPEKS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5144" tvg-logo="http://epg.one/img/5144.png" tvg-rec="0",MM Воронины HD
+https://captaintv.net/iptv/users/366/mQiYFO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5145" tvg-logo="http://epg.one/img/5145.png" tvg-rec="0",MM Затмение HD
+https://captaintv.net/iptv/users/366/RVOjfE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5146" tvg-logo="http://epg.one/img/5146.png" tvg-rec="0",MM История HD
+https://captaintv.net/iptv/users/366/LnhDFW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5147" tvg-logo="http://epg.one/img/5147.png" tvg-rec="0",MM Катастрофа HD
+https://captaintv.net/iptv/users/366/wVsECQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5148" tvg-logo="http://epg.one/img/5148.png" tvg-rec="0",MM Квартирник HD
+https://captaintv.net/iptv/users/366/BvNXDM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5149" tvg-logo="http://epg.one/img/5149.png" tvg-rec="0",MM Киберпанк HD
+https://captaintv.net/iptv/users/366/PBpozA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5150" tvg-logo="http://epg.one/img/5150.png" tvg-rec="0",MM Комедия Classic HD
+https://captaintv.net/iptv/users/366/ozWXRl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5151" tvg-logo="http://epg.one/img/5151.png" tvg-rec="0",MM Комедия HD
+https://captaintv.net/iptv/users/366/ZuCnfg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5152" tvg-logo="http://epg.one/img/5152.png" tvg-rec="0",MM Криминал HD
+https://captaintv.net/iptv/users/366/fSAgSx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5153" tvg-logo="http://epg.one/img/5153.png" tvg-rec="0",MM Крутые 90-е HD
+https://captaintv.net/iptv/users/366/HWQSOJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5154" tvg-logo="http://epg.one/img/5154.png" tvg-rec="0",MM Кунг-Фу HD
+https://captaintv.net/iptv/users/366/cPnoxK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5155" tvg-logo="http://epg.one/img/5155.png" tvg-rec="0",MM Lesson HD
+https://captaintv.net/iptv/users/366/phlbbQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5156" tvg-logo="http://epg.one/img/5156.png" tvg-rec="0",MM Smile HD
+https://captaintv.net/iptv/users/366/hJPuXo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5157" tvg-logo="http://epg.one/img/5157.png" tvg-rec="0",MM Мифология HD
+https://captaintv.net/iptv/users/366/esovNg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5158" tvg-logo="http://epg.one/img/5158.png" tvg-rec="0",MM Нуар HD
+https://captaintv.net/iptv/users/366/YpnCZR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5159" tvg-logo="http://epg.one/img/5159.png" tvg-rec="0",MM Ситком 2.0 HD
+https://captaintv.net/iptv/users/366/AyKcCn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5160" tvg-logo="http://epg.one/img/5160.png" tvg-rec="0",MM Погружение HD
+https://captaintv.net/iptv/users/366/vpqbwj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5161" tvg-logo="http://epg.one/img/5161.png" tvg-rec="0",MM Приключения HD
+https://captaintv.net/iptv/users/366/oGEYjF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5162" tvg-logo="http://epg.one/img/5162.png" tvg-rec="0",MM Полицейский с Рублёвки HD
+https://captaintv.net/iptv/users/366/KgUfza.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5163" tvg-logo="http://epg.one/img/5163.png" tvg-rec="0",MM Роскино HD
+https://captaintv.net/iptv/users/366/vVaODA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5164" tvg-logo="http://epg.one/img/5164.png" tvg-rec="0",MM Сваты HD
+https://captaintv.net/iptv/users/366/sMdwJY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5165" tvg-logo="http://epg.one/img/5165.png" tvg-rec="0",MM Ситком HD
+https://captaintv.net/iptv/users/366/ioKMIQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5166" tvg-logo="http://epg.one/img/5166.png" tvg-rec="0",MM Скорость HD
+https://captaintv.net/iptv/users/366/KlwPpZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5167" tvg-logo="http://epg.one/img/5167.png" tvg-rec="0",MM Спорт HD
+https://captaintv.net/iptv/users/366/UZDYaL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5168" tvg-logo="http://epg.one/img/5168.png" tvg-rec="0",MM Стивен Кинг HD
+https://captaintv.net/iptv/users/366/lYEqCR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5169" tvg-logo="http://epg.one/img/5169.png" tvg-rec="0",MM Супергерои HD
+https://captaintv.net/iptv/users/366/zKQvqC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5170" tvg-logo="http://epg.one/img/5170.png" tvg-rec="0",MM Flip UHD
+https://captaintv.net/iptv/users/366/bzutdG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5171" tvg-logo="http://epg.one/img/5171.png" tvg-rec="0",MM Триллер HD
+https://captaintv.net/iptv/users/366/nAaHxT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5172" tvg-logo="http://epg.one/img/5172.png" tvg-rec="0",MM Ужастик HD
+https://captaintv.net/iptv/users/366/BaTyPp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5570" tvg-logo="http://epg.one/img/5570.png" tvg-rec="0",MM USSR Приключения HD
+https://captaintv.net/iptv/users/366/sQGxjQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5174" tvg-logo="http://epg.one/img/5174.png" tvg-rec="0",MM Синематограф HD
+https://captaintv.net/iptv/users/366/QaGLBF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5175" tvg-logo="http://epg.one/img/5175.png" tvg-rec="0",MM Фантастика HD
+https://captaintv.net/iptv/users/366/rfXhks.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5176" tvg-logo="http://epg.one/img/5176.png" tvg-rec="0",MM Фобия HD
+https://captaintv.net/iptv/users/366/iUdoCe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5571" tvg-logo="http://epg.one/img/5571.png" tvg-rec="0",MM Walt Disney HD
+https://captaintv.net/iptv/users/366/lcmjZD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5208" tvg-logo="http://epg.one/img/5208.png" tvg-rec="0",MM Live Planet HD
+https://captaintv.net/iptv/users/366/IxJCov.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5209" tvg-logo="http://epg.one/img/5209.png" tvg-rec="0",MM USSR Детектив HD
+https://captaintv.net/iptv/users/366/JjDSTD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5210" tvg-logo="http://epg.one/img/5210.png" tvg-rec="0",MM Семейный 1 HD
+https://captaintv.net/iptv/users/366/NmgYqI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5211" tvg-logo="http://epg.one/img/5211.png" tvg-rec="0",MM Семейный 2 HD
+https://captaintv.net/iptv/users/366/FwUTQI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5212" tvg-logo="http://epg.one/img/5212.png" tvg-rec="0",MM Ужасы HD
+https://captaintv.net/iptv/users/366/ywyZMk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5215" tvg-logo="http://epg.one/img/5215.png" tvg-rec="0",MM Ужасы Classic HD
+https://captaintv.net/iptv/users/366/URLmnp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6063" tvg-logo="http://epg.one/img/6063.png" tvg-rec="0",MM Celebrity HD
+https://captaintv.net/iptv/users/366/NyZeau.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6064" tvg-logo="http://epg.one/img/6064.png" tvg-rec="0",MM Classic HD
+https://captaintv.net/iptv/users/366/vHtBIi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6065" tvg-logo="http://epg.one/img/6065.png" tvg-rec="0",MM Драма HD
+https://captaintv.net/iptv/users/366/mToxqL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5193" tvg-logo="http://epg.one/img/5193.png" tvg-rec="0",VF Сваты
+https://captaintv.net/iptv/users/366/cnBWsl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5194" tvg-logo="http://epg.one/img/5194.png" tvg-rec="0",VF Солдаты
+https://captaintv.net/iptv/users/366/YBFaJw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5195" tvg-logo="http://epg.one/img/5195.png" tvg-rec="0",VF Тайны следствия
+https://captaintv.net/iptv/users/366/qdihFN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5196" tvg-logo="http://epg.one/img/5196.png" tvg-rec="0",VF Воронины
+https://captaintv.net/iptv/users/366/cAfQFq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5197" tvg-logo="http://epg.one/img/5197.png" tvg-rec="0",VF Универ
+https://captaintv.net/iptv/users/366/GONzSH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5198" tvg-logo="http://epg.one/img/5198.png" tvg-rec="0",VF Series
+https://captaintv.net/iptv/users/366/MLzUsC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5199" tvg-logo="http://epg.one/img/5199.png" tvg-rec="0",VF След
+https://captaintv.net/iptv/users/366/wzqmle.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5200" tvg-logo="http://epg.one/img/5200.png" tvg-rec="0",VF Сериал
+https://captaintv.net/iptv/users/366/ILakov.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5201" tvg-logo="http://epg.one/img/5201.png" tvg-rec="0",VF Мыльные оперы
+https://captaintv.net/iptv/users/366/BhknKq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5202" tvg-logo="http://epg.one/img/5202.png" tvg-rec="0",VF Thriller
+https://captaintv.net/iptv/users/366/asdRir.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5203" tvg-logo="http://epg.one/img/5203.png" tvg-rec="0",VF Индия
+https://captaintv.net/iptv/users/366/pUCALr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5204" tvg-logo="http://epg.one/img/5204.png" tvg-rec="0",VF История
+https://captaintv.net/iptv/users/366/SErxtc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5205" tvg-logo="http://epg.one/img/5205.png" tvg-rec="0",VF Comics
+https://captaintv.net/iptv/users/366/jjTkNW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5206" tvg-logo="http://epg.one/img/5206.png" tvg-rec="0",VF Криминал
+https://captaintv.net/iptv/users/366/bRFijZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5207" tvg-logo="http://epg.one/img/5207.png" tvg-rec="0",VF Клиника
+https://captaintv.net/iptv/users/366/CXTfaV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6144" tvg-logo="http://epg.one/img/6144.png" tvg-rec="0",VF Луи де Фюнес
+https://captaintv.net/iptv/users/366/HysEWQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6145" tvg-logo="http://epg.one/img/6145.png" tvg-rec="0",VF Чернобыль
+https://captaintv.net/iptv/users/366/WJaqgP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6146" tvg-logo="http://epg.one/img/6146.png" tvg-rec="0",VF The X-Files
+https://captaintv.net/iptv/users/366/DeDMmf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6147" tvg-logo="http://epg.one/img/6147.png" tvg-rec="0",VF Сверхъестественное
+https://captaintv.net/iptv/users/366/blgfDO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6148" tvg-logo="http://epg.one/img/6148.png" tvg-rec="0",VF Леонид Гайдай
+https://captaintv.net/iptv/users/366/FlMZrW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6149" tvg-logo="http://epg.one/img/6149.png" tvg-rec="0",VF Американская история ужасов
+https://captaintv.net/iptv/users/366/QtQBjC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6150" tvg-logo="http://epg.one/img/6150.png" tvg-rec="0",VF Друзья
+https://captaintv.net/iptv/users/366/nJbPlv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6151" tvg-logo="http://epg.one/img/6151.png" tvg-rec="0",VF СашаТаня
+https://captaintv.net/iptv/users/366/iTaspi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6152" tvg-logo="http://epg.one/img/6152.png" tvg-rec="0",VF Джеки Чан
+https://captaintv.net/iptv/users/366/vxlDDM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6153" tvg-logo="http://epg.one/img/6153.png" tvg-rec="0",VF Наша Раша
+https://captaintv.net/iptv/users/366/hBLloT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6154" tvg-logo="http://epg.one/img/6154.png" tvg-rec="0",VF Привет из 90х
+https://captaintv.net/iptv/users/366/tdQeYe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6155" tvg-logo="http://epg.one/img/6155.png" tvg-rec="0",VF Эльдар Рязанов
+https://captaintv.net/iptv/users/366/calYuV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6156" tvg-logo="http://epg.one/img/6156.png" tvg-rec="0",VF Универ новая общага
+https://captaintv.net/iptv/users/366/dvMUZo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6157" tvg-logo="http://epg.one/img/6157.png" tvg-rec="0",VF Ходячие мертвецы
+https://captaintv.net/iptv/users/366/NarWqG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6158" tvg-logo="http://epg.one/img/6158.png" tvg-rec="0",VF Реальные пацаны
+https://captaintv.net/iptv/users/366/vHqixp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6159" tvg-logo="http://epg.one/img/6159.png" tvg-rec="0",VF Доктор Хаус
+https://captaintv.net/iptv/users/366/MQncNI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6160" tvg-logo="http://epg.one/img/6160.png" tvg-rec="0",VF Без цензуры
+https://captaintv.net/iptv/users/366/lPyGHA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6226" tvg-logo="http://epg.one/img/6226.png" tvg-rec="0",VF Городок
+https://captaintv.net/iptv/users/366/tTFngl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6284" tvg-logo="http://epg.one/img/6284.png" tvg-rec="0",VF Comedy Woman
+https://captaintv.net/iptv/users/366/zovsdP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6323" tvg-logo="http://epg.one/img/6323.png" tvg-rec="0",VF Игра престолов
+https://captaintv.net/iptv/users/366/VugQip.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6324" tvg-logo="http://epg.one/img/6324.png" tvg-rec="0",VF Одесская киностудия
+https://captaintv.net/iptv/users/366/BESIFh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6325" tvg-logo="http://epg.one/img/6325.png" tvg-rec="0",VF Ленфильм
+https://captaintv.net/iptv/users/366/PpUPgF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6326" tvg-logo="http://epg.one/img/6326.png" tvg-rec="0",VF Киностудия им. Горького
+https://captaintv.net/iptv/users/366/PoTldt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6327" tvg-logo="http://epg.one/img/6327.png" tvg-rec="0",VF Рижская киностудия
+https://captaintv.net/iptv/users/366/PAmlaF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6328" tvg-logo="http://epg.one/img/6328.png" tvg-rec="0",VF Свердловская киностудия
+https://captaintv.net/iptv/users/366/DLSYsM.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6329" tvg-logo="http://epg.one/img/6329.png" tvg-rec="0",VF Беларусьфильм
+https://captaintv.net/iptv/users/366/NHGgdV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6823" tvg-logo="http://epg.one/img/6823.png" tvg-rec="0",VF Netflix
+https://captaintv.net/iptv/users/366/IsYiqs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6824" tvg-logo="http://epg.one/img/6824.png" tvg-rec="0",VF HBO
+https://captaintv.net/iptv/users/366/tlBrDu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1113" tvg-logo="http://epg.one/img/1113.png" tvg-rec="0",Z!Channel HD
+https://captaintv.net/iptv/users/366/ANpest.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1114" tvg-logo="http://epg.one/img/1114.png" tvg-rec="0",Z!Comedy HD
+https://captaintv.net/iptv/users/366/qDZcad.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1115" tvg-logo="http://epg.one/img/1115.png" tvg-rec="0",Z!Crime HD
+https://captaintv.net/iptv/users/366/BQpmBo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="1116" tvg-logo="http://epg.one/img/1116.png" tvg-rec="0",Z!Horror HD
+https://captaintv.net/iptv/users/366/waOrEI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5898" tvg-logo="http://epg.one/img/5898.png" tvg-rec="0",Z!Serial HD
+https://captaintv.net/iptv/users/366/Yknkyp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5899" tvg-logo="http://epg.one/img/5899.png" tvg-rec="0",Z!Sitcom HD
+https://captaintv.net/iptv/users/366/pJhyXb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5900" tvg-logo="http://epg.one/img/5900.png" tvg-rec="0",Z!Smile HD
+https://captaintv.net/iptv/users/366/RocVAw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5358" tvg-logo="http://epg.one/img/5358.png" tvg-rec="0",Yosso TV Grand
+https://captaintv.net/iptv/users/366/XsmAql.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5359" tvg-logo="http://epg.one/img/5359.png" tvg-rec="0",Yosso TV VHS
+https://captaintv.net/iptv/users/366/qHSCNk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5360" tvg-logo="http://epg.one/img/5360.png" tvg-rec="0",Yosso TV Русские Фильмы
+https://captaintv.net/iptv/users/366/BDBiSR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5361" tvg-logo="http://epg.one/img/5361.png" tvg-rec="0",Yosso TV Советские Фильмы
+https://captaintv.net/iptv/users/366/HkXNOS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5362" tvg-logo="http://epg.one/img/5362.png" tvg-rec="0",Yosso TV New Кино
+https://captaintv.net/iptv/users/366/GMmIOC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5434" tvg-logo="http://epg.one/img/5434.png" tvg-rec="0",Yosso TV Трагичное
+https://captaintv.net/iptv/users/366/DGywyK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5444" tvg-logo="http://epg.one/img/5444.png" tvg-rec="0",Yosso TV Забавное
+https://captaintv.net/iptv/users/366/cvulZg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5445" tvg-logo="http://epg.one/img/5445.png" tvg-rec="0",Yosso TV Ковбойское
+https://captaintv.net/iptv/users/366/FTCmAy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5446" tvg-logo="http://epg.one/img/5446.png" tvg-rec="0",Yosso TV Best
+https://captaintv.net/iptv/users/366/xVcJKR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5586" tvg-logo="http://epg.one/img/5586.png" tvg-rec="0",Yosso TV Adrenaline
+https://captaintv.net/iptv/users/366/ZYxhng.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5631" tvg-logo="http://epg.one/img/5631.png" tvg-rec="0",Yosso TV Thriller
+https://captaintv.net/iptv/users/366/ZbsXyw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5983" tvg-logo="http://epg.one/img/5983.png" tvg-rec="0",Yosso TV Oblivion
+https://captaintv.net/iptv/users/366/naAfxs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5984" tvg-logo="http://epg.one/img/5984.png" tvg-rec="0",Yosso TV Adventure
+https://captaintv.net/iptv/users/366/zlKevF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6138" tvg-logo="http://epg.one/img/6138.png" tvg-rec="0",Yosso TV 4K
+https://captaintv.net/iptv/users/366/DkoYnw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7152" tvg-logo="http://epg.one/img/7152.png" tvg-rec="0",Yosso TV Мелодрама
+https://captaintv.net/iptv/users/366/wjZrps.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7158" tvg-logo="http://epg.one/img/7158.png" tvg-rec="0",Yosso TV Советские Фильмы 4K
+https://captaintv.net/iptv/users/366/YYPKGI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7884" tvg-logo="http://epg.one/img/7884.png" tvg-rec="0",Yosso TV Netflix
+https://captaintv.net/iptv/users/366/QqGSda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7885" tvg-logo="http://epg.one/img/7885.png" tvg-rec="0",Yosso TV Disney
+https://captaintv.net/iptv/users/366/OHJHrx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7886" tvg-logo="http://epg.one/img/7886.png" tvg-rec="0",Yosso TV Best 60fps
+https://captaintv.net/iptv/users/366/YxNtWn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6136" tvg-logo="http://epg.one/img/6136.png" tvg-rec="0",Citrus Comedy
+https://captaintv.net/iptv/users/366/RGvxYh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6137" tvg-logo="http://epg.one/img/6137.png" tvg-rec="0",Citrus Inquest
+https://captaintv.net/iptv/users/366/ZcAQtZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6392" tvg-logo="http://epg.one/img/6392.png" tvg-rec="0",Citrus History
+https://captaintv.net/iptv/users/366/Puiesq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5423" tvg-logo="http://epg.one/img/5423.png" tvg-rec="0",Dosug TV Comedy HD
+https://captaintv.net/iptv/users/366/pVoTzj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5424" tvg-logo="http://epg.one/img/5424.png" tvg-rec="0",Dosug TV Fantastic HD
+https://captaintv.net/iptv/users/366/SygiDs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5425" tvg-logo="http://epg.one/img/5425.png" tvg-rec="0",Dosug TV History HD
+https://captaintv.net/iptv/users/366/tbFdDR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5426" tvg-logo="http://epg.one/img/5426.png" tvg-rec="0",Dosug TV Hit HD
+https://captaintv.net/iptv/users/366/RXKYkS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5427" tvg-logo="http://epg.one/img/5427.png" tvg-rec="0",Dosug TV Horror HD
+https://captaintv.net/iptv/users/366/hOjlfo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5428" tvg-logo="http://epg.one/img/5428.png" tvg-rec="0",Dosug TV Kids HD
+https://captaintv.net/iptv/users/366/awOQQL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5429" tvg-logo="http://epg.one/img/5429.png" tvg-rec="0",Dosug TV Marvel HD
+https://captaintv.net/iptv/users/366/rYzwjU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5430" tvg-logo="http://epg.one/img/5430.png" tvg-rec="0",Dosug TV New HD
+https://captaintv.net/iptv/users/366/MIVevZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5431" tvg-logo="http://epg.one/img/5431.png" tvg-rec="0",Dosug TV Russian HD
+https://captaintv.net/iptv/users/366/cdqAuC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5437" tvg-logo="http://epg.one/img/5437.png" tvg-rec="0",Dosug TV VHS
+https://captaintv.net/iptv/users/366/UwGYQz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5438" tvg-logo="http://epg.one/img/5438.png" tvg-rec="0",Dosug TV Detective HD
+https://captaintv.net/iptv/users/366/jsdOjl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5440" tvg-logo="http://epg.one/img/5440.png" tvg-rec="0",Dosug TV Сваты
+https://captaintv.net/iptv/users/366/fRvvxW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5441" tvg-logo="http://epg.one/img/5441.png" tvg-rec="0",Твое ТВ HD
+https://captaintv.net/iptv/users/366/ybZPKl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5516" tvg-logo="http://epg.one/img/5516.png" tvg-rec="0",Liberty DC FHD
+https://captaintv.net/iptv/users/366/cVRtxI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5517" tvg-logo="http://epg.one/img/5517.png" tvg-rec="0",Liberty Ужасы 4K
+https://captaintv.net/iptv/users/366/pLbZtd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5518" tvg-logo="http://epg.one/img/5518.png" tvg-rec="0",Liberty Триллеры 4K
+https://captaintv.net/iptv/users/366/etaWeY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5519" tvg-logo="http://epg.one/img/5519.png" tvg-rec="0",Liberty Марвел FHD
+https://captaintv.net/iptv/users/366/qHCeEs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5520" tvg-logo="http://epg.one/img/5520.png" tvg-rec="0",Liberty Короткометражки FHD
+https://captaintv.net/iptv/users/366/queRYI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5521" tvg-logo="http://epg.one/img/5521.png" tvg-rec="0",Liberty Мелодрамы FHD
+https://captaintv.net/iptv/users/366/tvlOCL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5522" tvg-logo="http://epg.one/img/5522.png" tvg-rec="0",Liberty Боевики FHD
+https://captaintv.net/iptv/users/366/madUCp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5589" tvg-logo="http://epg.one/img/5589.png" tvg-rec="0",Liberty Кино Микс 4K
+https://captaintv.net/iptv/users/366/gbrDOw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5590" tvg-logo="http://epg.one/img/5590.png" tvg-rec="0",Liberty Симпсоны FHD
+https://captaintv.net/iptv/users/366/JfSShP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5633" tvg-logo="http://epg.one/img/5633.png" tvg-rec="0",Liberty Сваты FHD
+https://captaintv.net/iptv/users/366/DZrhhP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6056" tvg-logo="http://epg.one/img/6056.png" tvg-rec="0",Liberty Южный Парк FHD
+https://captaintv.net/iptv/users/366/eNOwNR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6057" tvg-logo="http://epg.one/img/6057.png" tvg-rec="0",Liberty Комедии FHD
+https://captaintv.net/iptv/users/366/gflMHU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6058" tvg-logo="http://epg.one/img/6058.png" tvg-rec="0",Liberty Сериалы FHD
+https://captaintv.net/iptv/users/366/OqsPuU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6180" tvg-logo="http://epg.one/img/6180.png" tvg-rec="0",Liberty Аниме FHD
+https://captaintv.net/iptv/users/366/fqRKQY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6205" tvg-logo="http://epg.one/img/6205.png" tvg-rec="0",Liberty Кино ENG 4K
+https://captaintv.net/iptv/users/366/JRpYMU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6206" tvg-logo="http://epg.one/img/6206.png" tvg-rec="0",Liberty Мульт ENG 4K
+https://captaintv.net/iptv/users/366/XkweSk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6230" tvg-logo="http://epg.one/img/6230.png" tvg-rec="0",Liberty Кино UKR 4K
+https://captaintv.net/iptv/users/366/aiUWUk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6231" tvg-logo="http://epg.one/img/6231.png" tvg-rec="0",Liberty РусФильм 4K
+https://captaintv.net/iptv/users/366/iYrofp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6340" tvg-logo="http://epg.one/img/6340.png" tvg-rec="0",Liberty Индия 4K
+https://captaintv.net/iptv/users/366/iShzgj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6341" tvg-logo="http://epg.one/img/6341.png" tvg-rec="0",Liberty Куб 4K
+https://captaintv.net/iptv/users/366/gcwzZv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6394" tvg-logo="http://epg.one/img/6394.png" tvg-rec="0",Liberty Семейный 4K
+https://captaintv.net/iptv/users/366/mnDjRg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6727" tvg-logo="http://epg.one/img/6727.png" tvg-rec="0",Liberty Турк Фильм 4K
+https://captaintv.net/iptv/users/366/JTcIfI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6728" tvg-logo="http://epg.one/img/6728.png" tvg-rec="0",Liberty Сказки FHD
+https://captaintv.net/iptv/users/366/AtIvpy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6729" tvg-logo="http://epg.one/img/6729.png" tvg-rec="0",Liberty МиМ FHD
+https://captaintv.net/iptv/users/366/yIMAqe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6730" tvg-logo="http://epg.one/img/6730.png" tvg-rec="0",Liberty Союз 4K
+https://captaintv.net/iptv/users/366/osBbWG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6731" tvg-logo="http://epg.one/img/6731.png" tvg-rec="0",Liberty Легенда 4K
+https://captaintv.net/iptv/users/366/MeCzdA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6855" tvg-logo="http://epg.one/img/6855.png" tvg-rec="0",Liberty Нетфликс 4K
+https://captaintv.net/iptv/users/366/MJLaKH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6856" tvg-logo="http://epg.one/img/6856.png" tvg-rec="0",Liberty Фантастика FHD
+https://captaintv.net/iptv/users/366/VauEqt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5524" tvg-logo="http://epg.one/img/5524.png" tvg-rec="0",CineMan Скорая Помощь
+https://captaintv.net/iptv/users/366/xRJaaL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5525" tvg-logo="http://epg.one/img/5525.png" tvg-rec="0",CineMan Симпсоны
+https://captaintv.net/iptv/users/366/kFgINT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5593" tvg-logo="http://epg.one/img/5593.png" tvg-rec="0",MS Prisons HD
+https://captaintv.net/iptv/users/366/byNDsr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5594" tvg-logo="http://epg.one/img/5594.png" tvg-rec="0",MS Toons HD
+https://captaintv.net/iptv/users/366/uIlbez.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6140" tvg-logo="http://epg.one/img/6140.png" tvg-rec="0",MS Magic 4K
+https://captaintv.net/iptv/users/366/icANTN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5595" tvg-logo="http://epg.one/img/5595.png" tvg-rec="0",MS Young Blood HD
+https://captaintv.net/iptv/users/366/TavJFp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6166" tvg-logo="http://epg.one/img/6166.png" tvg-rec="0",MS Animated HD
+https://captaintv.net/iptv/users/366/YvmKNs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6006" tvg-logo="http://epg.one/img/6006.png" tvg-rec="0",Citrus Cartoon
+https://captaintv.net/iptv/users/366/NRIJpU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6007" tvg-logo="http://epg.one/img/6007.png" tvg-rec="0",Citrus Marvel
+https://captaintv.net/iptv/users/366/RjHJpI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6105" tvg-logo="http://epg.one/img/6105.png" tvg-rec="0",Fresh Cinema
+https://captaintv.net/iptv/users/366/WiGCNZ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6128" tvg-logo="http://epg.one/img/6128.png" tvg-rec="0",Fresh Kids
+https://captaintv.net/iptv/users/366/zNcLFX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6711" tvg-logo="http://epg.one/img/6711.png" tvg-rec="0",Fresh Comedy
+https://captaintv.net/iptv/users/366/XZLuQu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6712" tvg-logo="http://epg.one/img/6712.png" tvg-rec="0",Fresh Premiere
+https://captaintv.net/iptv/users/366/BqIYsW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6713" tvg-logo="http://epg.one/img/6713.png" tvg-rec="0",Fresh Family
+https://captaintv.net/iptv/users/366/TsvQUH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6714" tvg-logo="http://epg.one/img/6714.png" tvg-rec="0",Fresh Rating
+https://captaintv.net/iptv/users/366/dTKpFh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6715" tvg-logo="http://epg.one/img/6715.png" tvg-rec="0",Fresh VHS
+https://captaintv.net/iptv/users/366/hXUntH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6716" tvg-logo="http://epg.one/img/6716.png" tvg-rec="0",Fresh Fantastic
+https://captaintv.net/iptv/users/366/rJFHyW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6717" tvg-logo="http://epg.one/img/6717.png" tvg-rec="0",Fresh Series
+https://captaintv.net/iptv/users/366/KDkEUi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6718" tvg-logo="http://epg.one/img/6718.png" tvg-rec="0",Fresh Horror
+https://captaintv.net/iptv/users/366/hdAPbl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6719" tvg-logo="http://epg.one/img/6719.png" tvg-rec="0",Fresh Adventure
+https://captaintv.net/iptv/users/366/KGMthv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6720" tvg-logo="http://epg.one/img/6720.png" tvg-rec="0",Fresh Romantic
+https://captaintv.net/iptv/users/366/pdgsRW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6721" tvg-logo="http://epg.one/img/6721.png" tvg-rec="0",Fresh Russian
+https://captaintv.net/iptv/users/366/UNEHfD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6722" tvg-logo="http://epg.one/img/6722.png" tvg-rec="0",Fresh Thriller
+https://captaintv.net/iptv/users/366/waESSY.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6723" tvg-logo="http://epg.one/img/6723.png" tvg-rec="0",Fresh Soviet
+https://captaintv.net/iptv/users/366/DpOxHN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6107" tvg-logo="http://epg.one/img/6107.png" tvg-rec="0",KLI Comedy HD
+https://captaintv.net/iptv/users/366/OZcBaU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6233" tvg-logo="http://epg.one/img/6233.png" tvg-rec="0",KLI History HD
+https://captaintv.net/iptv/users/366/QsLcUu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6235" tvg-logo="http://epg.one/img/6235.png" tvg-rec="0",KLI Russian HD
+https://captaintv.net/iptv/users/366/xEtgWy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6236" tvg-logo="http://epg.one/img/6236.png" tvg-rec="0",KLI Fantastic HD
+https://captaintv.net/iptv/users/366/xwbGhm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6395" tvg-logo="http://epg.one/img/6395.png" tvg-rec="0",KLI VHS HD
+https://captaintv.net/iptv/users/366/yxRGyX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6396" tvg-logo="http://epg.one/img/6396.png" tvg-rec="0",KLI Thriller HD
+https://captaintv.net/iptv/users/366/MdifvA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6397" tvg-logo="http://epg.one/img/6397.png" tvg-rec="0",KLI СССР HD
+https://captaintv.net/iptv/users/366/bBqriF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6398" tvg-logo="http://epg.one/img/6398.png" tvg-rec="0",KLI Family HD
+https://captaintv.net/iptv/users/366/kQtRlB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6399" tvg-logo="http://epg.one/img/6399.png" tvg-rec="0",KLI Retro HD
+https://captaintv.net/iptv/users/366/JhMLgk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6830" tvg-logo="http://epg.one/img/6830.png" tvg-rec="0",KLI Киносерия HD
+https://captaintv.net/iptv/users/366/deVyNJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7229" tvg-logo="http://epg.one/img/7229.png" tvg-rec="0",KLI Horror HD
+https://captaintv.net/iptv/users/366/dCglQQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7172" tvg-logo="http://epg.one/img/7172.png" tvg-rec="0",KLI Action HD
+https://captaintv.net/iptv/users/366/gMgMcw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7174" tvg-logo="http://epg.one/img/7174.png" tvg-rec="0",KLI Drama HD
+https://captaintv.net/iptv/users/366/SxMGtR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7175" tvg-logo="http://epg.one/img/7175.png" tvg-rec="0",KLI Fantasy HD
+https://captaintv.net/iptv/users/366/oCUTpR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6207" tvg-logo="http://epg.one/img/6207.png" tvg-rec="0",Eye Media HD
+https://captaintv.net/iptv/users/366/SKsdFB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6208" tvg-logo="http://epg.one/img/6208.png" tvg-rec="0",Eye Oscar HD
+https://captaintv.net/iptv/users/366/bubXiz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6209" tvg-logo="http://epg.one/img/6209.png" tvg-rec="0",Eye Frozen HD
+https://captaintv.net/iptv/users/366/NKVjAv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6210" tvg-logo="http://epg.one/img/6210.png" tvg-rec="0",Eye Criminal HD
+https://captaintv.net/iptv/users/366/kFEZJR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6211" tvg-logo="http://epg.one/img/6211.png" tvg-rec="0",Eye Modern HD
+https://captaintv.net/iptv/users/366/kHEIsG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6241" tvg-logo="http://epg.one/img/6241.png" tvg-rec="0",START Air HD
+https://captaintv.net/iptv/users/366/lBXQwd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6242" tvg-logo="http://epg.one/img/6242.png" tvg-rec="0",VB Российские Сериалы
+https://captaintv.net/iptv/users/366/mkmCoS.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6243" tvg-logo="http://epg.one/img/6243.png" tvg-rec="0",Kinoshka Thriller HD
+https://captaintv.net/iptv/users/366/ZzsZGd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6245" tvg-logo="http://epg.one/img/6245.png" tvg-rec="0",Kinoshka Comedy HD
+https://captaintv.net/iptv/users/366/dlcopI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6246" tvg-logo="http://epg.one/img/6246.png" tvg-rec="0",Kinoshka Russian HD
+https://captaintv.net/iptv/users/366/zjGuzl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6247" tvg-logo="http://epg.one/img/6247.png" tvg-rec="0",Kinoshka Mystic HD
+https://captaintv.net/iptv/users/366/hKsTng.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6330" tvg-logo="http://epg.one/img/6330.png" tvg-rec="0",Kinoshka Premiere HD
+https://captaintv.net/iptv/users/366/LdpFgX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6331" tvg-logo="http://epg.one/img/6331.png" tvg-rec="0",Kinoshka Action HD
+https://captaintv.net/iptv/users/366/shKiVo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6400" tvg-logo="http://epg.one/img/6400.png" tvg-rec="0",Kinoshka Drama HD
+https://captaintv.net/iptv/users/366/SilPJo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6248" tvg-logo="http://epg.one/img/6248.png" tvg-rec="0",Magic Karate HD
+https://captaintv.net/iptv/users/366/yTFhTq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6249" tvg-logo="http://epg.one/img/6249.png" tvg-rec="0",Magic VHS HD
+https://captaintv.net/iptv/users/366/LeDNVB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6250" tvg-logo="http://epg.one/img/6250.png" tvg-rec="0",Magic Comedy HD
+https://captaintv.net/iptv/users/366/iJvTvf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6252" tvg-logo="http://epg.one/img/6252.png" tvg-rec="0",Magic Thriller HD
+https://captaintv.net/iptv/users/366/BPMHYJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6253" tvg-logo="http://epg.one/img/6253.png" tvg-rec="0",Magic Action HD
+https://captaintv.net/iptv/users/366/KIuIAg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6254" tvg-logo="http://epg.one/img/6254.png" tvg-rec="0",Magic Galaxy HD
+https://captaintv.net/iptv/users/366/TmgzrA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6255" tvg-logo="http://epg.one/img/6255.png" tvg-rec="0",Magic Horror HD
+https://captaintv.net/iptv/users/366/cNifnK.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6337" tvg-logo="http://epg.one/img/6337.png" tvg-rec="0",Magic Family HD
+https://captaintv.net/iptv/users/366/nEtCvp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6338" tvg-logo="http://epg.one/img/6338.png" tvg-rec="0",Magic Love HD
+https://captaintv.net/iptv/users/366/HEVbfV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6256" tvg-logo="http://epg.one/img/6256.png" tvg-rec="0",Tviksel Кино 1 HD
+https://captaintv.net/iptv/users/366/GbLlll.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6257" tvg-logo="http://epg.one/img/6257.png" tvg-rec="0",Tviksel Кино 2 HD
+https://captaintv.net/iptv/users/366/jYgyKH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6258" tvg-logo="http://epg.one/img/6258.png" tvg-rec="0",Tviksel Кино 1 International
+https://captaintv.net/iptv/users/366/AQhgDp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6259" tvg-logo="http://epg.one/img/6259.png" tvg-rec="0",Tviksel Военное кино HD
+https://captaintv.net/iptv/users/366/lUxjNr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6260" tvg-logo="http://epg.one/img/6260.png" tvg-rec="0",Tviksel Детское кино HD
+https://captaintv.net/iptv/users/366/fDTKrH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6261" tvg-logo="http://epg.one/img/6261.png" tvg-rec="0",Tviksel Детское кино International
+https://captaintv.net/iptv/users/366/gZOvUq.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Триколор Взвешенные люди HD
+https://captaintv.net/iptv/users/366/yzjlDr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="0",Триколор След
+https://captaintv.net/iptv/users/366/znzgDH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Триколор Ментовские войны
+https://captaintv.net/iptv/users/366/cYinRt.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6356" tvg-logo="http://epg.one/img/6356.png" tvg-rec="0",Триколор Мелодрамы
+https://captaintv.net/iptv/users/366/QIEEMr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Триколор Солдаты
+https://captaintv.net/iptv/users/366/CWiUcP.m3u8
+#EXTINF:0 group-title="Кино" tvg-rec="0",Триколор Таксистка
+https://captaintv.net/iptv/users/366/LddXPJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три кота
+https://captaintv.net/iptv/users/366/wCNLAW.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Триколор Вне закона
+https://captaintv.net/iptv/users/366/BAlrGK.m3u8
+#EXTINF:0 group-title="Кино" tvg-rec="0",Триколор Анна
+https://captaintv.net/iptv/users/366/BlgEdS.m3u8
+#EXTINF:0 group-title="Кино" tvg-rec="0",Триколор Советские мультфильмы
+https://captaintv.net/iptv/users/366/ANhLXz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Триколор Смешарики
+https://captaintv.net/iptv/users/366/yXVWVJ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6364" tvg-logo="http://epg.one/img/6364.png" tvg-rec="0",Триколор Комедии
+https://captaintv.net/iptv/users/366/JSoHWh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="799" tvg-logo="http://epg.one/img/799.png" tvg-rec="0",Киносерия HD
+https://captaintv.net/iptv/users/366/TAHXXh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img/485.png" tvg-rec="0",Наше Новое Кино HD
+https://captaintv.net/iptv/users/366/erAhlr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2754" tvg-logo="http://epg.one/img/2754.png" tvg-rec="0",Cinema HD
+https://captaintv.net/iptv/users/366/HZVlVy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6696" tvg-logo="http://epg.one/img/6696.png" tvg-rec="0",BOX Franchise HD
+https://captaintv.net/iptv/users/366/iaELNH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6697" tvg-logo="http://epg.one/img/6697.png" tvg-rec="0",BOX Hybrid HD
+https://captaintv.net/iptv/users/366/KFKCHk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6698" tvg-logo="http://epg.one/img/6698.png" tvg-rec="0",BOX Anime HD
+https://captaintv.net/iptv/users/366/xotmgs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6699" tvg-logo="http://epg.one/img/6699.png" tvg-rec="0",BOX Gangster HD
+https://captaintv.net/iptv/users/366/QklSIv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6700" tvg-logo="http://epg.one/img/6700.png" tvg-rec="0",BOX Oscar HD
+https://captaintv.net/iptv/users/366/CAaFSu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6701" tvg-logo="http://epg.one/img/6701.png" tvg-rec="0",BOX Memory HD
+https://captaintv.net/iptv/users/366/HRGAuu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6702" tvg-logo="http://epg.one/img/6702.png" tvg-rec="0",BOX M.Serial HD
+https://captaintv.net/iptv/users/366/saLNga.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6703" tvg-logo="http://epg.one/img/6703.png" tvg-rec="0",BOX Serial HD
+https://captaintv.net/iptv/users/366/BiMoya.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6704" tvg-logo="http://epg.one/img/6704.png" tvg-rec="0",BOX Game HD
+https://captaintv.net/iptv/users/366/rLRqgI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6705" tvg-logo="http://epg.one/img/6705.png" tvg-rec="0",BOX Spy HD
+https://captaintv.net/iptv/users/366/zIrNYG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6831" tvg-logo="http://epg.one/img/6831.png" tvg-rec="0",BOX Travel HD
+https://captaintv.net/iptv/users/366/wlVjKO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6832" tvg-logo="http://epg.one/img/6832.png" tvg-rec="0",BOX Western HD
+https://captaintv.net/iptv/users/366/IVhhUz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6833" tvg-logo="http://epg.one/img/6833.png" tvg-rec="0",BOX Zombie HD
+https://captaintv.net/iptv/users/366/oZyegC.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6834" tvg-logo="http://epg.one/img/6834.png" tvg-rec="0",BOX Cyber HD
+https://captaintv.net/iptv/users/366/dllzUH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6836" tvg-logo="http://epg.one/img/6836.png" tvg-rec="0",PG Insomnia HD
+https://captaintv.net/iptv/users/366/bjivmx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="104" tvg-logo="http://epg.one/img/104.png" tvg-rec="0",MYTV
+https://captaintv.net/iptv/users/366/tZyvGQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="105" tvg-logo="http://epg.one/img/105.png" tvg-rec="0",MYTV 2
+https://captaintv.net/iptv/users/366/LIRvLH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="106" tvg-logo="http://epg.one/img/106.png" tvg-rec="0",MYTV 3
+https://captaintv.net/iptv/users/366/ivNmOx.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="107" tvg-logo="http://epg.one/img/107.png" tvg-rec="0",MYTV HIT
+https://captaintv.net/iptv/users/366/kfKeny.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7153" tvg-logo="http://epg.one/img/7153.png" tvg-rec="0",Citrus Live HD
+https://captaintv.net/iptv/users/366/BeNtyV.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7486" tvg-logo="http://epg.one/img/7486.png" tvg-rec="0",Liberty Планктон FHD
+https://captaintv.net/iptv/users/366/lINYHQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7487" tvg-logo="http://epg.one/img/7487.png" tvg-rec="0",Magic Adventure HD
+https://captaintv.net/iptv/users/366/EdoFWA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7488" tvg-logo="http://epg.one/img/7488.png" tvg-rec="0",BOX Ghost HD
+https://captaintv.net/iptv/users/366/PSitmg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7489" tvg-logo="http://epg.one/img/7489.png" tvg-rec="0",BOX Stories HD
+https://captaintv.net/iptv/users/366/MfpWCi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7490" tvg-logo="http://epg.one/img/7490.png" tvg-rec="0",BOX Fantasy HD
+https://captaintv.net/iptv/users/366/ZUsldF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7491" tvg-logo="http://epg.one/img/7491.png" tvg-rec="0",BOX Premiere 4K
+https://captaintv.net/iptv/users/366/zWRbTD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7492" tvg-logo="http://epg.one/img/7492.png" tvg-rec="0",BOX Remast 4K
+https://captaintv.net/iptv/users/366/XmMcXp.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7493" tvg-logo="http://epg.one/img/7493.png" tvg-rec="0",BOX Mayday HD
+https://captaintv.net/iptv/users/366/vwmvJO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7941" tvg-logo="http://epg.one/img/7941.png" tvg-rec="0",Liberty XX Век 4K
+https://captaintv.net/iptv/users/366/HLnhVI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7896" tvg-logo="http://epg.one/img/7896.png" tvg-rec="0",VB Назад в СССР HD
+https://captaintv.net/iptv/users/366/lGLJGL.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7897" tvg-logo="http://epg.one/img/7897.png" tvg-rec="0",VB Спецназ-Диверсант HD
+https://captaintv.net/iptv/users/366/xoqksA.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7898" tvg-logo="http://epg.one/img/7898.png" tvg-rec="0",KLI Netflix HD
+https://captaintv.net/iptv/users/366/DMfyWT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7901" tvg-logo="http://epg.one/img/7901.png" tvg-rec="0",DetectiveJam HD
+https://captaintv.net/iptv/users/366/KDIEnc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7902" tvg-logo="http://epg.one/img/7902.png" tvg-rec="0",FamilyJam HD
+https://captaintv.net/iptv/users/366/IlYZHf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7903" tvg-logo="http://epg.one/img/7903.png" tvg-rec="0",KION Хит HD
+https://captaintv.net/iptv/users/366/pxRbVR.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7908" tvg-logo="http://epg.one/img/7908.png" tvg-rec="0",Eye Family HD
+https://captaintv.net/iptv/users/366/iHXIZN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7909" tvg-logo="http://epg.one/img/7909.png" tvg-rec="0",Eye History HD
+https://captaintv.net/iptv/users/366/BSvcnI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7910" tvg-logo="http://epg.one/img/7910.png" tvg-rec="0",Eye Western HD
+https://captaintv.net/iptv/users/366/gvySAf.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7911" tvg-logo="http://epg.one/img/7911.png" tvg-rec="0",Eye Drive HD
+https://captaintv.net/iptv/users/366/fzVHVj.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="7942" tvg-logo="http://epg.one/img/7942.png" tvg-rec="0",Eye Cyber HD
+https://captaintv.net/iptv/users/366/gtBKsF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8748" tvg-logo="http://epg.one/img/8748.png" tvg-rec="0",MM Кинофестиваль HD
+https://captaintv.net/iptv/users/366/dBWtJT.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8749" tvg-logo="http://epg.one/img/8749.png" tvg-rec="0",VB Сваты HD
+https://captaintv.net/iptv/users/366/uWeYGB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9436" tvg-logo="http://epg.one/img/9436.png" tvg-rec="0",CineMan Криминальные Сериалы
+https://captaintv.net/iptv/users/366/cmAPVr.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9437" tvg-logo="http://epg.one/img/9437.png" tvg-rec="0",CineMan Комедийные Сериалы
+https://captaintv.net/iptv/users/366/wrtERc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8753" tvg-logo="http://epg.one/img/8753.png" tvg-rec="0",CineMan Фитнес
+https://captaintv.net/iptv/users/366/VTzGGs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8754" tvg-logo="http://epg.one/img/8754.png" tvg-rec="0",Magic Russian HD
+https://captaintv.net/iptv/users/366/dWaJfG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8755" tvg-logo="http://epg.one/img/8755.png" tvg-rec="0",KLI Millennium HD
+https://captaintv.net/iptv/users/366/UACPTB.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8756" tvg-logo="http://epg.one/img/8756.png" tvg-rec="0",KLI Marvel HD
+https://captaintv.net/iptv/users/366/YxIbwd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8757" tvg-logo="http://epg.one/img/8757.png" tvg-rec="0",KLI Franchise HD
+https://captaintv.net/iptv/users/366/pUgEGs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8759" tvg-logo="http://epg.one/img/8759.png" tvg-rec="0",KLI Relax HD
+https://captaintv.net/iptv/users/366/gjSpTF.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8760" tvg-logo="http://epg.one/img/8760.png" tvg-rec="0",VeleS 60fps
+https://captaintv.net/iptv/users/366/jqFibn.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8761" tvg-logo="http://epg.one/img/8761.png" tvg-rec="0",VeleS Киноплёнка
+https://captaintv.net/iptv/users/366/nbJXTO.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8762" tvg-logo="http://epg.one/img/8762.png" tvg-rec="0",VeleS Киносерия
+https://captaintv.net/iptv/users/366/YiBFiu.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8763" tvg-logo="http://epg.one/img/8763.png" tvg-rec="0",VeleS Premiere
+https://captaintv.net/iptv/users/366/PFHrZl.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8764" tvg-logo="http://epg.one/img/8764.png" tvg-rec="0",VeleS Страшное
+https://captaintv.net/iptv/users/366/SKVqJH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8765" tvg-logo="http://epg.one/img/8765.png" tvg-rec="0",VeleS СССР
+https://captaintv.net/iptv/users/366/iEFrhE.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8766" tvg-logo="http://epg.one/img/8766.png" tvg-rec="0",VeleS Movie Hits
+https://captaintv.net/iptv/users/366/XtTnNP.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8767" tvg-logo="http://epg.one/img/8767.png" tvg-rec="0",Kinoshka Ukraine HD
+https://captaintv.net/iptv/users/366/jnQDNQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8768" tvg-logo="http://epg.one/img/8768.png" tvg-rec="0",BOX Apocalypse HD
+https://captaintv.net/iptv/users/366/YIaayX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8922" tvg-logo="http://epg.one/img/8922.png" tvg-rec="0",BOX Remast+ 4K
+https://captaintv.net/iptv/users/366/EUNMSb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8923" tvg-logo="http://epg.one/img/8923.png" tvg-rec="0",BOX Serial 4K
+https://captaintv.net/iptv/users/366/OXXsNd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8769" tvg-logo="http://epg.one/img/8769.png" tvg-rec="0",BCU Russia 90s HD
+https://captaintv.net/iptv/users/366/QMYxgh.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8937" tvg-logo="http://epg.one/img/8937.png" tvg-rec="0",Liberty Мульт UKR FHD
+https://captaintv.net/iptv/users/366/kIfVTi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8938" tvg-logo="http://epg.one/img/8938.png" tvg-rec="0",Liberty Кино UKR FHD
+https://captaintv.net/iptv/users/366/NNEcke.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8924" tvg-logo="http://epg.one/img/8924.png" tvg-rec="0",Liberty Дрим Воркс 4K
+https://captaintv.net/iptv/users/366/qGJoEv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8926" tvg-logo="http://epg.one/img/8926.png" tvg-rec="0",Liberty Криминал 4K
+https://captaintv.net/iptv/users/366/oheduz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8927" tvg-logo="http://epg.one/img/8927.png" tvg-rec="0",Liberty Аванпост 4K
+https://captaintv.net/iptv/users/366/lYokwi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8928" tvg-logo="http://epg.one/img/8928.png" tvg-rec="0",Liberty Сериалы 4K
+https://captaintv.net/iptv/users/366/YcrWCs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8782" tvg-logo="http://epg.one/img/8782.png" tvg-rec="0",Z!Thriller HD
+https://captaintv.net/iptv/users/366/TyPnMb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-rec="0",Z!Action HD
+https://captaintv.net/iptv/users/366/qoYPxo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8784" tvg-logo="http://epg.one/img/8784.png" tvg-rec="0",Z!Adventure HD
+https://captaintv.net/iptv/users/366/hZsuKg.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8785" tvg-logo="http://epg.one/img/8785.png" tvg-rec="0",Z!Detective HD
+https://captaintv.net/iptv/users/366/XamKuc.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8786" tvg-logo="http://epg.one/img/8786.png" tvg-rec="0",Z!Drama HD
+https://captaintv.net/iptv/users/366/jNvqht.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8787" tvg-logo="http://epg.one/img/8787.png" tvg-rec="0",Z!Family HD
+https://captaintv.net/iptv/users/366/ufrnxG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8788" tvg-logo="http://epg.one/img/8788.png" tvg-rec="0",Z!Fantastic HD
+https://captaintv.net/iptv/users/366/mkXnfN.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8789" tvg-logo="http://epg.one/img/8789.png" tvg-rec="0",Z!Fantasy HD
+https://captaintv.net/iptv/users/366/cqfjSs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8790" tvg-logo="http://epg.one/img/8790.png" tvg-rec="0",Z!Russian HD
+https://captaintv.net/iptv/users/366/mSCvHD.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8791" tvg-logo="http://epg.one/img/8791.png" tvg-rec="0",Z!Fun HD
+https://captaintv.net/iptv/users/366/PnkFvk.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8792" tvg-logo="http://epg.one/img/8792.png" tvg-rec="0",StrahTV Horror HD
+https://captaintv.net/iptv/users/366/oEkHAQ.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8793" tvg-logo="http://epg.one/img/8793.png" tvg-rec="0",StrahTV Байки из склепа
+https://captaintv.net/iptv/users/366/PhttRI.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8794" tvg-logo="http://epg.one/img/8794.png" tvg-rec="0",StrahTV Громовы
+https://captaintv.net/iptv/users/366/nfXjIX.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8795" tvg-logo="http://epg.one/img/8795.png" tvg-rec="0",StrahTV Коломбо
+https://captaintv.net/iptv/users/366/XwJBMb.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8796" tvg-logo="http://epg.one/img/8796.png" tvg-rec="0",StrahTV Кинодром HD
+https://captaintv.net/iptv/users/366/xgtpjG.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8797" tvg-logo="http://epg.one/img/8797.png" tvg-rec="0",StrahTV Bond 007
+https://captaintv.net/iptv/users/366/lGKEGs.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8799" tvg-logo="http://epg.one/img/8799.png" tvg-rec="0",StrahTV Ольга HD
+https://captaintv.net/iptv/users/366/TltTLH.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8800" tvg-logo="http://epg.one/img/8800.png" tvg-rec="0",StrahTV Репка HD
+https://captaintv.net/iptv/users/366/RenIfU.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8801" tvg-logo="http://epg.one/img/8801.png" tvg-rec="0",StrahTV Страх 2.0 HD
+https://captaintv.net/iptv/users/366/wAZyRw.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8802" tvg-logo="http://epg.one/img/8802.png" tvg-rec="0",StrahTV Фантастика 2.0 HD
+https://captaintv.net/iptv/users/366/khpQTt.m3u8
 
 
 
