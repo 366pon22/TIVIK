@@ -1085,7 +1085,384 @@ https://captaintv.net/iptv/users/366/CSsUWx.m3u8
 
 
 
-
+#EXTINF:0 tvg-id="elb3580" catchup="flussonic" catchup-days="3" tvg-name="BOX Kosmo 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/BOXKOSMOHDR200.png",BOX Kosmo 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/op_Xeon/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3578" catchup="flussonic" catchup-days="3" tvg-name="BOX HISTORY 4K HDR" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/box-history-4k.png",BOX HISTORY 4K HDR
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/kl_Frontier/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3806" tvg-name="TravelXP 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/travel-xp-4k.png",TravelXP 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti3/travelxp_4k/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1888" catchup="flussonic" catchup-days="3" tvg-name="Love Nature 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/love-nature-4k.png",Love Nature 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/Love_Nature_4K/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2188" catchup="flussonic" catchup-days="3" tvg-name="Наша Сибирь 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/nasha-sibir-4k.png",Наша Сибирь 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/nAshA_sibir__4K/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb183" catchup="flussonic" catchup-days="3" tvg-name="Глазами Туриста 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/glazami-turista-4k.png",Глазами Туриста 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/glazami_turista_4k/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb99" catchup="flussonic" catchup-days="3" tvg-name="Quadro 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/quadro4k.png",Quadro 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/QUADRO_4K/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb74" tvg-name="HOME 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/home4k.png",HOME 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/08936907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb92" catchup="flussonic" catchup-days="3" tvg-name="Museum 4K" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/museum-4k.png",Museum 4K
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/museum_4k/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb218" catchup="flussonic" catchup-days="3" tvg-name="Insight UHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/uhd/insight-ultra-hd.png",Insight UHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/08936908/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb577" catchup="flussonic" catchup-days="3" tvg-name="CineMan Air Crash" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/cineman/Cineman-AirCrash.png",CineMan Air Crash
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/08946967/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3583" catchup="flussonic" catchup-days="3" tvg-name="BOX Mayday HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/mayday.png",BOX Mayday HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/sz_AbY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3617" catchup="flussonic" catchup-days="3" tvg-name="BOX Travel HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/travel.png",BOX Travel HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/qz_44K/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3618" catchup="flussonic" catchup-days="3" tvg-name="BOX Travel Premiere HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/box-travel.png",BOX Travel Premiere HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/tz_12W/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3570" catchup="flussonic" catchup-days="3" tvg-name="BOX Docu. HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/box/box-docu.png",BOX Docu. HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/rz_7QX/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb634" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY BBC FHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-bbc.png",LIBERTY BBC FHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/08946911/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb648" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY ПЛАНЕТА 360 FHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-plan360.png",LIBERTY ПЛАНЕТА 360 FHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/08946915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb631" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY НАУКА FHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-nauka.png",LIBERTY НАУКА FHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/08946929/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb659" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY ДОКУМЕНТАЛКА FHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-documentalka.png",LIBERTY ДОКУМЕНТАЛКА FHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/08946965/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb524" catchup="flussonic" catchup-days="3" tvg-name="MM Микромир HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1049.png",MM Микромир HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_micromir/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb525" catchup="flussonic" catchup-days="3" tvg-name="MM Макромир HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1050.png",MM Макромир HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_macromir/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb526" catchup="flussonic" catchup-days="3" tvg-name="MM Мегамир HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1051.png",MM Мегамир HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_megamir/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb488" catchup="flussonic" catchup-days="3" tvg-name="MM Live Planet HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1008.png",MM Live Planet HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_live_planet/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb552" catchup="flussonic" catchup-days="3" tvg-name="MM Experiment HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1004.png",MM Experiment HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_experiment/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb557" catchup="flussonic" catchup-days="3" tvg-name="MM Открытия HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/minimax/1054.png",MM Открытия HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/minimax_otkritiya/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb473" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Science" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-science.png",Yosso TV Science
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/Y-SCIENCE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb467" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Nature" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-nature.png",Yosso TV Nature
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/Y-NATURE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb480" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Travel" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-travel.png",Yosso TV Travel
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/Y-TRAVEL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3033" catchup="flussonic" catchup-days="3" tvg-name="TravelXP HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-xp-hd.png",TravelXP HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/dtx/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Dron TV HD" group-title="Познавательные | Nature" tvg-logo="",Dron TV HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/08946988/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4714" catchup="flussonic" catchup-days="3" tvg-name="Русская история HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/rushistory200.png",Русская история HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti20/09946944/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb205" catchup="flussonic" catchup-days="3" tvg-name="Живая Природа HD" group-title="Познавательные | Nature" tvg-logo="",Живая Природа HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti20/08946975/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2111" catchup="flussonic" catchup-days="3" tvg-name="Моя Стихия FHD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/morskoy.png",Моя Стихия FHD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti19/08946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb179" catchup="flussonic" catchup-days="3" tvg-name="В мире животных HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/v-mire-zhivotnyx.png",В мире животных HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/vmirezhivotnix/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3029" catchup="flussonic" catchup-days="3" tvg-name="Travel Channel HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-channel.png",Travel Channel HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/Travel_Channel_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb138" catchup="flussonic" catchup-days="3" tvg-name="Travel+Adventure HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/travel-adventure.png",Travel+Adventure HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/TRAVELPLUSADVENTURE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1310" catchup="flussonic" catchup-days="3" tvg-name="Discovery HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/discovery-channel.png",Discovery HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti8/discovery/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1619" catchup="flussonic" catchup-days="3" tvg-name="Investigation Discovery HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/idxtra.png",Investigation Discovery HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/idxtra/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4235" catchup="flussonic" catchup-days="3" tvg-name="National Geographic HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/national-geographic.png",National Geographic HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/NATIONALGEOGRAPHIC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4234" catchup="flussonic" catchup-days="3" tvg-name="Nat Geo Wild HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/nat-geo-wild.png",Nat Geo Wild HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/NatGeoWild/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb791" catchup="flussonic" catchup-days="3" tvg-name="Animal Planet HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/animal-planet.png",Animal Planet HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/AnimalPlanet/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb791" tvg-name="Animal Planet" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/animal-planet.png",Animal Planet
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/Animal_Planet/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb895" tvg-name="BBC Earth" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/efir/bbc-earth.png",BBC Earth
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/bbc_earth/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb347" catchup="flussonic" catchup-days="3" tvg-name="Приключения HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/prikluchenia-hd.png",Приключения HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/PRIKLUCHENIA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb294" catchup="flussonic" catchup-days="3" tvg-name="Моя Планета HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/moya-planeta.png",Моя Планета HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/moyaplanetahd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb132" catchup="flussonic" catchup-days="3" tvg-name="The Explorers HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/the-explorers.png",The Explorers HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/08936902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb251" catchup="flussonic" catchup-days="3" tvg-name="Конгресс ТВ HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/kongresstv.png",Конгресс ТВ HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti19/08946926/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Чемодан ТВ HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/chemodan.png",Чемодан ТВ HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti3/xi_Tiger/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2170" catchup="flussonic" catchup-days="3" tvg-name="Мы HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/myy.png",Мы HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti19/08946922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb254" catchup="flussonic" catchup-days="3" tvg-name="Кто есть кто" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/kto-est-kto.png",Кто есть кто
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/KTOESTKTO/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb402" catchup="flussonic" catchup-days="3" tvg-name="Тайны Галактики HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/galaxy-tv.png",Тайны Галактики HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/GALAXY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb342" catchup="flussonic" catchup-days="3" tvg-name="Первый Космический HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/kosmichesky.png",Первый Космический HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/PERVIYKOSMICHESKIY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb49" catchup="flussonic" catchup-days="3" tvg-name="Curiosity Stream HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/curiosity_stream.jpg",Curiosity Stream HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/curiosity_stream_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4873" catchup="flussonic" catchup-days="3" tvg-name="Nano HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/nano-hd.png",Nano HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/nAno_tv_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb306" catchup="flussonic" catchup-days="3" tvg-name="Наука 2.0 HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/nauka-20.png",Наука 2.0 HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/NAUKA20/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb189" catchup="flussonic" catchup-days="3" tvg-name="Диалоги о рыбалке" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/dialogi-o-rib.png",Диалоги о рыбалке
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/dialogi/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb191" catchup="flussonic" catchup-days="3" tvg-name="Дикая Рыбалка HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/dikaya-rybalka-hd.png",Дикая Рыбалка HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/DIKAYARYBALKA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb374" catchup="flussonic" catchup-days="3" tvg-name="Рыболов" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/oxotnik-i-rybolov-hd.png",Рыболов
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/rybolov/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb336" catchup="flussonic" catchup-days="3" tvg-name="Охота и рыбалка" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/oxota-i-rybalka.png",Охота и рыбалка
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/OHOTAIRIBALKA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb337" catchup="flussonic" catchup-days="3" tvg-name="Охотник и рыболов HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/oxotnik-i-rybolov.png",Охотник и рыболов HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/ohotnik_rybolov_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb190" catchup="flussonic" catchup-days="3" tvg-name="Дикая Охота HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/dikaya-oxota-hd.png",Дикая Охота HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/DIKAYAOHOTA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1309" catchup="flussonic" catchup-days="3" tvg-name="Дикий" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/dikiy.png",Дикий
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/dikiy/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb310" catchup="flussonic" catchup-days="3" tvg-name="Наша Тема HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/nasha-tema.png",Наша Тема HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/nAshA_temA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="First TV Охота и Рыбалка HD" group-title="Познавательные | Nature" tvg-logo="",First TV Охота и Рыбалка HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti20/09946913/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="1443" catchup="flussonic" catchup-days="3" tvg-name="Старт Туран" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/sport/startturan.png",Старт Туран
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/08946966/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2063" catchup="flussonic" catchup-days="3" tvg-name="Мир Вокруг HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/mir-vokrug.png",Мир Вокруг HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/MIRVOKRUG/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb96" catchup="flussonic" catchup-days="3" tvg-name="Океан! HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/ocean-tv.png",Океан! HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/OCEANTV/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb12" catchup="flussonic" catchup-days="3" tvg-name="365 дней" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/365-dnej.png",365 дней
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/365DNEY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb331" catchup="flussonic" catchup-days="3" tvg-name="Оружие" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/oruzhie.png",Оружие
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/oruzhie/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb287" catchup="flussonic" catchup-days="3" tvg-name="#КтоКуда" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/mir-uvlecheniy.png",#КтоКуда
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/ktokudA__mir_uvlecheniiy_/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2619" tvg-name="РЖД ТВ" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/efir/rzhd-tv.png",РЖД ТВ
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/rzhd_tv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4230" catchup="flussonic" catchup-days="3" tvg-name="History HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/history-hd.png",History HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/HistoryHD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1589" catchup="flussonic" catchup-days="3" tvg-name="H2 HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/h2.png",H2 HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti19/08946911/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb106" catchup="flussonic" catchup-days="3" tvg-name="RTД HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/russia-today.png",RTД HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti8/RTD_RU/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4891" catchup="flussonic" catchup-days="3" tvg-name="Точка. РФ HD" group-title="Познавательные | Nature" tvg-logo="https://i.peaktv.pro/img/logos/poznanie/hdl.png",Точка. РФ HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/HDL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb44" catchup="flussonic" catchup-days="3" tvg-name="CGTN Русский" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/cctv-ru.png",CGTN Русский
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/CGTNRUS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1599" catchup="flussonic" catchup-days="3" tvg-name="HGTV HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/hgtv.png",HGTV HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/HGTV/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb219" catchup="flussonic" catchup-days="3" tvg-name="История" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/istoria.png",История
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/ISTORIA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb175" catchup="flussonic" catchup-days="3" tvg-name="Большая Азия HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/bolshaya-azia.png",Большая Азия HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/BOLSHAYAASIA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb164" catchup="flussonic" catchup-days="3" tvg-name="ZooПарк" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zoopark.png",ZooПарк
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/ZOOPARK/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb400" catchup="flussonic" catchup-days="3" tvg-name="24 Техно" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/texno-24.png",24 Техно
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/tehno24/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1323" catchup="flussonic" catchup-days="3" tvg-name="DOCUBOX HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/docubox-hd.png",DOCUBOX HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/docubox_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2811" catchup="flussonic" catchup-days="3" tvg-name="SmartZone HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/smartzone.png",SmartZone HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti3/smartzone/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2176" tvg-name="Надежда" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/nadezhda.png",Надежда
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/nAdezhdA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb429" catchup="flussonic" catchup-days="3" tvg-name="Усадьба" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/usadba.png",Усадьба
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/dXNhYWFkYmFhYQ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb999" catchup="flussonic" catchup-days="3" tvg-name="Бобёр" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/bober.png",Бобёр
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/BOBER/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2948" catchup="flussonic" catchup-days="3" tvg-name="Тайна" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/tayna.png",Тайна
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/dGFpbmE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1633" tvg-name="Insight HD (Eng)" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/insight-tv-hd.png",Insight HD (Eng)
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/insight/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb204" catchup="flussonic" catchup-days="3" tvg-name="Живая планета HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivaya-planeta.png",Живая планета HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/JIVAYAPLANETA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb105" catchup="flussonic" catchup-days="3" tvg-name="RTG HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/efir/rtg-hd.png",RTG HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/rtg/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb104" catchup="flussonic" catchup-days="3" tvg-name="RTG" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/rtg-tv.png",RTG
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/RTG/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb55" catchup="flussonic" catchup-days="3" tvg-name="Epic HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/epic.png",Epic HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/08936907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb148" catchup="flussonic" catchup-days="3" tvg-name="viju Viasat Nature HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-nature.png",viju Viasat Nature HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/VIASATNATURE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb148" catchup="flussonic" catchup-days="3" tvg-name="viju Viasat Nature" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-nature.png",viju Viasat Nature
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/viasat_nature_SD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb146" catchup="flussonic" catchup-days="3" tvg-name="viju Explore HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-explore.png",viju Explore HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/VIASATEXPLORE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb146" catchup="flussonic" catchup-days="3" tvg-name="viju Viasat Explore" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-explore.png",viju Viasat Explore
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/viasat_explore_SD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb147" catchup="flussonic" catchup-days="3" tvg-name="viju Viasat History HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-history.png",viju Viasat History HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/VIASATHISTORY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb147" catchup="flussonic" catchup-days="3" tvg-name="viju Viasat History" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-history.png",viju Viasat History
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/viasat_history_SD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb155" catchup="flussonic" catchup-days="3" tvg-name="viju+ Planet HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-nature-history-hd.png",viju+ Planet HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/VIASATNATUREHISTORY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3348" catchup="flussonic" catchup-days="3" tvg-name="Viasat Explore HD CEE" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/viasat-explore.png",Viasat Explore HD CEE
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/08936904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1603" catchup="flussonic" catchup-days="3" tvg-name="Viasat History HD CEE" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/history-viasat-en.png",Viasat History HD CEE
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/08936905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3355" catchup="flussonic" catchup-days="3" tvg-name="Viasat Nature CEE" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/VIASATNATURE200.png",Viasat Nature CEE
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/mn_Future/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb50" tvg-name="Da Vinci" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/da-vinci.png",Da Vinci
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/Da_Vinci/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb206" catchup="flussonic" catchup-days="3" tvg-name="Живи! HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivi.png",Живи! HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/zhivi/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb142" tvg-name="TVMChannel" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/tvmchannel.png",TVMChannel
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti3/tvmchannel/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb166" catchup="flussonic" catchup-days="3" tvg-name="Авто Плюс" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/avto-plus.png",Авто Плюс
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/Avto_plyus_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1618" tvg-name="ID Fashion HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/id-fashion.png",ID Fashion HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/ID_Fashion_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3473" catchup="flussonic" catchup-days="3" tvg-name="Загородная жизнь" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zagorodnaya-zhizn.png",Загородная жизнь
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/zagorodnayazhiznhd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb212" tvg-name="Здоровое ТВ" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zdorovoe-tv.png",Здоровое ТВ
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/zdorovoe_tv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3512" catchup="flussonic" catchup-days="3" tvg-name="Зоо ТВ" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zootv.png",Зоо ТВ
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/em9vdHY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb296" catchup="flussonic" catchup-days="3" tvg-name="Мужской" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/muzhskoy.png",Мужской
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/muzhskoy/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2419" catchup="flussonic" catchup-days="3" tvg-name="Поехали!" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/poexali.png",Поехали!
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/Poehali/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb199" tvg-name="ЕГЭ ТВ" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/ege-tv.png",ЕГЭ ТВ
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/egae/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2051" tvg-name="Министерство идей" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/ministerstvo-idey.png",Министерство идей
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/ministerstvo_ideiy/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2330" catchup="flussonic" catchup-days="3" tvg-name="Открытый мир" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/otkryty-mir.png",Открытый мир
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/OTKRITIYMIR/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb207" catchup="flussonic" catchup-days="3" tvg-name="Живи Активно HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/zhivi-aktivno.png",Живи Активно HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/lifeactive/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb184" catchup="flussonic" catchup-days="3" tvg-name="Глазами туриста HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/glazami-turista.png",Глазами туриста HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/GLAZAMITURISTA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb28" catchup="flussonic" catchup-days="3" tvg-name="Big Planet HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/big-planet.png",Big Planet HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti6/big_planet/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb131" catchup="flussonic" catchup-days="3" tvg-name="TERRA HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/terra-ru.png",TERRA HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/TERRA_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb315" catchup="flussonic" catchup-days="3" tvg-name="Неизвестная Россия HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/neizvestnaya-rosia.png",Неизвестная Россия HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/unknown_Russia/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2957" catchup="flussonic" catchup-days="3" tvg-name="Телекафе" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/show/telekafe.png",Телекафе
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/08936912/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2209" catchup="flussonic" catchup-days="3" tvg-name="Научпоп HD" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/films/nauchpop.png",Научпоп HD
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti13/SETANTA_EVENT_2/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb385" catchup="flussonic" catchup-days="3" tvg-name="Совершенно секретно (Top Secret)" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/sovsek.png",Совершенно секретно (Top Secret)
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti10/SOVSEC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb192" catchup="flussonic" catchup-days="3" tvg-name="Доктор" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/doktor.png",Доктор
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti1/doktor/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" tvg-name="ВолгВест" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/region/volgvest.png",ВолгВест
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti9/08936905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb54" catchup="flussonic" catchup-days="3" tvg-name="English Class" group-title="Познавательные | Nature" tvg-logo="http://peaktv.su/img/logos/poznanie/english-class.png",English Class
+#EXTGRP:Познавательные | Nature
+http://lobby.peaktv.name/balancer/bigteisti2/EnglishClubTV/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
 
 
 
