@@ -23,6 +23,13 @@ http://ottlinks.club/low/mbdapn76zt/4.m3u8
 http://ottlinks.club/low/mbdapn76zt/360.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Федеральные" ,Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+
+http://diktap8z.socminlt.com/iptv/FETNT58CD7XBR73EDHQ5U5EC/544/index.m3u8
+#EXTINF:0 tvg-rec="7",Ю ТВ
+#EXTGRP:Федеральные
+
+
+
 #EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Пятый канал
 #EXTGRP:Федеральные
 http://ottlinks.club/low/mbdapn76zt/5.m3u8
