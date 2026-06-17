@@ -2356,395 +2356,961 @@ https://jmp2.uk/stvp-FR3900001AC
 
 
 
-#EXTINF:-1 group-title="🏆Спорт", Спорт ТВ [BY]
-http://46.53.208.4:80/live/8112.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Russian Extreme HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт", ВОЛЕЙБОЛ
-https://stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
-http://31.148.48.15/Futbol_HD/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://overtime26.ru/wp-content/themes/overtime/img/overtime.png", Overtime (Ставрополь)
-https://live.overtime26.ru/app/potok/playlist.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Бокс ТВ
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=ts
-
-#EXTINF:-1 group-title="🏆Спорт", Матч! Боец
-http://87.120.142.11:18000/Match!
-
-#EXTINF:-1 group-title="🏆Спорт", Матч! Боец
-https://jekalich.github.io/smtk/channels/match-boets.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Удар ТВ
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Удар ТВ
-https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", MMA-TV
-http://46.53.208.4:80/live/2100.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", MMA-TV
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Viju+ Sport HD
-https://livetv-app.mylifeisgood.net.ru/channels/viju-sporthd.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Viju+ Sport
-https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Viasat sport
-http://46.53.208.4:80/live/6005.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Viasat Sport
-http://193.25.8.59:8000/viasatsport
-#EXTINF:-1 group-title="🏆Спорт", Viasat Sport
-http://37.46.49.14:18010/play/a03l/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт", Viasat Sport
-http://89.218.32.179:18000/play/a02z
-
-#EXTINF:-1 group-title="🏆Спорт", МЯЧ
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
-http://view.my-tv.biz/tv/30513613ac/42471dbf04/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
-https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="KHL",KHL
-http://176.118.197.101/KHL/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", КХЛ ТВ
-https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
-#EXTINF:-1 group-title="🏆Спорт", KHL Prime
-http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-
-#EXTINF:-1 group-title="🏆Спорт", KHL Prime HD
-http://37.46.49.14:18010/play/a01q/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Хоккей ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1  group-title="🏆Спорт", Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1  group-title="🏆Спорт", Trace Sport Stars HD
-http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Спортивный
-http://live-3.otcnet.ru/sportivny/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", ТВ Спорт
-http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт", Поединок
-http://stream-msk-03.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт", Игра
-http://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт", Сила
-http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="bolshoj-efir", Большой эфир
-http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport" tvg-logo="https://arsenal-academy.ru/templates/img/part/part11.jpg", Спортмастер ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-#EXTINF:-1 group-title="🏆Спорт", Мир баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://img.freepik.com/free-vector/boom-flash-white_1308-2912.jpg?semt=ais_hybrid&w=740&q=80", БУМ
-https://stream-msk-07.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт", СТАРТ HD
-http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт", Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-
-#EXTINF:-1 group-title="🏆Спорт", Старт Триумф
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-#EXTINF:-1 group-title="🏆Спорт",Fight Box
-http://193.25.8.59:8000/box
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://i.ibb.co/cSS62gmC/image-2025-10-10-T163813-105.png",Futbol (TJ)
-https://live.teleradiocom.tj/8/3m.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://i.ibb.co/pjMWxZB8/image-28.png",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id=" 5", Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="Беларусь 5", Беларусь 5 HD
-https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="fightbox-hd" tvg-logo="https://iptvx.one/picons/fightbox-hd.png", FightBox
-http://193.25.8.59:8000/box
-
-#EXTINF:-1 group-title="🏆Спорт",Q Football
-http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Q Sport League
-http://77.245.98.18:8000/play/a00c
-
-#EXTINF:-1 group-title="🏆Спорт",QAZSPORT HD
-http://37.46.49.14:18010/play/a04c/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="m1global", M-1 Global
-http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc3NzcxNjM2MywiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzc3MTExNTYzLCJzZXNzaW9uX2lkIjoiNzIyMDcyNDQ4ODBlMTE3NGQ4ZTYwMWFmOGUxZDliYTQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.TkfQVQXq7bZtBKyQES97FKMn1YzEmJqGFTahinreJow
-
-#EXTINF:-1 group-title="🏆Спорт",Setanta Sports 1 HD
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Setanta Sports 2 HD
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Setenta Sports 1
-http://cdntv.online/low/9mlxywika2/1021.m3u8
-#EXTINF:-1 group-title="🏆Спорт", Setenta Sports 2
-http://cdntv.online/low/9mlxywika2/1022.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Setanta Sports 1 HD
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт", Setanta Sports 2 HD
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Сетанта Спорт+ Украина
-http://89.33.29.116/Setanta_SportsHD_UA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🏆Спорт", Setanta Eurasia HD
-http://89.33.29.116/SetantaEurasia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт", Setanta Sports KZ
-http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Setanta Sport Eurasia Plus
-http://37.46.49.14:18010/play/a03g/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Setanta Sports 1 Kazahstan HD
-http://217.154.10.99:2020/channel/57f01b3e/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/setanta2-kz.png",Setanta Sports 2 Kazahstan HD
-http://217.154.10.99:2020/channel/57f08f9d/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/setanta-plus-kz.png",Setanta Sports+ Kazahstan HD
-http://217.154.10.99:2020/channel/5cea662/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/setanta-kz.png",Setanta Qazaqstan HD
-http://217.154.10.99:2020/channel/n219f24fe/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-
-
-
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
-https://fs.uplink.kz/eurosport1/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 1
-http://46.32.176.50/eurosport/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
-http://77.245.98.18:8000/play/a00h
-
-
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 1 HD
-http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 2 HD
-https://fs.uplink.kz/eurosport2/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 2 HD
-http://85.117.37.41/eurosport2/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Eurosport 2
-http://46.32.176.50/eurosport2/index.m3u8
-
-
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="Extreme Sports" ,Extreme Sports HD
-http://46.53.208.4:80/live/3009.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="Extreme Sports" ,Extreme Sports HD
-http://89.33.29.116/Extreme_Sports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="Extreme Sports" ,Extreme Sports HD
-https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",XStream (VPN)
-http://176.122.99.7:7000/ch313/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",PROSTO DRIVE (VPN)
-http://176.122.99.7:7000/ch326/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Рыбалка (VPN)
-http://176.122.99.7:7000/ch344/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",FIGHTBOX HD (VPN)
-http://176.122.99.7:7000/ch118/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/MNBSpro_2015.png",MNB Sport
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport" tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg", VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwj6OmQzSjbgvTm1Vf2ebuYZC3DMjgWnyBqg&s",VITAL DRIVE
-https://tv.a21network.ru/content/37909/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://varzishtv.tj/bitrix/templates/varzish_tv/img/logo.png", ВАРЗИШ ТВ HD
-https://live.teleradiocom.tj/5/3m.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Матч! Премьер HD
-https://100.free-iptvchannel.workers.dev/match_premier_hd/index.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",МАТЧ! Премьер
-http://89.218.32.179:18000/play/a01o
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/match-premiere.png", МАТЧ! Премьер
-https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Матч!
-http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🏆Спорт",МАТЧ!
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="🏆Спорт",Матч! HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 group-title="🏆Спорт",Матч! Арена
-http://31.148.48.15/Match_Arena/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч! Арена
-http://193.25.8.59:8000/sport1
-#EXTINF:-1 group-title="🏆Спорт",Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="🏆Спорт",Матч! Игра
-http://31.148.48.15/Match_Igra/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч! Игра
-http://45.145.32.13:20440/match_igra/index.m3u8?token=test
-#EXTINF:-1 group-title="🏆Спорт",Матч! Страна
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
-#EXTINF:-1 group-title="🏆Спорт",Матч! Страна
-http://31.210.208.171:8080/match_strana/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 1
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 2
-http://cdntv.online/low/9mlxywika2/56.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 2
-http://188.191.160.238:7780/udp/239.195.3.17:1234
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 2
-http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 3
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="🏆Спорт",Матч! Футбол 3
-http://193.25.8.59:8000/fut3
-
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -1ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -2ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -3ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -4ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -5ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -6ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -7ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -8ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -9ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -10ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -11ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -12ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -13ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -14ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -15ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! ТВ -16ч
-#EXTVLCOPT:http-user-agent=KizugTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-17)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-18)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-19)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-20)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-21)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-22)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-23)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-24)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-25)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-26)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-27)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-28)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-29)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 group-title="🏆Спорт" tvg-id="no_epg_sport"  tvg-logo="https://pngicon.ru/file/uploads/football.png",Матч! (-30)
-#EXTVLCOPT:http-user-agent=KizugTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/q-live1-kz.png" tvg-id="no_epg_sport",Q Live 1 HD
-http://217.154.10.99:2020/channel/n6fc4f939/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/q-live2-kz.png" tvg-id="no_epg_sport",Q Live 2 HD
-http://217.154.10.99:2020/channel/n6fc4f938/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/q-live3-kz.png" tvg-id="no_epg_sport",Q Live 3 HD
-http://217.154.10.99:2020/channel/n6fc4f937/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://epg.iptvx.one/picons/q-live4-kz.png" tvg-id="no_epg_sport",Q Live 4 HD
-http://217.154.10.99:2020/channel/n6fc4f936/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://www.qlivestore.com/cdn/shop/files/Q-LIVE_LOGO_RED.png?v=1711526525&width=600" tvg-id="no_epg_sport",Q Live 5 HD
-http://217.154.10.99:2020/channel/n6fc4f935/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🏆Спорт" tvg-logo="https://www.qlivestore.com/cdn/shop/files/Q-LIVE_LOGO_RED.png?v=1711526525&width=600" tvg-id="no_epg_sport",Q Live 6 HD
-http://217.154.10.99:2020/channel/n6fc4f934/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-
-
-
+#EXTINF:0 tvg-id="elb1458" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/4k/eurosport-4k.png",Eurosport 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/MOTORSPORT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb857" catchup="flussonic" catchup-days="3" tvg-name="TSN 4K" group-title="Спорт | Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",TSN 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/seriAl_UHD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 2 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/diema-sport-2-4k.png",Diema Sport 2 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1300" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 3 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/diema-sport-3-4k.png",Diema Sport 3 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2743" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports Main Event UHD" group-title="Спорт | Sport" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",Sky Sports Main Event UHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946944/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4568" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports F1 UHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sports-f1-uhd-uk.png",Sky Sports F1 UHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946920/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4861" tvg-name="V Sport Ultra UHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vsportultrahd.png",V Sport Ultra UHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="HUB Premier 2 UHD" group-title="Спорт | Sport" tvg-logo="https://i.imgur.com/mrZwamR.png",HUB Premier 2 UHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb961" tvg-name="Bein Sports UHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bein-sports-4k.png",Bein Sports UHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3502" tvg-name="Ziggo Sport 4K NL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/ziggo-sport1-nl.png",Ziggo Sport 4K NL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="SportsNet 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/Sportsnet_2011.png",SportsNet 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946906/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4779" tvg-name="SportsNet One 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/Sportsnet_2011.png",SportsNet One 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/18946907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="TNT SPORTS ULTIMATE" group-title="Спорт | Sport" tvg-logo="https://pixvid.org/images/2025/01/31/TNTSprtsU.png",TNT SPORTS ULTIMATE
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4143" tvg-name="Sport 5 4K IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/yes-sport-5-4k.png",Sport 5 4K IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1378" tvg-name="Eleven Sports 1 4K PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/DE/sky-sport-bl1.png",Eleven Sports 1 4K PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/SKY_SPORT_BUNDESLIGA_UHD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="DIGI 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/region/digi4k.png",DIGI 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3637" tvg-name="Auto Motor Sport 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/automs.png",Auto Motor Sport 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3615" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/srsport-hdr.png",BOX SR Sport 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/alpha_01/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3611" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 1 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxsrsportlive4khdr.png",BOX SR Sport 1 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/beta_2024/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3612" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 2 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxsrsport2live4khdr.png",BOX SR Sport 2 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/gamma_X/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3613" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 3 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxsrsport3live4khdr.png",BOX SR Sport 3 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/pq_Azure/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3614" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 4 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxsrsport4live4k-hdr.png",BOX SR Sport 4 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/omega_007/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4807" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 5 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sr-sport-5-live-4k-hdr.png",BOX SR Sport 5 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4808" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 6 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sr-sport-6-live-4k-hdr.png",BOX SR Sport 6 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4857" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 7 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sr-sport-7-live-4k-hdr.png",BOX SR Sport 7 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4858" catchup="flussonic" catchup-days="3" tvg-name="BOX SR Sport 8 Live 4K HDR" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sr-sport-8-live-4k-hdr.png",BOX SR Sport 8 Live 4K HDR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4543" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 10 LIVE 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live10.png",BOX SPORT 10 LIVE 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946954/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4732" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 11 LIVE 4K" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live11.png",BOX SPORT 11 LIVE 4K
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946972/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! ТВ FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-tv.png",Матч! ТВ FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/M_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! ТВ HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-tv.png",Матч! ТВ HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946974/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! ТВ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/federal/match-tv.png",Матч! ТВ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/mAtch_tv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb266" catchup="flussonic" catchup-days="3" tvg-name="Матч! Премьер FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-premiere.png",Матч! Премьер FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_PREMIER_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb266" catchup="flussonic" catchup-days="3" tvg-name="Матч! Премьер HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-premiere.png",Матч! Премьер HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/M_PREMIER/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb276" tvg-name="Матч! Футбол 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football1.png",Матч! Футбол 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/m_foot1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb277" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 1 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football1.png",Матч! Футбол 1 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_FOOTBALL_1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb278" tvg-name="Матч! Футбол 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football2.png",Матч! Футбол 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/m_foot2/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb279" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 2 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football2.png",Матч! Футбол 2 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_FOOTBALL_2/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb280" tvg-name="Матч! Футбол 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football3.png",Матч! Футбол 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/m_foot3/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb281" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 3 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-football3.png",Матч! Футбол 3 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_FOOTBALL_3/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb269" catchup="flussonic" catchup-days="3" tvg-name="Матч! Арена FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-arena.png",Матч! Арена FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_ARENA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb269" catchup="flussonic" catchup-days="3" tvg-name="Матч! Арена" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-arena.png",Матч! Арена
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/match_arena_SD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb273" catchup="flussonic" catchup-days="3" tvg-name="Матч! Игра FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-igra.png",Матч! Игра FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_IGRA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb272" catchup="flussonic" catchup-days="3" tvg-name="Матч! Игра" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-igra.png",Матч! Игра
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/match_igra_SD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb274" catchup="flussonic" catchup-days="3" tvg-name="Матч! Страна FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-strana.png",Матч! Страна FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_STRANA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2310" catchup="flussonic" catchup-days="3" tvg-name="Окко.Футбол HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/okkofutbol200.png",Окко.Футбол HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/SETANTA_EVENT_1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2311" catchup="flussonic" catchup-days="3" tvg-name="Окко.Спорт HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/okkosport1200.png",Окко.Спорт HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/okko_sport/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2312" catchup="flussonic" catchup-days="3" tvg-name="Окко.Прайм Спорт HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/okkoprime200.png",Окко.Прайм Спорт HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946934/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4848" catchup="flussonic" catchup-days="3" tvg-name="Окко.Чемпионат" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/OKKOCHEMPIONAT2200.png",Окко.Чемпионат
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/op_Nexus/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb79" catchup="flussonic" catchup-days="3" tvg-name="KHL Prime FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/kxl-hd.png",KHL Prime FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb79" catchup="flussonic" catchup-days="3" tvg-name="KHL Prime HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/kxl-hd.png",KHL Prime HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/KHL_PRIME/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb77" catchup="flussonic" catchup-days="3" tvg-name="KHL FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/kxl.png",KHL FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb77" catchup="flussonic" catchup-days="3" tvg-name="KHL HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/kxl.png",KHL HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/KHL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1941" catchup="flussonic" catchup-days="3" tvg-name="Матч! Планета" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-planeta.png",Матч! Планета
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_PLANETA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb979" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 5 HD BY" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/belarus5HD.png",Беларусь 5 HD BY
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/BELARUS5/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4833" catchup="flussonic" catchup-days="3" tvg-name="Спорт ТВ Беларусь HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport-tv-by.png",Спорт ТВ Беларусь HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/18946936/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb270" catchup="flussonic" catchup-days="3" tvg-name="Матч! Боец" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/match-boec.png",Матч! Боец
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/M_BOEC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb174" catchup="flussonic" catchup-days="3" tvg-name="Бокс ТВ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/box-tv.png",Бокс ТВ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/BOKSTV/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3192" catchup="flussonic" catchup-days="3" tvg-name="Удар" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/ufc.png",Удар
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/UFC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4749" tvg-name="Prime Fight HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/prime_fight.jpg",Prime Fight HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/prime_fight/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1492" catchup="flussonic" catchup-days="3" tvg-name="FightBox HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/fightbox-hd.png",FightBox HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/fightbox_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb90" catchup="flussonic" catchup-days="3" tvg-name="MMA-TV (M-1 Global)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/m1-global.png",MMA-TV (M-1 Global)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/m1global/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="UFC FIGHT PASS HD" group-title="Спорт | Sport" tvg-logo="",UFC FIGHT PASS HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb58" catchup="flussonic" catchup-days="3" tvg-name="Extreme Sports" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/exstreme.png",Extreme Sports
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/Extreme_sports/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2611" tvg-name="Русский экстрим" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/rus-extrim.png",Русский экстрим
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/russkiiy_aekstrim/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb425" catchup="flussonic" catchup-days="3" tvg-name="Точка отрыва" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/start.png",Точка отрыва
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/dG9jaGthX290cnl2YQ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1484" catchup="flussonic" catchup-days="3" tvg-name="Fast&FunBox" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/fastfunbox-hd.png",Fast&FunBox
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/fast_fun_box/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3377" catchup="flussonic" catchup-days="3" tvg-name="Волейбол ТВ FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/voleybol.png",Волейбол ТВ FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946989/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb284" catchup="flussonic" catchup-days="3" tvg-name="Мир баскетбола HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/mir-basketbola.png",Мир баскетбола HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/mir_basketbola_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb284" tvg-name="Мир баскетбола" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/mir-basketbola.png",Мир баскетбола
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/psi_mir_basketbola/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1459" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 1 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eurosport1.png",Eurosport 1 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/eurosport_1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1461" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 2 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eurosport2.png",Eurosport 2 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/eurosport_2/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1459" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 1 HD CEE" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eurosport1-cee.png",Eurosport 1 HD CEE
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/eurosport_1_cee/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1461" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 2 HD CEE" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eurosport2-cee.png",Eurosport 2 HD CEE
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/eurosport_2_cee/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3624" tvg-name="Setanta Sports Premium HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/SETANTASPORTSPREM200.png",Setanta Sports Premium HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946933/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2656" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-sports1.png",Setanta Sports 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/SETRU/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2657" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-sports2.png",Setanta Sports 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/SETRU2/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2654" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports UA+ HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-plus-ua.png",Setanta Sports UA+ HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/SETUAPLUS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2658" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports UA HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-ua.png",Setanta Sports UA HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/SETUA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4207" catchup="flussonic" catchup-days="3" tvg-name="Setanta Qazaqstan HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-kz.png",Setanta Qazaqstan HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/setanta_qas/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2660" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD KZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta1-kz.png",Setanta Sports 1 HD KZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946920/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2663" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD KZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta2-kz.png",Setanta Sports 2 HD KZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4206" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports + HD KZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-plus-kz.png",Setanta Sports + HD KZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2658" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports HD MD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta-ua.png",Setanta Sports HD MD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/Setanta_plus_MD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2659" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD Georgia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta1-ge.png",Setanta Sports 1 HD Georgia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/08936903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2662" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD Georgia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta2-ge.png",Setanta Sports 2 HD Georgia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/08936902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2665" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 3 HD Georgia" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/setanta3-ge.png",Setanta Sports 3 HD Georgia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/SETANTA_SPORTS_3_HD_GEORGIA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2661" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports Baltic HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/setanta1-lt.png",Setanta Sports Baltic HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/SETANTA_SPORTS_BALTIC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2892" catchup="flussonic" catchup-days="3" tvg-name="Старт FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/start.png",Старт FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946932/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb394" catchup="flussonic" catchup-days="3" tvg-name="Старт Триумф HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/start-triumf.png",Старт Триумф HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/08936903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4803" catchup="flussonic" catchup-days="3" tvg-name="Старт Баскет HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/start-basket.png",Старт Баскет HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/18946917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb433" catchup="flussonic" catchup-days="3" tvg-name="Футбол HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/football-ru.png",Футбол HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/FOOTBALL_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb302" catchup="flussonic" catchup-days="3" tvg-name="Мяч HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/footbolny.png",Мяч HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/futbolniy_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2867" catchup="flussonic" catchup-days="3" tvg-name="ТВ Спорт HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sportivny.png",ТВ Спорт HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/sportivnbIiy_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3410" catchup="flussonic" catchup-days="3" tvg-name="Хоккей ТВ HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/xokkejny.png",Хоккей ТВ HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/hokeiynbIiy_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2224" tvg-name="NHL Network HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/nhl.jpg",NHL Network HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/NHL_RU/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2222" tvg-name="NFL Network" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/nflnetwork.png",NFL Network
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/sigma_5X/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb159" catchup="flussonic" catchup-days="3" tvg-name="viju+ Sport HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/viasat-sport.png",viju+ Sport HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/VIASATSPORT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Tennis Channel HD" group-title="Спорт | Sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tennis-channel-us.png",Tennis Channel HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946983/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2930" tvg-name="SuperTennis" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/supertennis.png",SuperTennis
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti6/c3VwZXJ0ZW5uaXM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb135" catchup="flussonic" catchup-days="3" tvg-name="Trace Sport Stars" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/trace-sport-stars.png",Trace Sport Stars
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/TRACESPORTSSTARS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2215" tvg-name="NBA TV" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/nba-tv.png",NBA TV
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/nba_tv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb251" catchup="flussonic" catchup-days="3" tvg-name="Конный Мир HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/konny-mir.png",Конный Мир HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti1/KONNIYMIR/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1123" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 1 PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal-pl-sport.png",Canal+ Sport 1 PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8x/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1124" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 2 PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal-pl-sport-2.png",Canal+ Sport 2 PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8y/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1125" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 3 PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal-pl-sport-3.png",Canal+ Sport 3 PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8z/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1126" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 4 PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal-pl-sport-4.png",Canal+ Sport 4 PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF80/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1127" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 5 PL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal-pl-sport-5.png",Canal+ Sport 5 PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/18946934/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3050" catchup="flussonic" catchup-days="3" tvg-name="TSN 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tsn1.png",TSN 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946967/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3051" catchup="flussonic" catchup-days="3" tvg-name="TSN 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tsn2.png",TSN 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946968/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3053" catchup="flussonic" catchup-days="3" tvg-name="TSN 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tsn3.png",TSN 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946969/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3054" catchup="flussonic" catchup-days="3" tvg-name="TSN 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tsn4.png",TSN 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946970/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3055" catchup="flussonic" catchup-days="3" tvg-name="TSN 5" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tsn5.png",TSN 5
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946971/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4853" catchup="flussonic" catchup-days="3" tvg-name="Fox Sport 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/fs1.png",Fox Sport 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Zm94X3Nwb3J0XzE/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4854" catchup="flussonic" catchup-days="3" tvg-name="Fox Sport 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/fs2.png",Fox Sport 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/Zm94X3Nwb3J0XzI/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1440" catchup="flussonic" catchup-days="3" tvg-name="ESPN HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/espn.png",ESPN HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZXNwbl9oZF9zcG9ydA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1443" catchup="flussonic" catchup-days="3" tvg-name="ESPN 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/espn2.png",ESPN 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZXNwbl8yX3Nwb3J0/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3227" catchup="flussonic" catchup-days="3" tvg-name="Viasat Sport Premium HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/viasatsportpremium.png",Viasat Sport Premium HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946995/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Viaplay Vinter HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/viasatsportvinter.png",Viaplay Vinter HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946962/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Viasat Sport Vinter HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/viapleyvinter.png",Viasat Sport Vinter HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1085" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bt-sport1.png",TNT Sports 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946942/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1087" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bt-sport2.png",TNT Sports 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946943/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1088" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bt-sport3.png",TNT Sports 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946945/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1089" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 4 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bt-sport-espn.png",TNT Sports 4 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946946/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1946" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 1 BG" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/max-sport-1.png",MAX Sport 1 BG
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1948" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 2 BG" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/max-sport-2.png",MAX Sport 2 BG
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1949" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 3 BG" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/max-sport-3.png",MAX Sport 3 BG
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1950" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 4 BG" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/max-sport-4.png",MAX Sport 4 BG
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08946904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb807" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 1 HD Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/arenasport1.png",Arena Sport 1 HD Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946989/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb812" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 2 HD Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/arenasport2.png",Arena Sport 2 HD Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946990/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb816" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 3 HD Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/arenasport3.png",Arena Sport 3 HD Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946991/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb819" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 4 HD Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/arenasport4.png",Arena Sport 4 HD Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946992/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Sport Klub HD PL" group-title="Спорт | Sport" tvg-logo="",Sport Klub HD PL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946986/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4712" catchup="flussonic" catchup-days="3" tvg-name="Sport Klub 1 Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/SPORTKLUB1HD200.png",Sport Klub 1 Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/hi_FluxX/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4713" catchup="flussonic" catchup-days="3" tvg-name="Sport Klub 2 Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/SPORTKLUB2HD200.png",Sport Klub 2 Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/ij_Nano/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2870" catchup="flussonic" catchup-days="3" tvg-name="Sport Klub 3 Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/SPORTKLUB3HD200.png",Sport Klub 3 Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/jk_Origin/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2871" catchup="flussonic" catchup-days="3" tvg-name="Sport Klub 4 Serbia" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/SPORTKLUB4HD200.png",Sport Klub 4 Serbia
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/kl_Phoenix7/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2435" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport1.png",Polsat Sport 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X2hk/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2436" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport2.png",Polsat Sport 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X2V4dHJh/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2438" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport3.png",Polsat Sport 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X25ld3M/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2439" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Premium 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport-pr1.png",Polsat Sport Premium 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMQ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2440" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Premium 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport-pr2.png",Polsat Sport Premium 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMg/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2437" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Fight HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/polsat-sport-fight.png",Polsat Sport Fight HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cG9sc2F0X3Nwb3J0X2ZpZ2h0/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1378" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eleven-sports-1.png",Eleven Sports 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZWxldmVuX3Nwb3J0c18xX1BM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1379" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eleven-sports-2.png",Eleven Sports 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZWxldmVuX3Nwb3J0c18yX1BM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1380" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eleven-sports-3.png",Eleven Sports 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZWxldmVuX3Nwb3J0c18zX1BM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1381" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/eleven-sports-4.png",Eleven Sports 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ZWxldmVuX3Nwb3J0c180X1BM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb941" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bein-sport-1.png",BeIN Sport 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YmVpbl9zcG9ydHNfMQ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb943" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bein-sport-2.png",BeIN Sport 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YmVpbl9zcG9ydHNfMg/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb945" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/bein-sport-3.png",BeIN Sport 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YmVpbl9zcG9ydHNfMw/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3565" catchup="flussonic" catchup-days="3" tvg-name="BOX Be on Edge HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxbeonedge.png",BOX Be on Edge HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/uz_MuX/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3566" catchup="flussonic" catchup-days="3" tvg-name="BOX Be on Edge HD Live 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxbeonedge1live.png",BOX Be on Edge HD Live 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/vz_OZ12/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3567" catchup="flussonic" catchup-days="3" tvg-name="BOX Be on Edge HD Live 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxbeonedge2live.png",BOX Be on Edge HD Live 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/wz_Fire/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3568" catchup="flussonic" catchup-days="3" tvg-name="BOX Be on Edge HD Live 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/boxbeonedge3live.png",BOX Be on Edge HD Live 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/xz_10A/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3600" catchup="flussonic" catchup-days="3" tvg-name="BOX Sportcast HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast.png",BOX Sportcast HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/yz_Cloud/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3601" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 1 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live1.png",BOX Sport Cast 1 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/zz_999/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3602" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 2 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live2.png",BOX Sport Cast 2 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/xy_Angel/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3603" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 3 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live3.png",BOX Sport Cast 3 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946994/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3604" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 4 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live4.png",BOX Sport Cast 4 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/bc_Magic/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3605" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 5 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live5.png",BOX Sport Cast 5 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/cd_T22/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3606" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 6 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live6.png",BOX Sport Cast 6 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/de_Phoenix/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3607" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 7 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live7.png",BOX Sport Cast 7 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/ef_3D/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3608" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 8 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live8.png",BOX Sport Cast 8 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/fg_XPro/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3609" catchup="flussonic" catchup-days="3" tvg-name="BOX Sport Cast 9 Live" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sportcast_live9.png",BOX Sport Cast 9 Live
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/gh_Hawk/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4542" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 1 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live1.png",BOX SPORT 1 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946945/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4544" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 2 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live2.png",BOX SPORT 2 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946946/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4545" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 3 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live3.png",BOX SPORT 3 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946947/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4546" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 4 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live4.png",BOX SPORT 4 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946948/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4547" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 5 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live5.png",BOX SPORT 5 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946949/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4548" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 6 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live6.png",BOX SPORT 6 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946950/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4549" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 7 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live7.png",BOX SPORT 7 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946951/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4550" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 8 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live8.png",BOX SPORT 8 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946952/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4551" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 9 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/sport-live9.png",BOX SPORT 9 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946953/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4809" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 12 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sport-12-live.png",BOX SPORT 12 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4810" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 13 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sport-13-live.png",BOX SPORT 13 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4835" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 14 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sport-14-live.png",BOX SPORT 14 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946927/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4836" catchup="flussonic" catchup-days="3" tvg-name="BOX SPORT 15 LIVE HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/box/box-sport-15-live.png",BOX SPORT 15 LIVE HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946928/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946906/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946908/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946909/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 5" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 5
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946910/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 6" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 6
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946911/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 7" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 7
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946912/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 8" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 8
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946913/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 9" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 9
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 10" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 10
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 11" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 11
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946916/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 12" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 12
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 13" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Online 13
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946918/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946919/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946920/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 5" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 5
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946923/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 6" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 6
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946924/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 1" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 2" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946926/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 3" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946927/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 4" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 4
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946928/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 5" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 5
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946929/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Vital 6" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/vipsport.jpg",ViP Sport Vital 6
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti18/08946930/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="VIP Sport Betking 3 LIVE" group-title="Спорт | Sport" tvg-logo="",VIP Sport Betking 3 LIVE
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5004/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1964" catchup="flussonic" catchup-days="3" tvg-name="PeakTV Sport HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/peaktv/peaktv_sport1.png",PeakTV Sport HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/08946938/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2934" catchup="flussonic" catchup-days="3" tvg-name="Суспильне Спорт HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/suspilne-sport-ua.png",Суспильне Спорт HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936908/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3203" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ HD" group-title="Спорт | Sport" tvg-logo="https://ip-tv.dev/images/ico/upl1.png",УПЛ ТВ HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946910/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 1" group-title="Спорт | Sport" tvg-logo="https://ip-tv.dev/images/ico/upl2.png",УПЛ ТВ 1
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946911/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 2" group-title="Спорт | Sport" tvg-logo="https://ip-tv.dev/images/ico/upl3.png",УПЛ ТВ 2
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946912/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 3" group-title="Спорт | Sport" tvg-logo="https://ip-tv.dev/images/ico/upl3.png",УПЛ ТВ 3
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946913/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1301" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/digisport1.png",DIGI Sport 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936904/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1302" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/digisport2.png",DIGI Sport 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1303" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/digisport3.png",DIGI Sport 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936906/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1304" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 4 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/digisport4.png",DIGI Sport 4 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/08936907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1298" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/diema-sport.png",Diema Sport 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/DIEMA_SPORTS_1_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1299" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/diema-sport-2.png",Diema Sport 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/DIEMA_SPORTS_2_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1300" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/diema-sport-3.png",Diema Sport 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/DIEMA_SPORTS_3_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4138" tvg-name="Sport 1 HD IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport1il.png",Sport 1 HD IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_1_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4140" tvg-name="Sport 2 HD IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport2il.png",Sport 2 HD IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_2_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4141" tvg-name="Sport 3 IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport3il.png",Sport 3 IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_3_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4142" tvg-name="Sport 4 HD IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport4il.png",Sport 4 HD IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_4_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4145" tvg-name="Sport 5 HD IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/5sport.png",Sport 5 HD IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_5_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4144" tvg-name="Sport 5 Gold IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/5gold.png",Sport 5 Gold IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_5_GOLD_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4146" tvg-name="Sport 5 Live IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/baltic/filmzone-plus.png",Sport 5 Live IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/SPORT_5_LIVE_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb736" tvg-name="Sport 5 Plus HD IL" group-title="Спорт | Sport" tvg-logo="",Sport 5 Plus HD IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946939/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb737" tvg-name="Sport 5 Stars IL" group-title="Спорт | Sport" tvg-logo="",Sport 5 Stars IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946998/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4123" tvg-name="ONE IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/one-il.png",ONE IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/ONE_4K_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4124" tvg-name="One 2 IL" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/region/one-2-il.png",One 2 IL
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08936909/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2714" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 1 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport1nz.png",SKY SPORT 1 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2715" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 2 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport2nz.png",SKY SPORT 2 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2716" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 3 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport3nz.png",SKY SPORT 3 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946916/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2717" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 4 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport4nz.png",SKY SPORT 4 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2718" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 5 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport5nz.png",SKY SPORT 5 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946918/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2719" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 6 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport6nz.png",SKY SPORT 6 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946919/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2720" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 7 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport7nz.png",SKY SPORT 7 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946920/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2721" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 8 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport8nz.png",SKY SPORT 8 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2722" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT 9 New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysport9nz.png",SKY SPORT 9 New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2729" tvg-name="SKY SPORT SELECT New Zealand HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skysportselectnz.png",SKY SPORT SELECT New Zealand HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/08946923/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4862" tvg-name="Cosmote Sport 1 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 1 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/theta_T1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4863" tvg-name="Cosmote Sport 2 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 2 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/zeta_YX/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb8464" tvg-name="Cosmote Sport 3 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 3 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/kappa_12_34/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4865" tvg-name="Cosmote Sport 4 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 4 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/micron_v1/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4866" tvg-name="Cosmote Sport 5 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 5 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/lambda_AZ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4867" tvg-name="Cosmote Sport 6 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 6 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/phi_Star/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4868" tvg-name="Cosmote Sport 7 HD GR" group-title="Спорт | Sport" tvg-logo="",Cosmote Sport 7 HD GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/chi_77X/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 1 GR" group-title="Спорт | Sport" tvg-logo="",Nova Sports 1 GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/tau_303/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 2 GR" group-title="Спорт | Sport" tvg-logo="",Nova Sports 2 GR
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946906/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2250" catchup="flussonic" catchup-days="3" tvg-name="Nova Sport 1 CZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/novasport1hd.png",Nova Sport 1 CZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YnRfc3BvcnRfMQ/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2251" catchup="flussonic" catchup-days="3" tvg-name="Nova Sport 2 CZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/novasport2hd.png",Nova Sport 2 CZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YnRfc3BvcnRfMg/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2252" catchup="flussonic" catchup-days="3" tvg-name="Nova Sport 3 CZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/novasport3hd.png",Nova Sport 3 CZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YnRfc3BvcnRfMw/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2253" catchup="flussonic" catchup-days="3" tvg-name="Nova Sport 4 CZ" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/novasport4hd.png",Nova Sport 4 CZ
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/YnRfc3BvcnRfZXNwbg/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4591" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Legendary Matches HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/velillalegendarymatches.png",Velilla TV Legendary Matches HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946957/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4705" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1966" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1966.png",Velilla TV World Cup 1966
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946931/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4585" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1970" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1970.png",Velilla TV World Cup 1970
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946958/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4587" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1974" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1974.png",Velilla TV World Cup 1974
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946959/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4570" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1978" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1978.png",Velilla TV World Cup 1978
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946960/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4896" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1982" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1982.png",Velilla TV World Cup 1982
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5009/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4601" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 1984" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup1984.png",Velilla TV EuroCup 1984
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946937/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4897" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1986" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1986.png",Velilla TV World Cup 1986
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5010/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4588" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 1988" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup1988.png",Velilla TV EuroCup 1988
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946936/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4766" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1990" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1990.png",Velilla TV World Cup 1990
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946965/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4871" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 1992" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup1992.png",Velilla TV EuroCup 1992
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946947/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4582" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1994" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1994.png",Velilla TV World Cup 1994
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946987/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4872" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 1996" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup1996.png",Velilla TV EuroCup 1996
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946975/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4580" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 1998" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup1998.png",Velilla TV World Cup 1998
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4828" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2000" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2000.png",Velilla TV EuroCup 2000
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4765" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2002" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2002.png",Velilla TV World Cup 2002
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946954/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4829" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2004" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2004.png",Velilla TV EuroCup 2004
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946923/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4581" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2006" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2006.png",Velilla TV World Cup 2006
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946961/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4837" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2008 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2008.png",Velilla TV EuroCup 2008 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946929/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4586" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2010" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2010.png",Velilla TV World Cup 2010
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946962/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4838" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2012 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2012.png",Velilla TV EuroCup 2012 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946930/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4589" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2014" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2014.png",Velilla TV World Cup 2014
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946963/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4839" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2016 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2016.png",Velilla TV EuroCup 2016 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946931/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4594" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2018" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2018.png",Velilla TV World Cup 2018
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946964/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4827" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2020 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2020.png",Velilla TV EuroCup 2020 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti8/29946924/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4764" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2022 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2002.png",Velilla TV World Cup 2022 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946955/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4855" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV EuroCup 2024 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/eurocup2024.png",Velilla TV EuroCup 2024 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4849" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV FIFA Club World Cup 2025 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifaclubworldcup2025.png",Velilla TV FIFA Club World Cup 2025 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/29946901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4900" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV World Cup 2026 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/worldcup2026.png",Velilla TV World Cup 2026 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5013/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4902" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (England)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (England)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5015/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (French)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (French)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5018/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (German)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (German)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5019/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (Italy)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (Italy)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/aa_1_5020/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (Hispan America)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (Hispan America)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5022/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (Portugal)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (Portugal)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5021/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (Spain)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (Spain)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5016/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ HD (USA)" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ HD (USA)
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5017/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="FIFA+ Women HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/fifa+.png",FIFA+ Women HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/aa_1_5023/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4903" catchup="flussonic" catchup-days="3" tvg-name="Gol Classics HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/Velilla/gol_classic.png",Gol Classics HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/aa_1_5024/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4469" catchup="flussonic" catchup-days="3" tvg-name="TVPlay ЧМ FIFA Плей-Офф" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/tvplay/world_cup.png",TVPlay ЧМ FIFA Плей-Офф
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti10/08946941/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3155" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 1 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/baltic/tvplay-sports.png",Go3 Sport 1 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/TV3_Sport_LT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3156" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 2 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/baltic/tvplay-sports-plus.png",Go3 Sport 2 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/TV3_Sport_2_LT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3096" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 3 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tv3-sport-3.png",Go3 Sport 3 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/08936901/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4715" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 4 HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tv3-sport-4.png",Go3 Sport 4 HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/08936902/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3097" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport Open HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/tv3-sport-open.png",Go3 Sport Open HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti9/tv3_sport_open_LT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2852" catchup="flussonic" catchup-days="3" tvg-name="Sport 1 Baltic" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport1-baltic.png",Sport 1 Baltic
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/SPORTS_1_BALTIC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2858" catchup="flussonic" catchup-days="3" tvg-name="Sport 2 Baltic" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sport2-baltic.png",Sport 2 Baltic
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti2/SPORTS_2_BALTIC/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb" catchup="flussonic" catchup-days="3" tvg-name="Sport 1 HD LT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sport1-lt.png",Sport 1 HD LT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946993/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2876" catchup="flussonic" catchup-days="3" tvg-name="SPORT TV 1 PT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sporttv1-pt.png",SPORT TV 1 PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946968/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2877" catchup="flussonic" catchup-days="3" tvg-name="SPORT TV 2 PT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sporttv2-pt.png",SPORT TV 2 PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946969/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2878" catchup="flussonic" catchup-days="3" tvg-name="SPORT TV 3 PT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sporttv3-pt.png",SPORT TV 3 PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946970/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2879" catchup="flussonic" catchup-days="3" tvg-name="SPORT TV 4 PT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sporttv4-pt.png",SPORT TV 4 PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946971/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2880" catchup="flussonic" catchup-days="3" tvg-name="SPORT TV 5 PT" group-title="Спорт | Sport" tvg-logo="https://epg.iptvx.one/picons/sporttv5-pt.png",SPORT TV 5 PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946972/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1132" catchup="flussonic" catchup-days="3" tvg-name="Canal 11 HD PT" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/canal11-pt.png",Canal 11 HD PT
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/no_Grid/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2736" tvg-name="Sky Sports Premiere League" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sports-apl.png",Sky Sports Premiere League
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/08946954/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2743" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports Main Event" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/skymain.png",Sky Sports Main Event
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/09946938/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2735" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports Action" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sports-action.png",Sky Sports Action
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946947/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2747" tvg-name="Sky Sports Tennis FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sports-tennis.png",Sky Sports Tennis FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/ab_Optitest/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2744" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports Mix" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sports-mix.png",Sky Sports Mix
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/08946937/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4568" catchup="flussonic" catchup-days="3" tvg-name="Sky Sports F1 FHD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sky-sport-f1-it.png",Sky Sports F1 FHD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946918/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1276" catchup="flussonic" catchup-days="3" tvg-name="DAZN F1 Spain" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/daznf1.png",DAZN F1 Spain
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti13/bW92aXN0YXJfZm9ybXVsYV8x/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb1145" tvg-name="CBS SPORTS NETWORK US" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/cbs-sports-network-us.png",CBS SPORTS NETWORK US
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti19/08946974/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb4779" catchup="flussonic" catchup-days="3" tvg-name="Sportsnet One US" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/sportsnet-one-ca.png",Sportsnet One US
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/08946977/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="LFC TV HD" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/LFCTV200.png",LFC TV HD
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti3/GOLD_IL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2531" catchup="flussonic" catchup-days="3" tvg-name="Real Madrid TV" group-title="Спорт | Sport" tvg-logo="http://peaktv.su/img/logos/sport/REALMADRIDTV200.png",Real Madrid TV
+#EXTGRP:Спорт | Sport
+http://lobby.peaktv.name/balancer/bigteisti20/09946953/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb213
 
 
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
