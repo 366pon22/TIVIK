@@ -7117,80 +7117,71 @@ http://185.57.68.33/240/index.m3u8
 
 
 
+#EXTINF:0 tvg-id="elb970" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 1 BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belarus1hd.png",Беларусь 1 BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti13/vok_belarus1hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb971" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 2 BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belarus2hd.png",Беларусь 2 BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti13/vok_belarus2hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb973" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 3 BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belarus3hd.png",Беларусь 3 BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_belarus3hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb974" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 4 BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belarus4.png",Беларусь 4 BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti13/vok_belarus4_vitebsk/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2588" catchup="flussonic" catchup-days="3" tvg-name="РТР-Беларусь BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/rtr-belarus.png",РТР-Беларусь BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti1/rtrbelarus/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2283" catchup="flussonic" catchup-days="3" tvg-name="НТВ Беларусь BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/ntv-belarus.png",НТВ Беларусь BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti8/NTV_BELARUS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb408" catchup="flussonic" catchup-days="3" tvg-name="ТВ3-Беларусь BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/tv3belarus.png",ТВ3-Беларусь BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_tv3_by/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb171" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 24 BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belarus24.png",Беларусь 24 BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_belarus24/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2371" tvg-name="Первый информационный" group-title="Беларусь | Belarus" tvg-logo="",Первый информационный
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti10/08946977/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3519" catchup="flussonic" catchup-days="3" tvg-name="ЗВЯЗДА BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/zvyazda-by.png",ЗВЯЗДА BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti1/zvyazda/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2052" catchup="flussonic" catchup-days="3" tvg-name="Яснае ТВ BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/yasnae.png",Яснае ТВ BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_yasnae/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb984" catchup="flussonic" catchup-days="3" tvg-name="+TV BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belviasat-plustv.png",+TV BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_plustv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb748" catchup="flussonic" catchup-days="3" tvg-name="8 канал BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/8by.png",8 канал BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_8kanalhd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2914" catchup="flussonic" catchup-days="3" tvg-name="CTV.BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/ctb.png",CTV.BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti8/STB_BELARUS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb3039" catchup="flussonic" catchup-days="3" tvg-name="Союзный BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belros.png",Союзный BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_belros/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2318" catchup="flussonic" catchup-days="3" tvg-name="ОНТ (BY)" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/ont-by.png",ОНТ (BY)
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti9/ontbelarus/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2600" catchup="flussonic" catchup-days="3" tvg-name="RU.TV BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/ru-tv.png",RU.TV BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti1/rutv_bel/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb982" catchup="flussonic" catchup-days="3" tvg-name="Белмуз ТВ BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/belmuztv.png",Белмуз ТВ BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti2/vok_belmuztv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2936" catchup="flussonic" catchup-days="3" tvg-name="Светлое ТВ BY" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/svetloe-tv.png",Светлое ТВ BY
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti1/bel_svetloe/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+#EXTINF:0 tvg-id="elb2693" catchup="flussonic" catchup-days="3" tvg-name="СКИФ HD (BY)" group-title="Беларусь | Belarus" tvg-logo="http://peaktv.su/img/logos/belarus/skif.png",СКИФ HD (BY)
+#EXTGRP:Беларусь | Belarus
+http://lobby.peaktv.name/balancer/bigteisti1/SKIF_HD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
 
 
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Первый Информационный
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",СТВ
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 1
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 2
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 4 Гомель
-http://46.56.85.151:8080/0.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Беларусь 5 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾" tvg-logo="https://i.postimg.cc/520kLvXY/Belarus-24-logo-svg.png",Беларусь 24 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Пинск ТВ HD
-http://178.124.207.1:1780/tvphd
-#EXTINF:-1 group-title="Беларусь 🇧🇾",РТР Беларусь
-http://194.158.222.36:6106
-
-
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Витебск
-https://ngtrk.dc.beltelecom.by/vtv/_definst_/vitebsk.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Мир BY
-https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Радио Центр BY
-https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Беларусь 🇧🇾",Новое Радио BY
-http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-
-
-#EXTINF:0 tvg-id="770" tvg-logo="http://epg.cdntv.online/img/770.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 1
-#EXTGRP:Беларусь 🇧🇾
-http://ottlinks.club/low/mbdapn76zt/770.m3u8
-#EXTINF:0 tvg-id="771" tvg-logo="http://epg.cdntv.online/img/771.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 2
-#EXTGRP:Беларусь 🇧🇾
-http://ottlinks.club/low/mbdapn76zt/771.m3u8
-#EXTINF:0 tvg-id="772" tvg-logo="http://epg.cdntv.online/img/772.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 3
-#EXTGRP:Беларусь 🇧🇾
-http://ottlinks.club/low/mbdapn76zt/772.m3u8
-#EXTINF:0 tvg-id="778" tvg-logo="http://epg.cdntv.online/img/778.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", Беларусь 5
-#EXTGRP:Беларусь 🇧🇾
-http://ottlinks.club/low/mbdapn76zt/778.m3u8
-#EXTINF:0 tvg-id="779" tvg-logo="http://epg.cdntv.online/img/779.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", НТВ Беларусь
-#EXTGRP:Беларусь 🇧🇾
-http://ottlinks.club/low/mbdapn76zt/779.m3u8
-#EXTINF:0 tvg-id="780" tvg-logo="http://epg.cdntv.online/img/780.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Беларусь 🇧🇾", РТР-Беларусь
-#EXTGRP:Беларусь 🇧🇾
 
 
 
