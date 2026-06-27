@@ -1099,374 +1099,388 @@ http://lobby.peaktv.name/balancer/bigteisti2/EnglishClubTV/UmV2b2x5bzE4NTJ8fGNHO
 
 
 
-#EXTINF:0 tvg-id="elb594" catchup="flussonic" catchup-days="3" tvg-name="CineMan KIDS 4K" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/cineman/CinemanKids4K.png",CineMan KIDS 4K
-#EXTGRP:Детские | Kids
+
+
+
+#EXTINF:0 tvg-id="elb594" catchup="flussonic" catchup-days="3" tvg-name="CineMan KIDS 4K" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/cineman/CinemanKids4K.png",CineMan KIDS 4K
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/8946907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb617" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY МУЛЬТ 4K" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-mult.png",LIBERTY МУЛЬТ 4K
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb617" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY МУЛЬТ 4K" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-mult.png",LIBERTY МУЛЬТ 4K
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946939/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb632" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY DREAMWORKS 4K" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-dreamworks.png",LIBERTY DREAMWORKS 4K
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb632" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY DREAMWORKS 4K" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-dreamworks.png",LIBERTY DREAMWORKS 4K
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946953/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4574" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Cartoons Disney 4K" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/Velilla/cartoonsdisney.png",Velilla TV Cartoons Disney 4K
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4574" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Cartoons Disney 4K" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/Velilla/cartoonsdisney.png",Velilla TV Cartoons Disney 4K
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/08946953/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3532" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids 4K" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids-4k.png",BCU Kids 4K
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3532" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids 4K" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids-4k.png",BCU Kids 4K
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/29946914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3533" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids.png",BCU Kids HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3533" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids.png",BCU Kids HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/09946924/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3534" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids+ HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids-plus.png",BCU Kids+ HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3534" catchup="flussonic" catchup-days="3" tvg-name="BCU Kids+ HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-kids-plus.png",BCU Kids+ HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/09946925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3538" catchup="flussonic" catchup-days="3" tvg-name="BCU Little HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-little.png",BCU Little HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3538" catchup="flussonic" catchup-days="3" tvg-name="BCU Little HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-little.png",BCU Little HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/08946992/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3541" catchup="flussonic" catchup-days="3" tvg-name="BCU Мультсериал HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-multserial.png",BCU Мультсериал HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3541" catchup="flussonic" catchup-days="3" tvg-name="BCU Мультсериал HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/bcu/bcu-multserial.png",BCU Мультсериал HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/09946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb396" catchup="flussonic" catchup-days="3" tvg-name="СТС KIDS HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/sts-kids-hd.png",СТС KIDS HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb396" catchup="flussonic" catchup-days="3" tvg-name="СТС KIDS HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/sts-kids-hd.png",СТС KIDS HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/CTCKIDSHD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb299" catchup="flussonic" catchup-days="3" tvg-name="Мульт HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/mult.png",Мульт HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb299" catchup="flussonic" catchup-days="3" tvg-name="Мульт HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/mult.png",Мульт HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/MULT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb300" catchup="flussonic" catchup-days="3" tvg-name="Мультиландия" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/multimania.png",Мультиландия
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb300" catchup="flussonic" catchup-days="3" tvg-name="Мультиландия" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/multimania.png",Мультиландия
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/multilandia/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/karusel.png",Карусель HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/karusel.png",Карусель HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/karusel_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/karusel.png",Карусель
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/karusel.png",Карусель
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/KARUSEL/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1683" catchup="flussonic" catchup-days="3" tvg-name="Карусель +7" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/efir/karusel-pl7.png",Карусель +7
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1683" catchup="flussonic" catchup-days="3" tvg-name="Карусель +7" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/efir/karusel-pl7.png",Карусель +7
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/karusel_plus7/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2836" catchup="flussonic" catchup-days="3" tvg-name="Советские Мультфильмы" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/sovmultf.png",Советские Мультфильмы
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2836" catchup="flussonic" catchup-days="3" tvg-name="Советские Мультфильмы" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/sovmultf.png",Советские Мультфильмы
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/sovmult/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb178" catchup="flussonic" catchup-days="3" tvg-name="В гостях у сказки" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/v-gostiax-u-skazki.png",В гостях у сказки
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb178" catchup="flussonic" catchup-days="3" tvg-name="В гостях у сказки" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/v-gostiax-u-skazki.png",В гостях у сказки
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/vgostyaxuskazki/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2692" catchup="flussonic" catchup-days="3" tvg-name="Сказки Зайки" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/skazki-zayki.png",Сказки Зайки
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2692" catchup="flussonic" catchup-days="3" tvg-name="Сказки Зайки" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/skazki-zayki.png",Сказки Зайки
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/09946933/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Ералаш" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/eralash200.png",Ералаш
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" tvg-name="Ералаш" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/eralash200.png",Ералаш
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946985/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb223" catchup="flussonic" catchup-days="3" tvg-name="Капитан Фантастика HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/capfantast.png",Капитан Фантастика HD
-#EXTGRP:Детские | Kids
+
+
+
+#EXTINF:0 tvg-id="elb223" catchup="flussonic" catchup-days="3" tvg-name="Капитан Фантастика HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/capfantast.png",Капитан Фантастика HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/kapfan/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2406" catchup="flussonic" catchup-days="3" tvg-name="Телеканал Пингвин" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/pingvin-lolo.png",Телеканал Пингвин
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2406" catchup="flussonic" catchup-days="3" tvg-name="Телеканал Пингвин" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/pingvin-lolo.png",Телеканал Пингвин
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/malish/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4237" catchup="flussonic" catchup-days="3" tvg-name="Nickelodeon HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/nickelodeon-hd.png",Nickelodeon HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4237" catchup="flussonic" catchup-days="3" tvg-name="Nickelodeon HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/nickelodeon-hd.png",Nickelodeon HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/NICKHD/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2227" catchup="flussonic" catchup-days="3" tvg-name="Nickelodeon" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/nickelodeon.png",Nickelodeon
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2227" catchup="flussonic" catchup-days="3" tvg-name="Nickelodeon" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/nickelodeon.png",Nickelodeon
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/nick/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2225" catchup="flussonic" catchup-days="3" tvg-name="Nick Jr." group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/nick-jr.png",Nick Jr.
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2225" catchup="flussonic" catchup-days="3" tvg-name="Nick Jr." group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/nick-jr.png",Nick Jr.
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/nickjr/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3730" catchup="flussonic" catchup-days="3" tvg-name="Nicktoons" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/nicktoons.png",Nicktoons
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3730" catchup="flussonic" catchup-days="3" tvg-name="Nicktoons" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/nicktoons.png",Nicktoons
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/Nicktoons/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1137" catchup="flussonic" catchup-days="3" tvg-name="Cartoon Network RU" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/cartoon-network.png",Cartoon Network RU
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1137" catchup="flussonic" catchup-days="3" tvg-name="Cartoon Network RU" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/cartoon-network.png",Cartoon Network RU
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/CARTOONNETWORK/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1005" catchup="flussonic" catchup-days="3" tvg-name="Cartoonito" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/cartoonito.png",Cartoonito
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1005" catchup="flussonic" catchup-days="3" tvg-name="Cartoonito" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/cartoonito.png",Cartoonito
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/BOOMERANG/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb41" catchup="flussonic" catchup-days="3" tvg-name="Cartoon Classics" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/cartoon-classics.png",Cartoon Classics
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb41" catchup="flussonic" catchup-days="3" tvg-name="Cartoon Classics" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/cartoon-classics.png",Cartoon Classics
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936908/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1099" catchup="flussonic" catchup-days="3" tvg-name="C-Cartoon HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/yosso_tv/cartoon.png",C-Cartoon HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1099" catchup="flussonic" catchup-days="3" tvg-name="C-Cartoon HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/yosso_tv/cartoon.png",C-Cartoon HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/Y-C-CARTOON/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb235" catchup="flussonic" catchup-days="3" tvg-name="КиноМульт" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/kinomult.png",КиноМульт
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb235" catchup="flussonic" catchup-days="3" tvg-name="КиноМульт" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/kinomult.png",КиноМульт
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti3/08936907/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb187" catchup="flussonic" catchup-days="3" tvg-name="Детский мир HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/detsky-mir.png",Детский мир HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb187" catchup="flussonic" catchup-days="3" tvg-name="Детский мир HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/detsky-mir.png",Детский мир HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/detskiy/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1288" catchup="flussonic" catchup-days="3" tvg-name="Детское кино" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/Det_Kino.png",Детское кино
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1288" catchup="flussonic" catchup-days="3" tvg-name="Детское кино" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/Det_Kino.png",Детское кино
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/08936913/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1289" catchup="flussonic" catchup-days="3" tvg-name="Детское кино International" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/Det_Kino_INT.png",Детское кино International
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1289" catchup="flussonic" catchup-days="3" tvg-name="Детское кино International" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/Det_Kino_INT.png",Детское кино International
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/08936914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb596" catchup="flussonic" catchup-days="3" tvg-name="Cartoons Short" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-SHORT.png",Cartoons Short
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb596" catchup="flussonic" catchup-days="3" tvg-name="Cartoons Short" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-SHORT.png",Cartoons Short
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/8946908/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb593" catchup="flussonic" catchup-days="3" tvg-name="Cartoons BIG" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-BIG.png",Cartoons BIG
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb593" catchup="flussonic" catchup-days="3" tvg-name="Cartoons BIG" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-BIG.png",Cartoons BIG
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946987/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb595" catchup="flussonic" catchup-days="3" tvg-name="Cartoons 90" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-90.png",Cartoons 90
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb595" catchup="flussonic" catchup-days="3" tvg-name="Cartoons 90" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/cineman/Cartoons-90.png",Cartoons 90
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946986/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb601" catchup="flussonic" catchup-days="3" tvg-name="CineMan Симпсоны" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan_Simps.png",CineMan Симпсоны
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb601" catchup="flussonic" catchup-days="3" tvg-name="CineMan Симпсоны" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/cineman/CineMan_Simps.png",CineMan Симпсоны
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946975/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3582" catchup="flussonic" catchup-days="3" tvg-name="BOX Mserial HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/box/mserial.png",BOX Mserial HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb3582" catchup="flussonic" catchup-days="3" tvg-name="BOX Mserial HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/box/mserial.png",BOX Mserial HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/upsilon_Mega/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb3562" catchup="flussonic" catchup-days="3" tvg-name="BOX Anime HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/box/anime.png",BOX Anime HD
-#EXTGRP:Детские | Kids
+
+
+
+#EXTINF:0 tvg-id="elb3562" catchup="flussonic" catchup-days="3" tvg-name="BOX Anime HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/box/anime.png",BOX Anime HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/iz_888/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb666" catchup="flussonic" catchup-days="3" tvg-name="FRESH Kids" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/fresh/fresh-kids.png",FRESH Kids
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb666" catchup="flussonic" catchup-days="3" tvg-name="FRESH Kids" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/fresh/fresh-kids.png",FRESH Kids
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/08946903/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb647" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY PIKSAR FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-pixar.png",LIBERTY PIKSAR FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb647" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY PIKSAR FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-pixar.png",LIBERTY PIKSAR FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946905/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb638" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY DISNEY FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-disney.png",LIBERTY DISNEY FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb638" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY DISNEY FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-disney.png",LIBERTY DISNEY FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946906/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb635" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY БЭБИ МУЛЬТ FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-bebimult.png",LIBERTY БЭБИ МУЛЬТ FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb635" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY БЭБИ МУЛЬТ FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-bebimult.png",LIBERTY БЭБИ МУЛЬТ FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946916/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb625" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY СКАЗКИ FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-skazki.png",LIBERTY СКАЗКИ FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb625" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY СКАЗКИ FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-skazki.png",LIBERTY СКАЗКИ FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb633" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY ANIME FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-anime.png",LIBERTY ANIME FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb633" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY ANIME FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-anime.png",LIBERTY ANIME FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946918/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb656" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY СИМПСОНЫ FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-simpsons.png",LIBERTY СИМПСОНЫ FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb656" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY СИМПСОНЫ FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-simpsons.png",LIBERTY СИМПСОНЫ FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946909/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb618" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY MULT ENG FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-multeng.png",LIBERTY MULT ENG FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb618" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY MULT ENG FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-multeng.png",LIBERTY MULT ENG FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb643" catchup="flussonic" catchup-days="3" tvg-name="Liberty КРОШ FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-krosh.png",Liberty КРОШ FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb643" catchup="flussonic" catchup-days="3" tvg-name="Liberty КРОШ FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/liberty-krosh.png",Liberty КРОШ FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946927/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4734" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY Мультиверсия FHD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/liberty/multiversia.png",LIBERTY Мультиверсия FHD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4734" catchup="flussonic" catchup-days="3" tvg-name="LIBERTY Мультиверсия FHD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/liberty/multiversia.png",LIBERTY Мультиверсия FHD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/08946996/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb475" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Союзмульт" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-soyuzmult.png",Yosso TV Союзмульт
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb475" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Союзмульт" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-soyuzmult.png",Yosso TV Союзмульт
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/Y-MULT/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb459" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Disney" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-disney.png",Yosso TV Disney
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb459" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Disney" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-disney.png",Yosso TV Disney
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/Y-DISNEY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb462" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Kids" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-kids.png",Yosso TV Kids
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb462" catchup="flussonic" catchup-days="3" tvg-name="Yosso TV Kids" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/yosso_tv/yosso-kids.png",Yosso TV Kids
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/Y-KIDS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb502" catchup="flussonic" catchup-days="3" tvg-name="MM USSR Мультфильм HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1025.png",MM USSR Мультфильм HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb502" catchup="flussonic" catchup-days="3" tvg-name="MM USSR Мультфильм HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1025.png",MM USSR Мультфильм HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ussr_mult/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb487" catchup="flussonic" catchup-days="3" tvg-name="MM Lesson HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1007.png",MM Lesson HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb487" catchup="flussonic" catchup-days="3" tvg-name="MM Lesson HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1007.png",MM Lesson HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_lesson/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb506" catchup="flussonic" catchup-days="3" tvg-name="MM Walt Disney HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1028.png",MM Walt Disney HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb506" catchup="flussonic" catchup-days="3" tvg-name="MM Walt Disney HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1028.png",MM Walt Disney HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_walt_disney/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb496" catchup="flussonic" catchup-days="3" tvg-name="MM Tom and Jerry HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1018.png",MM Tom and Jerry HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb496" catchup="flussonic" catchup-days="3" tvg-name="MM Tom and Jerry HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1018.png",MM Tom and Jerry HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_tom_and_jerry/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb504" catchup="flussonic" catchup-days="3" tvg-name="MM USSR Сказки HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1027.png",MM USSR Сказки HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb504" catchup="flussonic" catchup-days="3" tvg-name="MM USSR Сказки HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1027.png",MM USSR Сказки HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_ussr_skazki/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb486" catchup="flussonic" catchup-days="3" tvg-name="MM Honey HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1006.png",MM Honey HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb486" catchup="flussonic" catchup-days="3" tvg-name="MM Honey HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1006.png",MM Honey HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_honey/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb550" catchup="flussonic" catchup-days="3" tvg-name="MS TOONS HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1079.png",MS TOONS HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb550" catchup="flussonic" catchup-days="3" tvg-name="MS TOONS HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1079.png",MS TOONS HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_mstoons/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb554" catchup="flussonic" catchup-days="3" tvg-name="MS ANIMATED HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/minimax/1075.png",MS ANIMATED HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb554" catchup="flussonic" catchup-days="3" tvg-name="MS ANIMATED HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/minimax/1075.png",MS ANIMATED HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti13/minimax_msanimate/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4312" catchup="flussonic" catchup-days="3" tvg-name="VeleS Kids" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/Veles_Kids.png",VeleS Kids
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4312" catchup="flussonic" catchup-days="3" tvg-name="VeleS Kids" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/veles/Veles_Kids.png",VeleS Kids
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/VELES_KIDS/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4495" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Советские Мультфильмы HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/tvplay/sov_mult.png",TVPlay Советские Мультфильмы HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4495" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Советские Мультфильмы HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/tvplay/sov_mult.png",TVPlay Советские Мультфильмы HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946929/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="TVPlay 90`s Cartoons HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/tvplay/90cartoon.png",TVPlay 90`s Cartoons HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="TVPlay 90`s Cartoons HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/tvplay/90cartoon.png",TVPlay 90`s Cartoons HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946937/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4477" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Леди Баг и Супер Кот HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/tvplay/lady_bag.png",TVPlay Леди Баг и Супер Кот HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4477" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Леди Баг и Супер Кот HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/tvplay/lady_bag.png",TVPlay Леди Баг и Супер Кот HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946940/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4457" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Anime HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/tvplay/anime.png",TVPlay Anime HD
-#EXTGRP:Детские | Kids
+
+
+#EXTINF:0 tvg-id="elb4457" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Anime HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/tvplay/anime.png",TVPlay Anime HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946930/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Детское Кино HD" group-title="Детские | Kids" tvg-logo="",TVPlay Детское Кино HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Детское Кино HD" group-title="👶Детские" tvg-logo="",TVPlay Детское Кино HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946999/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4466" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Ералаш" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/tvplay/eralash.png",TVPlay Ералаш
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4466" catchup="flussonic" catchup-days="3" tvg-name="TVPlay Ералаш" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/tvplay/eralash.png",TVPlay Ералаш
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946947/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4575" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Том и Джерри HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/Velilla/tomandjerry.png",Velilla TV Том и Джерри HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4575" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Том и Джерри HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/Velilla/tomandjerry.png",Velilla TV Том и Джерри HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/08946954/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4572" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Детский HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/Velilla/velillatvdetskiy.png",Velilla TV Детский HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4572" catchup="flussonic" catchup-days="3" tvg-name="Velilla TV Детский HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/Velilla/velillatvdetskiy.png",Velilla TV Детский HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti20/09946915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Кинозал Маша и Медведь ТВ" group-title="Детские | Kids" tvg-logo="",Кинозал Маша и Медведь ТВ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" tvg-name="Кинозал Маша и Медведь ТВ" group-title="👶Детские" tvg-logo="",Кинозал Маша и Медведь ТВ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946979/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Кинозал Смешарики ТВ" group-title="Детские | Kids" tvg-logo="",Кинозал Смешарики ТВ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" tvg-name="Кинозал Смешарики ТВ" group-title="👶Детские" tvg-logo="",Кинозал Смешарики ТВ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946980/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Кинозал Три Кота ТВ" group-title="Детские | Kids" tvg-logo="",Кинозал Три Кота ТВ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" tvg-name="Кинозал Три Кота ТВ" group-title="👶Детские" tvg-logo="",Кинозал Три Кота ТВ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946978/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Кинозал Царевны ТВ" group-title="Детские | Kids" tvg-logo="",Кинозал Царевны ТВ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="" tvg-name="Кинозал Царевны ТВ" group-title="👶Детские" tvg-logo="",Кинозал Царевны ТВ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08946981/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4735" catchup="flussonic" catchup-days="3" tvg-name="Вселенная Мультфильмов HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/VSELENNAYAMULT200.png",Вселенная Мультфильмов HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4735" catchup="flussonic" catchup-days="3" tvg-name="Вселенная Мультфильмов HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/VSELENNAYAMULT200.png",Вселенная Мультфильмов HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti19/09946960/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb70" catchup="flussonic" catchup-days="3" tvg-name="Gulli Girl" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/gulligirl.png",Gulli Girl
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb70" catchup="flussonic" catchup-days="3" tvg-name="Gulli Girl" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/gulligirl.png",Gulli Girl
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/GULLI/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb133" catchup="flussonic" catchup-days="3" tvg-name="TiJi" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/tiji.png",TiJi
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb133" catchup="flussonic" catchup-days="3" tvg-name="TiJi" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/tiji.png",TiJi
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/08936917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1652" catchup="flussonic" catchup-days="3" tvg-name="JimJam" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/jimjam.png",JimJam
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1652" catchup="flussonic" catchup-days="3" tvg-name="JimJam" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/jimjam.png",JimJam
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/JIMJAM/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb23" catchup="flussonic" catchup-days="3" tvg-name="Ani" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/ani.png",Ani
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb23" catchup="flussonic" catchup-days="3" tvg-name="Ani" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/ani.png",Ani
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/YW5p/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb387" catchup="flussonic" catchup-days="3" tvg-name="Солнце" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/solnce.png",Солнце
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb387" catchup="flussonic" catchup-days="3" tvg-name="Солнце" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/solnce.png",Солнце
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/DISNEY/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2300" catchup="flussonic" catchup-days="3" tvg-name="О!" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/o_.png",О!
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2300" catchup="flussonic" catchup-days="3" tvg-name="О!" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/o_.png",О!
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/O/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1879" catchup="flussonic" catchup-days="3" tvg-name="Лёва" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/leva.png",Лёва
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1879" catchup="flussonic" catchup-days="3" tvg-name="Лёва" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/leva.png",Лёва
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/0JvRkdCy0LBIRA/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb399" catchup="flussonic" catchup-days="3" tvg-name="Супергерои" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/superhero.jpg",Супергерои
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb399" catchup="flussonic" catchup-days="3" tvg-name="Супергерои" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/superhero.jpg",Супергерои
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/superhero/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb301" catchup="flussonic" catchup-days="3" tvg-name="Мультимузыка" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/multimuzyka.png",Мультимузыка
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb301" catchup="flussonic" catchup-days="3" tvg-name="Мультимузыка" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/multimuzyka.png",Мультимузыка
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/mmusika/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb384" catchup="flussonic" catchup-days="3" tvg-name="Смайлик ТВ" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/smaylik-tv.png",Смайлик ТВ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb384" catchup="flussonic" catchup-days="3" tvg-name="Смайлик ТВ" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/smaylik-tv.png",Смайлик ТВ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/smAiylik_tv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2980" catchup="flussonic" catchup-days="3" tvg-name="Тип-Топ HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/tip-top.png",Тип-Топ HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2980" catchup="flussonic" catchup-days="3" tvg-name="Тип-Топ HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/tip-top.png",Тип-Топ HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/tiptop_kinozal_orig/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb1160" catchup="flussonic" catchup-days="3" tvg-name="Чижик HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/chizhik.png",Чижик HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb1160" catchup="flussonic" catchup-days="3" tvg-name="Чижик HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/chizhik.png",Чижик HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti9/08936909/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb80" catchup="flussonic" catchup-days="3" tvg-name="KIDS TV HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/kids_tv.jpg",KIDS TV HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb80" catchup="flussonic" catchup-days="3" tvg-name="KIDS TV HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/kids_tv.jpg",KIDS TV HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/KIDS_TV/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4251" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Губка Боб" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Губка Боб
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4251" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Губка Боб" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Губка Боб
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936909/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4254" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Щенячий патруль" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Щенячий патруль
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4254" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Щенячий патруль" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Щенячий патруль
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936910/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4257" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Том и Джерри" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Том и Джерри
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4257" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Том и Джерри" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Том и Джерри
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936912/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4253" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV My Little Pony" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV My Little Pony
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4253" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV My Little Pony" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV My Little Pony
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936913/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4256" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Супер крылья Джетт и его друзья" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Супер крылья Джетт и его друзья
-#EXTGRP:Детские | Kids
+
+
+
+
+
+#EXTINF:0 tvg-id="elb4256" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Супер крылья Джетт и его друзья" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Супер крылья Джетт и его друзья
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936914/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4258" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Утиные истории" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Утиные истории
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4258" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Утиные истории" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Утиные истории
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4249" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Чёрный плащ" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Чёрный плащ
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4249" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Чёрный плащ" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Чёрный плащ
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936919/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4255" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Симпсоны" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Симпсоны
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4255" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Симпсоны" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Симпсоны
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936916/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4250" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Чип и Дейл" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Чип и Дейл
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4250" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Чип и Дейл" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Чип и Дейл
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="noepg18" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Мимимишки" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Мимимишки
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="noepg18" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Мимимишки" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Мимимишки
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4261" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гриффины" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гриффины
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4261" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гриффины" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гриффины
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936922/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4263" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Смешарики" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Смешарики
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4263" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Смешарики" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Смешарики
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936923/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4278" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Буба" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Буба
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4278" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Буба" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Буба
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936924/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4265" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гуфи и его команда" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гуфи и его команда
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4265" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гуфи и его команда" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гуфи и его команда
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4264" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Фиксики" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Фиксики
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4264" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Фиксики" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Фиксики
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936926/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4266" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Футурама" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Футурама
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4266" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Футурама" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Футурама
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936927/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4267" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гравити Фолз" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гравити Фолз
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4267" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Гравити Фолз" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гравити Фолз
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/08936929/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4269" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Леди баг и Супер-кот" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Леди баг и Супер-кот
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4269" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Леди баг и Супер-кот" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Леди баг и Супер-кот
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936915/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4271" catchup="flussonic" catchup-days="3" tvg-name="Karloson TV Лунтик" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karloson TV Лунтик
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4271" catchup="flussonic" catchup-days="3" tvg-name="Karloson TV Лунтик" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karloson TV Лунтик
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936917/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4272" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Маша и Медведь" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Маша и Медведь
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4272" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Маша и Медведь" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Маша и Медведь
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936918/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4260" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Черепашки ниндзя" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Черепашки ниндзя
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4260" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Черепашки ниндзя" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Черепашки ниндзя
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936919/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4275" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Тимон и Пумба" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Тимон и Пумба
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4275" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Тимон и Пумба" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Тимон и Пумба
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936920/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4276" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Три кота" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Три кота
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4276" catchup="flussonic" catchup-days="3" tvg-name="Karlson TV Три кота" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Три кота
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/08936921/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb63" catchup="flussonic" catchup-days="3" tvg-name="FAN HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/fanhd.png",FAN HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb63" catchup="flussonic" catchup-days="3" tvg-name="FAN HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/fanhd.png",FAN HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/fan_hd/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb265" catchup="flussonic" catchup-days="3" tvg-name="Мама" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/mama.png",Мама
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb265" catchup="flussonic" catchup-days="3" tvg-name="Мама" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/mama.png",Мама
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti10/mama/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb375" tvg-name="Рыжий" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/ryzhy.png",Рыжий
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb375" tvg-name="Рыжий" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/ryzhy.png",Рыжий
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/rishiy/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb428" catchup="flussonic" catchup-days="3" tvg-name="Уникум" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/unikum.png",Уникум
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb428" catchup="flussonic" catchup-days="3" tvg-name="Уникум" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/unikum.png",Уникум
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti3/unikum/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/federal/karusel.png",Карусель
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb188" catchup="flussonic" catchup-days="3" tvg-name="Карусель" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/federal/karusel.png",Карусель
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/kArusel_/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4067" tvg-name="Disney Junior IL" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/disney-jr.png",Disney Junior IL
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4067" tvg-name="Disney Junior IL" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/disney-jr.png",Disney Junior IL
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti3/DISNEY_IL_JR/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb2819" catchup="flussonic" catchup-days="3" tvg-name="Солнце +7" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/solnce.png",Солнце +7
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb2819" catchup="flussonic" catchup-days="3" tvg-name="Солнце +7" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/solnce.png",Солнце +7
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti6/disney_plus7/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb52" catchup="flussonic" catchup-days="3" tvg-name="ducktv HD" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/ducktv.png",ducktv HD
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb52" catchup="flussonic" catchup-days="3" tvg-name="ducktv HD" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/ducktv.png",ducktv HD
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/ducktv/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb4067" catchup="flussonic" catchup-days="3" tvg-name="Disney Junior" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/disney-jr.png",Disney Junior
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb4067" catchup="flussonic" catchup-days="3" tvg-name="Disney Junior" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/disney-jr.png",Disney Junior
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti1/disney_junior/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb26" catchup="flussonic" catchup-days="3" tvg-name="BabyTime" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/music/baby-time.png",BabyTime
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb26" catchup="flussonic" catchup-days="3" tvg-name="BabyTime" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/music/baby-time.png",BabyTime
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti2/babytime/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb795" catchup="flussonic" catchup-days="3" tvg-name="Anime TV" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/ANIMETV200.png",Anime TV
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb795" catchup="flussonic" catchup-days="3" tvg-name="Anime TV" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/ANIMETV200.png",Anime TV
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti8/08946924/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-#EXTINF:0 tvg-id="elb794" catchup="flussonic" catchup-days="3" tvg-name="Funny Kids" group-title="Детские | Kids" tvg-logo="http://peaktv.su/img/logos/detskie/FUNNYKIDS200.png",Funny Kids
-#EXTGRP:Детские | Kids
+#EXTINF:0 tvg-id="elb794" catchup="flussonic" catchup-days="3" tvg-name="Funny Kids" group-title="👶Детские" tvg-logo="http://peaktv.su/img/logos/detskie/FUNNYKIDS200.png",Funny Kids
+#EXTGRP:👶Детские
 http://lobby.peaktv.name/balancer/bigteisti8/08946925/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
-
-
 
 
 
