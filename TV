@@ -7225,11 +7225,21 @@ http://ottlinks.club/low/mbdapn76zt/265.m3u8
 http://ottlinks.club/low/mbdapn76zt/266.m3u8
 
 
+#EXTINF:0 group-title="Мужские",VF Авто
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/443.m3u8
+
+#EXTINF:0 group-title="Мужские",Авто 24 HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1407.m3u8
+
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Авто Плюс HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1475.m3u8
+
+#EXTINF:0 group-title="Мужские",Мужской HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1413.m3u8
 
 
-
-
-
+#EXTINF:0 group-title="Мужские",Точка Отрыва HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1410.m3u8
 
 
 
