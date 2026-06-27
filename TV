@@ -7180,6 +7180,10 @@ http://ottlinks.club/low/mbdapn76zt/266.m3u8
 #EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Мужские", Диалоги о рыбалке
 #EXTGRP:Мужские
 http://ottlinks.club/low/mbdapn76zt/267.m3u8
+
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Диалоги о рыбалке HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1467.m3u8
+
 #EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Мужской
 #EXTGRP:Мужские
 http://ottlinks.club/low/mbdapn76zt/269.m3u8
