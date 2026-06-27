@@ -22,6 +22,93 @@ http://ottlinks.club/low/mbdapn76zt/360.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📡 Федеральные" ,Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="5" tvg-logo="http://epg.cdntv.online/img/5.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Пятый канал
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/5.m3u8
+#EXTINF:0 tvg-id="6" tvg-logo="http://epg.cdntv.online/img/6.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Россия К
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/6.m3u8
+#EXTINF:0 tvg-id="7" tvg-logo="http://epg.cdntv.online/img/7.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Россия 24
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/7.m3u8
+#EXTINF:0 tvg-id="8" tvg-logo="http://epg.cdntv.online/img/8.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Карусель
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/8.m3u8
+#EXTINF:0 tvg-id="9" tvg-logo="http://epg.cdntv.online/img/9.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ОТР
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/9.m3u8
+#EXTINF:0 tvg-id="10" tvg-logo="http://epg.cdntv.online/img/10.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТВ Центр
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/10.m3u8
+#EXTINF:0 tvg-id="581" tvg-logo="http://epg.cdntv.online/img/581.png" group-title="📡 Федеральные", Москва 24
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/581.m3u8
+
+#EXTINF:0 tvg-id="elb289" catchup="flussonic" catchup-days="3" tvg-name="Москва 24" group-title="📡 Федеральные" tvg-logo="http://peaktv.su/img/logos/efir/moskva-24.png",Москва 24
+#EXTGRP:📡 Федеральные
+http://lobby.peaktv.name/balancer/bigteisti2/MOSKVA24/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
+
+#EXTINF:0 tvg-id="361" tvg-logo="http://epg.cdntv.online/img/361.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Известия HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/361.m3u8
+
+#EXTINF:0 tvg-id="2076" tvg-logo="http://epg.cdntv.online/img/2076.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТВ Центр HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/2076.m3u8
+#EXTINF:0 tvg-id="11" tvg-logo="http://epg.cdntv.online/img/11.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Рен ТВ
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/11.m3u8
+#EXTINF:0 tvg-id="388" tvg-logo="http://epg.cdntv.online/img/388.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Рен ТВ HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/388.m3u8
+
+#EXTINF:0 tvg-id="12" tvg-logo="http://epg.cdntv.online/img/12.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Спас
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/12.m3u8
+#EXTINF:0 tvg-id="13" tvg-logo="http://epg.cdntv.online/img/13.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", СТС
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/13.m3u8
+#EXTINF:0 tvg-id="14" tvg-logo="http://epg.cdntv.online/img/14.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Домашний
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/14.m3u8
+#EXTINF:0 tvg-id="2077" tvg-logo="http://epg.cdntv.online/img/2077.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Домашний HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/2077.m3u8
+#EXTINF:0 tvg-id="15" tvg-logo="http://epg.cdntv.online/img/15.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТВ3
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/15.m3u8
+#EXTINF:0 tvg-id="1036" tvg-logo="http://epg.cdntv.online/img/1036.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТВ3 HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/1036.m3u8
+#EXTINF:0 tvg-id="16" tvg-logo="http://epg.cdntv.online/img/16.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Пятница!
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/16.m3u8
+#EXTINF:0 tvg-id="35" tvg-logo="http://epg.cdntv.online/img/35.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Пятница! HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/35.m3u8
+
+#EXTINF:0 tvg-id="19" tvg-logo="http://epg.cdntv.online/img/19.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТНТ
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/19.m3u8
+
+#EXTINF:0 tvg-id="390" tvg-logo="http://epg.cdntv.online/img/390.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", ТНТ HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/390.m3u8
+
+#EXTINF:0 tvg-id="17" tvg-logo="http://epg.cdntv.online/img/17.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Звезда
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/17.m3u8
+#EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Звезда HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/1115.m3u8
+
+#EXTINF:0 tvg-id="18" tvg-logo="http://epg.cdntv.online/img/18.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Мир
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/18.m3u8
+#EXTINF:0 tvg-id="1352" tvg-logo="http://epg.cdntv.online/img/1352.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Мир HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/1352.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
 #EXTGRP:Федеральные
