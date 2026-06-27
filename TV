@@ -7241,7 +7241,9 @@ http://taptv.space/channel/HY9AG1DW6N133MM4EC/1413.m3u8
 #EXTINF:0 group-title="Мужские",Точка Отрыва HD
 http://taptv.space/channel/HY9AG1DW6N133MM4EC/1410.m3u8
 
-
+#EXTINF:0 tvg-id="elb374" catchup="flussonic" catchup-days="3" tvg-name="Рыболов" group-title="Мужские" tvg-logo="http://peaktv.su/img/logos/show/oxotnik-i-rybolov-hd.png",Рыболов
+#EXTGRP:Мужские
+http://lobby.peaktv.name/balancer/bigteisti1/rybolov/UmV2b2x5bzE4NTJ8fGNHOXNlbUZtYVhKbE1UZzFNa0JuYldGcGJDNWpiMjA9/index.m3u8
 
 
 
