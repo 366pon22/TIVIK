@@ -1,4 +1,26 @@
-
+#EXTINF:0 tvg-id="" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Первый канал
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/1.m3u8
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Первый канал HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/29.m3u8
+#EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Россия 1
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/2.m3u8
+#EXTINF:0 tvg-id="33" tvg-logo="http://epg.cdntv.online/img/33.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Россия 1 HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/33.m3u8
+#EXTINF:0 tvg-id="3" tvg-logo="http://epg.cdntv.online/img/3.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Матч! ТВ
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/3.m3u8
+#EXTINF:0 tvg-id="4" tvg-logo="http://epg.cdntv.online/img/4.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", НТВ
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/4.m3u8
+#EXTINF:0 tvg-id="360" tvg-logo="http://epg.cdntv.online/img/360.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", НТВ HD
+#EXTGRP:📡 Федеральные
+http://ottlinks.club/low/mbdapn76zt/360.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="📡 Федеральные" ,Ю HD
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
