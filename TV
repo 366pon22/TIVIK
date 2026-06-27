@@ -7172,11 +7172,7 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 
 
 
-#EXTGRP:Мужские
-http://ottlinks.club/low/mbdapn76zt/265.m3u8
-#EXTINF:0 tvg-id="266" tvg-logo="http://epg.cdntv.online/img/266.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Авто плюс
-#EXTGRP:Мужские
-http://ottlinks.club/low/mbdapn76zt/266.m3u8
+
 #EXTINF:0 tvg-id="267" tvg-logo="http://epg.cdntv.online/img/267.png" group-title="Мужские", Диалоги о рыбалке
 #EXTGRP:Мужские
 http://ottlinks.club/low/mbdapn76zt/267.m3u8
@@ -7202,13 +7198,31 @@ http://ottlinks.club/low/mbdapn76zt/273.m3u8
 #EXTINF:0 tvg-id="274" tvg-logo="http://epg.cdntv.online/img/274.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Охотник и рыболов HD
 #EXTGRP:Мужские
 http://ottlinks.club/low/mbdapn76zt/274.m3u8
-#EXTINF:0 group-title="Мужские",Рыболов HD
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1470.m3u8
 
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Дикая охота HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1568.m3u8
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="7",Дикая охота HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1569.m3u8
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Дикая рыбалка HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1570.m3u8
+#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="7",Дикая рыбалка HD
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/1571.m3u8
 
+#EXTINF:0 group-title="Мужские",VF Рыбалка
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/447.m3u8
 
+#EXTINF:0 group-title="Мужские",VF Стройка
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/448.m3u8
 
+#EXTINF:0 group-title="Мужские",VF Охота
+http://taptv.space/channel/HY9AG1DW6N133MM4EC/444.m3u8
 
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/265.m3u8
+
+#EXTINF:0 tvg-id="266" tvg-logo="http://epg.cdntv.online/img/266.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Авто плюс
+#EXTGRP:Мужские
+http://ottlinks.club/low/mbdapn76zt/266.m3u8
 
 
 
