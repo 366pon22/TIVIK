@@ -1708,7 +1708,7 @@ https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ_0iEePHpUzGNY8Rp71rcJuE8H44AFHHH9A&s" tvg-id="no_epg_music", TotalMusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/VwUiSVF.png" tvg-id="no_epg_music",Canal 5 Pico Truncado
+#EXTINF:-1 group-title="🎶Музыка" tvg-logo="https://i.imgur.com/VwUiS.png" tvg-id="no_epg_music",Canal 5 Pico Truncado
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music",CHD-TV Rock
 http://194.26.229.213/chdtv_rock/index.m3u8
@@ -3470,268 +3470,282 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 
 
+
+
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="3",VF Счастливы Вместе
-http://taptv.space/channel/0DCA4FC354C4FA921B/426.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5888701151.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Бесстыжие
-http://taptv.space/channel/0DCA4FC354C4FA921B/427.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9841387593.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Владимир Высоцкий
-http://taptv.space/channel/0DCA4FC354C4FA921B/428.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8618012708.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Два с половиной человека
-http://taptv.space/channel/0DCA4FC354C4FA921B/429.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7824689953.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Новогодний
-http://taptv.space/channel/0DCA4FC354C4FA921B/430.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6502201466.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Ёлки
-http://taptv.space/channel/0DCA4FC354C4FA921B/431.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5724788952.m3u8
 #EXTINF:0 group-title="🍭 VF",VF New Year
-http://taptv.space/channel/0DCA4FC354C4FA921B/432.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4989373769.m3u8
 #EXTINF:0 group-title="🍭 VF",VF С новым годом!
-http://taptv.space/channel/0DCA4FC354C4FA921B/433.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5087361090.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Гарри Поттер
-http://taptv.space/channel/0DCA4FC354C4FA921B/434.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4139034795.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Секс в большом городе
-http://taptv.space/channel/0DCA4FC354C4FA921B/435.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9960899037.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Карточный домик
-http://taptv.space/channel/0DCA4FC354C4FA921B/436.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1560102214.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Disney Movie
-http://taptv.space/channel/0DCA4FC354C4FA921B/437.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7267123516.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Теория большого взрыва
-http://taptv.space/channel/0DCA4FC354C4FA921B/438.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1664292917.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="3",VF Сериалы Турции
-http://taptv.space/channel/0DCA4FC354C4FA921B/439.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5851989195.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Вестерн
-http://taptv.space/channel/0DCA4FC354C4FA921B/440.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6186167415.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Маски Шоу
-http://taptv.space/channel/0DCA4FC354C4FA921B/441.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5353951822.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Каламбур
-http://taptv.space/channel/0DCA4FC354C4FA921B/442.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4986324045.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Авто
-http://taptv.space/channel/0DCA4FC354C4FA921B/443.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1667568852.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Охота
-http://taptv.space/channel/0DCA4FC354C4FA921B/444.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4807827514.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Домашний повар
-http://taptv.space/channel/0DCA4FC354C4FA921B/445.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5517174502.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Путешествия
-http://taptv.space/channel/0DCA4FC354C4FA921B/446.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2852137964.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Рыбалка
-http://taptv.space/channel/0DCA4FC354C4FA921B/447.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2867456039.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Стройка
-http://taptv.space/channel/0DCA4FC354C4FA921B/448.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4563440755.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Мультуб
-http://taptv.space/channel/0DCA4FC354C4FA921B/449.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2174725005.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Новогодние мультфильмы
-http://taptv.space/channel/0DCA4FC354C4FA921B/450.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9711919205.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Скуби-Ду
-http://taptv.space/channel/0DCA4FC354C4FA921B/451.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4867389984.m3u8
 #EXTINF:0 group-title="🍭 VF",VF VHS Cartoon
-http://taptv.space/channel/0DCA4FC354C4FA921B/452.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6129278413.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Малыш
-http://taptv.space/channel/0DCA4FC354C4FA921B/453.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7408679243.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Disney Cartoon
-http://taptv.space/channel/0DCA4FC354C4FA921B/454.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8675141376.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Союзмультфильм
-http://taptv.space/channel/0DCA4FC354C4FA921B/455.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1614647088.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Ералаш
-http://taptv.space/channel/0DCA4FC354C4FA921B/456.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6735827659.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Cartoon 18+
-http://taptv.space/channel/0DCA4FC354C4FA921B/457.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1420946572.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Граиндхаус
-http://taptv.space/channel/0DCA4FC354C4FA921B/458.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8969401215.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Юмор 18+
-http://taptv.space/channel/0DCA4FC354C4FA921B/459.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4277103828.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Уральские пельмени
-http://taptv.space/channel/0DCA4FC354C4FA921B/460.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4863629317.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Кухня
-http://taptv.space/channel/0DCA4FC354C4FA921B/461.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6010499653.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Баня
-http://taptv.space/channel/0DCA4FC354C4FA921B/462.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7562335084.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Однажды в России
-http://taptv.space/channel/0DCA4FC354C4FA921B/463.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4409248465.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Концерты
-http://taptv.space/channel/0DCA4FC354C4FA921B/464.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4523094505.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Орел и решка
-http://taptv.space/channel/0DCA4FC354C4FA921B/465.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6894111755.m3u8
 #EXTINF:0 group-title="🍭 VF",VF КВН
-http://taptv.space/channel/0DCA4FC354C4FA921B/466.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3194483275.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Adventure
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/712.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5117924318.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Anime
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/713.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3596696149.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Cartoon
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/714.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8734010641.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Comedy
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/715.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3830985278.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Family
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/716.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4923851472.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Fantasy
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/717.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8535513000.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Melodrama
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/718.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7985868082.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Mystic
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/719.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3305121296.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/720.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9642106755.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF VHS MIX
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/721.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9944310388.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы VHS
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/722.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7563940721.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Премьера
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/723.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6963083133.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Premiere
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/724.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1759672737.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Классика
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/725.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2223940385.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Classic
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/726.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5915240449.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Комедия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/727.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1428072226.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Катастрофы
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/728.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4742386722.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Marvel
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/729.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5069484132.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Военные
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/730.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9839101843.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Наша победа
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/731.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5909034353.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мосфильм
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/732.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6478117544.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Фильмы СССР
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/733.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3774784927.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мультфильмы СССР
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/734.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1544285533.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Боевик
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/735.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9693423043.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Сваты
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/863.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1220791656.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Солдаты
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/864.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3766957833.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Тайны следствия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/865.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4048733448.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Воронины
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/866.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4807139347.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Универ
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/867.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2628244904.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Series
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/868.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8922955941.m3u8
 #EXTINF:0 group-title="🍭 VF",VF След
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/869.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7775823738.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Сериал
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/870.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8452161081.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Мыльные оперы
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/871.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6493592213.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Thriller
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/872.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3471796161.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Индия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/873.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8501452915.m3u8
 #EXTINF:0 group-title="🍭 VF",VF История
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/874.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8155128823.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Comics
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/875.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6395307698.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Криминал
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/876.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4300803813.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Клиника
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/877.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9458783105.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Луи де Фюнес
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/878.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1426349021.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Чернобыль
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/879.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3816415416.m3u8
 #EXTINF:0 group-title="🍭 VF",VF The X-Files
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/880.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4258605226.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Сверхъестественное
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/881.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2531875092.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Леонид Гайдай
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/882.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7505244523.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Американская история ужасов
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/883.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9159456782.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Друзья
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/884.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6602262662.m3u8
 #EXTINF:0 group-title="🍭 VF",VF СашаТаня
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/885.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8090214806.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Джеки Чан
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/886.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7802522385.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Наша Раша
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/887.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1443701663.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Привет из 90х
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/888.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3770874010.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Эльдар Рязанов
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/889.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7882495504.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Универ новая общага
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/890.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5022026564.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Ходячие мертвецы
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/891.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9820900114.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Реальные пацаны
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/892.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1488542923.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Доктор Хаус
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/893.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2952484715.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Без цензуры
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/894.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1113340026.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Городок
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/895.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6083790462.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Comedy Woman
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/896.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3224225077.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Игра престолов
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/897.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5910133086.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Одесская киностудия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/898.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7308721114.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Ленфильм
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/899.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3688990663.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Киностудия им. Горького
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/900.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5316459743.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Рижская киностудия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/901.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4188414111.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Свердловская киностудия
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/902.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2405538931.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Беларусьфильм
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/903.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9511111080.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Netflix
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/904.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8476528980.m3u8
 #EXTINF:0 group-title="🍭 VF",VF HBO
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/905.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9405465367.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Кино 4K
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/906.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4769742562.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Сериал 4K
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/907.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8184608991.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Top Series
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/908.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7406605385.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Art house
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/909.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2705318614.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Detective
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/910.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4528091430.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Fantastic
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/911.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5185931189.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Оскар
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/912.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1925446249.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Король и Шут
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1175.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1126477572.m3u8
 #EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Легенды Ретро ФМ
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1176.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9675204550.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Музыкальный Новый год!
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1177.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2818774421.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Modern Talking
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1178.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9266859526.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Britney Spears
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1179.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2252485224.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Музыка
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1180.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1444697561.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Music
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1181.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4042909949.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Rock
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1182.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6387485467.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Караоке
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1183.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2507484365.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Шансон
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1184.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1320047668.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Музсоюз
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1185.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1654045530.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Metal
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1186.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8357999941.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Rap
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1187.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9187865866.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Хит-парад
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1188.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9225068857.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Русский рок
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1189.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5593387232.m3u8
 #EXTINF:0 group-title="🍭 VF",VF Michael Jackson
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1190.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2625992011.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
