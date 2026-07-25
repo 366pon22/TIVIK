@@ -5844,8 +5844,8 @@ http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
 #EXTGRP:Мужские
 http://ottlinks.club/low/mbdapn76zt/267.m3u8
 
-#EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Диалоги о рыбалке HD
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1467.m3u8
+#EXTINF:0 group-title="🔎Мужские" catchup="shift" catchup-days="3",Диалоги о рыбалке HD
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6298094333.m3u8
 
 #EXTINF:0 tvg-id="269" tvg-logo="http://epg.cdntv.online/img/269.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Мужские", Мужской
 #EXTGRP:Мужские
@@ -5871,15 +5871,15 @@ http://taptv.space/channel/HY9AG1DW6N133MM4EC/1568.m3u8
 #EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="7",Дикая охота HD
 http://taptv.space/channel/HY9AG1DW6N133MM4EC/1569.m3u8
 #EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="3",Дикая рыбалка HD
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1570.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7961018398.m3u8
 #EXTINF:0 group-title="Мужские" catchup="shift" catchup-days="7",Дикая рыбалка HD
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/1571.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8557428121.m3u8
 
 #EXTINF:0 group-title="Мужские",VF Рыбалка
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/447.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2867456039.m3u8
 
 #EXTINF:0 group-title="Мужские",VF Стройка
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/448.m3u8
+http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4563440755.m3u8
 
 #EXTINF:0 group-title="Мужские",VF Охота
 http://taptv.space/channel/HY9AG1DW6N133MM4EC/444.m3u8
