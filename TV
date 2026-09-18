@@ -2104,6 +2104,504 @@ https://jmp2.uk/stvp-FR3900001AC
 
 
 
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5667836348.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7023404486.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч ТВ FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7352262455.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч ТВ HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4400920739.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Премьер
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3528907300.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Премьер
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9197599693.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Премьер HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6661711951.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Премьер FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6636025146.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Премьер HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5956696740.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Матч! Футбол 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6070338467.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Матч! Футбол 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7858041376.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Матч! Футбол 1 HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4677577037.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Матч! Футбол 1 HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2748540293.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Матч! Футбол 1 FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7091657251.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Матч! Футбол 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9676610235.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Матч! Футбол 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4808051408.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Матч! Футбол 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9697959967.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3",Матч! Футбол 2 FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8771100200.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Футбол 2 HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3997516147.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Футбол 3
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4968549170.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Футбол 3 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5823438519.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Футбол 3 HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3334401896.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Футбол 3 HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6295905979.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Футбол 3 FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7744107347.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Игра
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7772270296.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Игра HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8853302607.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Игра HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6555539773.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Игра FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6629156152.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="match-igra",Матч! Игра HD 25
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5037594502.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Игра HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8925596275.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Арена
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5830408113.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Арена HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3817117384.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Арена HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6686848046.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Страна
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4992886639.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Страна
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8317910485.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Страна HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8260425163.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Матч! Планета
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3113162291.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Боец
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3103590272.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! Боец
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1249335781.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Матч! Боец HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1727497488.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4577671065.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5447402601.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5178724543.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL Prime HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6209034210.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL Prime FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7825657715.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL Prime HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9645060081.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",KHL Prime HD 50
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5518310699.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Megogo Спорт HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1360045299.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Спорт HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5819259791.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Спорт 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1973814420.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Футбол HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8256515704.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="okko-football",Окко Футбол UHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4482836335.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8616564403.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3270403949.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 3
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2867949859.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 4
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3870522660.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 5
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7474944694.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 6
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4242708333.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 7
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5239141851.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 8
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1730399256.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 9
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6739486310.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 10
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5579846173.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 11
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3580236333.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 12
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1161946185.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 13
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7582916073.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 14
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4122943318.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 15
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2216299442.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 16
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5374490119.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 17
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5132738926.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 18
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7011752179.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 19
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3055415221.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 20
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1143236682.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 21
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3602122949.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 22
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5995059068.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 23
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8134542041.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 24
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1859292748.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 25
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5466391410.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 26
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2308067965.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 27
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2352432433.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Окко Event 28
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4892349794.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1009892749.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3755038219.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1142738743.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6871388631.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="eurosport1",Eurosport 1 UHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2518781052.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5077488880.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eurosport 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5560148953.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="eurosport2",Eurosport 2 UHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9306476190.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3113631418.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8309480374.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8431387698.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2920783797.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8475205601.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6765118746.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Baltic 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4283465175.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Baltic 1 FHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5475050206.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Qazaqstan HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1623988927.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 1 HD KZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3585120477.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 2 HD KZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3335045227.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Ukraine HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2373689591.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Ukraine HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9846205944.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Ukraine Plus HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1642588975.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Ukraine Plus HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5549715210.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports UA
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4065683115.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports HD UA
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7135839285.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports+ UA
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4161429342.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports+ HD UA
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8063938445.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sports Tennis HD 50 UK
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5165443678.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sports F1 UHD UK
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7229060985.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sports Main Event UHD UK
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4423962099.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sport 1 HU
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9057059493.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sport 2 HU
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9825351233.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sport 3 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4681898196.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Nova Sport 3 CZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2554191029.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Nova Sport 4 CZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5252489048.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sport Live DK
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9897255902.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sport TV+ HD PT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4154595177.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",SuperSport Rugby ZA
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6117565310.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5140871865.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3225157356.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 3
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5289379974.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 4
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2315870213.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 5
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7839256613.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Pimple TV 6
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4378793801.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Esport RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3140116037.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Fight RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5911651283.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Premium 1 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9055808728.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Premium 2 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6994621961.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Premium 3 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6488092776.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 1 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4779244988.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 3 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8797990377.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 3 Premium RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5601132694.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 4 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4454991014.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 5 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5363241933.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 6 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5380056425.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 7 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5520785315.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 8 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6888814228.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 9 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7078521938.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Arena Sport 1x2 RS
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6902014010.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",FightBox
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7420849694.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",FightBox HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9332967852.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Extreme Sports
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3528546108.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Extreme Sports
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1052004152.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Extreme Sports HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6504241917.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",QazSport HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8424389488.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Trace Sport Stars HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8191728206.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Танцуй!
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7365604662.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="tennis-cnl-us",Tennis Channel [US] HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3171116180.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Super Tennis FHD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5236769524.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",viju+ Sport
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5242071429.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",viju+ Sport
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3863886582.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",viju+ Sport HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9625387651.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",viju+ Sport HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3863417486.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9221779603.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8892914813.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 3
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9639186601.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 4
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9242210034.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 5
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8211138268.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 6
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9542128713.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 7
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4018719748.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 8
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5228349153.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 9
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9407207229.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 10
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2490386696.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 11
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1087118190.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ViP Sport 12
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3948822869.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Удар
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2193698854.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Удар HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5250809442.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Удар HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4229828645.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Волейбол HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9400020182.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Russian Extreme HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2082256340.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Russian Extreme HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8617136117.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Russian Extreme UHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5496630083.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Fast&Fun Box
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6955515777.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Fast&Fun Box HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1540445532.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Старт
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6053980632.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Старт HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3266469758.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Старт HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5729446860.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Старт Триумф HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7495355778.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="start-basket",Старт Баскет HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9951529184.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Футбол
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6769675018.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Футбол
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9615098149.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Футбол HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4496590257.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт",Конный Мир HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6496296500.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",MMA-TV.com
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5043708258.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",MMA-TV.com
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1933294626.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",MMA-TV.com HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6649384671.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Бокс ТВ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7857620347.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Бокс ТВ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6144479375.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Бокс ТВ HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3006812738.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ЖИВИ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9027907532.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ЖИВИ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4590590814.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ЖИВИ HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2799809862.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Мир Баскетбола
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8052691093.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Мир Баскетбола HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4037548388.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Хоккей ТВ HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2321924296.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ТВ Спорт HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9786713071.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Мяч HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7268627430.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport F1 FHD DE
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6658025998.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",WWE Network HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1122169062.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Живи Активно HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5957897310.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Q Sport.KG HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2250569230.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Red Bull TV
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7921305832.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Red Bull TV HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8306442348.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Auto Motor Sport HD DE
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6410803764.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",TNT Sports BR
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2082690962.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",TNT Sports 4 HD UK
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4911669449.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",beIN Sports Max 1 FullHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8931083747.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",beIN Sports Max 2 FullHD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5247306983.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",beIN Sports Haber HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3984027077.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",beIN Sports Max 1 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8584449472.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",beIN Sports Max 2 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1007624369.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport 24 HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7196844358.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport Arena HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8813931950.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport Calcio HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6434646693.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Cinema Adventure IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9831252146.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport Football HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7894672112.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport Golf HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9209600598.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport MotoGP HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2580379503.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport NBA HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6594422904.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Sky Sport Tennis HD IT
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2124167385.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ESPN 1 HD NL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5764340404.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ESPN 2 HD NL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2239072037.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ESPN 3 HD NL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2601616551.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",ESPN 4 HD NL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7536354356.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Q Arena HD KZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4097242165.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Q League HD KZ
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3361007394.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Sports 1 Qazaqstan HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2393495977.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Eleven Sports 1 4K PL
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6438513359.m3u8
+#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7",Setanta Moldova HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8063756139.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 1
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1150422463.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 2
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5676246274.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 3
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4276296363.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 4
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8562002524.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 5
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2759655143.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 10 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/7263658331.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 11 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1977639495.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 12 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/8263516420.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 13 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3359313590.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 14 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3984811720.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 15 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5393601994.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 16 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1420094052.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 17 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/3298547435.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 18 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/9222492084.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 19 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/2483468568.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 20 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5734023527.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 21 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/4594423236.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 22 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/6400890326.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 23 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/1485012230.m3u8
+#EXTINF:-1 group-title="⚽️ Наш Спорт" catchup="shift" catchup-days="7",Наш Спорт 24 HD
+https://stream2.taptv.ru/channel/HY9AG1DW6N133MM4EC/5179695596.m3u8
 
 
 
@@ -2121,465 +2619,6 @@ https://jmp2.uk/stvp-FR3900001AC
 
 
 
-
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5667836348" tvg-chno="5667836348",Матч ТВ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5667836348.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-7023404486" tvg-chno="7023404486",Матч ТВ HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7023404486.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-7352262455" tvg-chno="7352262455",Матч ТВ FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7352262455.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4400920739" tvg-chno="4400920739",Матч ТВ HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4400920739.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-3528907300" tvg-chno="3528907300",Матч! Премьер
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3528907300.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-9197599693" tvg-chno="9197599693",Матч! Премьер
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9197599693.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6661711951" tvg-chno="6661711951",Матч! Премьер HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6661711951.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6636025146" tvg-chno="6636025146",Матч! Премьер FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6636025146.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5956696740" tvg-chno="5956696740",Матч! Премьер HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5956696740.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6070338467" tvg-chno="6070338467",Матч! Футбол 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6070338467.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-7858041376" tvg-chno="7858041376",Матч! Футбол 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7858041376.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4677577037" tvg-chno="4677577037",Матч! Футбол 1 HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4677577037.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-2748540293" tvg-chno="2748540293",Матч! Футбол 1 HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2748540293.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-7091657251" tvg-chno="7091657251",Матч! Футбол 1 FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7091657251.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-9676610235" tvg-chno="9676610235",Матч! Футбол 2
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9676610235.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-4808051408" tvg-chno="4808051408",Матч! Футбол 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4808051408.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-9697959967" tvg-chno="9697959967",Матч! Футбол 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9697959967.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-8771100200" tvg-chno="8771100200",Матч! Футбол 2 FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8771100200.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3997516147" tvg-chno="3997516147",Матч! Футбол 2 HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3997516147.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-4968549170" tvg-chno="4968549170",Матч! Футбол 3
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4968549170.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5823438519" tvg-chno="5823438519",Матч! Футбол 3 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5823438519.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3334401896" tvg-chno="3334401896",Матч! Футбол 3 HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3334401896.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6295905979" tvg-chno="6295905979",Матч! Футбол 3 HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6295905979.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-7744107347" tvg-chno="7744107347",Матч! Футбол 3 FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7744107347.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-7772270296" tvg-chno="7772270296",Матч! Игра
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7772270296.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-8853302607" tvg-chno="8853302607",Матч! Игра HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8853302607.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6555539773" tvg-chno="6555539773",Матч! Игра HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6555539773.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6629156152" tvg-chno="6629156152",Матч! Игра FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6629156152.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="match-igra" tvg-chno="5037594502",Матч! Игра HD 25
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5037594502.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8925596275" tvg-chno="8925596275",Матч! Игра HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8925596275.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5830408113" tvg-chno="5830408113",Матч! Арена
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5830408113.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-3817117384" tvg-chno="3817117384",Матч! Арена HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3817117384.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6686848046" tvg-chno="6686848046",Матч! Арена HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6686848046.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-4992886639" tvg-chno="4992886639",Матч! Страна
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4992886639.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-8317910485" tvg-chno="8317910485",Матч! Страна
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8317910485.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8260425163" tvg-chno="8260425163",Матч! Страна HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8260425163.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-3113162291" tvg-chno="3113162291",Матч! Планета
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3113162291.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-3103590272" tvg-chno="3103590272",Матч! Боец
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3103590272.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-1249335781" tvg-chno="1249335781",Матч! Боец
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1249335781.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1727497488" tvg-chno="1727497488",Матч! Боец HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1727497488.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-4577671065" tvg-chno="4577671065",KHL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4577671065.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5447402601" tvg-chno="5447402601",KHL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5447402601.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5178724543" tvg-chno="5178724543",KHL HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5178724543.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6209034210" tvg-chno="6209034210",KHL Prime HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6209034210.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-7825657715" tvg-chno="7825657715",KHL Prime FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7825657715.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9645060081" tvg-chno="9645060081",KHL Prime HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9645060081.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5518310699" tvg-chno="5518310699",KHL Prime HD 50
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5518310699.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1360045299" tvg-chno="1360045299",Megogo Спорт HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1360045299.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5819259791" tvg-chno="5819259791",Окко Спорт HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5819259791.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1973814420" tvg-chno="1973814420",Окко Спорт 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1973814420.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-8256515704" tvg-chno="8256515704",Окко Футбол HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8256515704.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="okko-football" tvg-chno="4482836335",Окко Футбол UHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4482836335.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8616564403" tvg-chno="8616564403",Окко Event 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8616564403.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3270403949" tvg-chno="3270403949",Окко Event 2
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3270403949.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2867949859" tvg-chno="2867949859",Окко Event 3
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2867949859.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3870522660" tvg-chno="3870522660",Окко Event 4
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3870522660.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7474944694" tvg-chno="7474944694",Окко Event 5
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7474944694.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4242708333" tvg-chno="4242708333",Окко Event 6
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4242708333.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5239141851" tvg-chno="5239141851",Окко Event 7
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5239141851.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1730399256" tvg-chno="1730399256",Окко Event 8
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1730399256.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6739486310" tvg-chno="6739486310",Окко Event 9
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6739486310.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5579846173" tvg-chno="5579846173",Окко Event 10
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5579846173.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3580236333" tvg-chno="3580236333",Окко Event 11
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3580236333.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1161946185" tvg-chno="1161946185",Окко Event 12
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1161946185.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7582916073" tvg-chno="7582916073",Окко Event 13
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7582916073.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4122943318" tvg-chno="4122943318",Окко Event 14
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4122943318.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2216299442" tvg-chno="2216299442",Окко Event 15
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2216299442.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5374490119" tvg-chno="5374490119",Окко Event 16
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5374490119.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5132738926" tvg-chno="5132738926",Окко Event 17
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5132738926.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7011752179" tvg-chno="7011752179",Окко Event 18
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7011752179.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3055415221" tvg-chno="3055415221",Окко Event 19
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3055415221.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1143236682" tvg-chno="1143236682",Окко Event 20
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1143236682.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3602122949" tvg-chno="3602122949",Окко Event 21
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3602122949.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5995059068" tvg-chno="5995059068",Окко Event 22
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5995059068.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8134542041" tvg-chno="8134542041",Окко Event 23
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8134542041.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1859292748" tvg-chno="1859292748",Окко Event 24
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1859292748.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5466391410" tvg-chno="5466391410",Окко Event 25
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5466391410.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2308067965" tvg-chno="2308067965",Окко Event 26
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2308067965.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2352432433" tvg-chno="2352432433",Окко Event 27
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2352432433.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4892349794" tvg-chno="4892349794",Окко Event 28
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4892349794.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-1009892749" tvg-chno="1009892749",Eurosport 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1009892749.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-3755038219" tvg-chno="3755038219",Eurosport 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3755038219.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-1142738743" tvg-chno="1142738743",Eurosport 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1142738743.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6871388631" tvg-chno="6871388631",Eurosport 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6871388631.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="eurosport1" tvg-chno="2518781052",Eurosport 1 UHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2518781052.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5077488880" tvg-chno="5077488880",Eurosport 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5077488880.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5560148953" tvg-chno="5560148953",Eurosport 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5560148953.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="eurosport2" tvg-chno="9306476190",Eurosport 2 UHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9306476190.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3113631418" tvg-chno="3113631418",Setanta Sports 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3113631418.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8309480374" tvg-chno="8309480374",Setanta Sports 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8309480374.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-8431387698" tvg-chno="8431387698",Setanta Sports 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8431387698.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2920783797" tvg-chno="2920783797",Setanta Sports 2
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2920783797.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8475205601" tvg-chno="8475205601",Setanta Sports 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8475205601.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6765118746" tvg-chno="6765118746",Setanta Sports 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6765118746.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4283465175" tvg-chno="4283465175",Setanta Baltic 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4283465175.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5475050206" tvg-chno="5475050206",Setanta Baltic 1 FHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5475050206.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-1623988927" tvg-chno="1623988927",Setanta Qazaqstan HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1623988927.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3585120477" tvg-chno="3585120477",Setanta Sports 1 HD KZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3585120477.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3335045227" tvg-chno="3335045227",Setanta Sports 2 HD KZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3335045227.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2373689591" tvg-chno="2373689591",Setanta Ukraine HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2373689591.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9846205944" tvg-chno="9846205944",Setanta Ukraine HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9846205944.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1642588975" tvg-chno="1642588975",Setanta Ukraine Plus HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1642588975.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5549715210" tvg-chno="5549715210",Setanta Ukraine Plus HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5549715210.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4065683115" tvg-chno="4065683115",Setanta Sports UA
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4065683115.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7135839285" tvg-chno="7135839285",Setanta Sports HD UA
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7135839285.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4161429342" tvg-chno="4161429342",Setanta Sports+ UA
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4161429342.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8063938445" tvg-chno="8063938445",Setanta Sports+ HD UA
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8063938445.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5165443678" tvg-chno="5165443678",Sky Sports Tennis HD 50 UK
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5165443678.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7229060985" tvg-chno="7229060985",Sky Sports F1 UHD UK
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7229060985.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4423962099" tvg-chno="4423962099",Sky Sports Main Event UHD UK
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4423962099.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9057059493" tvg-chno="9057059493",Sport 1 HU
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9057059493.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9825351233" tvg-chno="9825351233",Sport 2 HU
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9825351233.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4681898196" tvg-chno="4681898196",Sport 3 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4681898196.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2554191029" tvg-chno="2554191029",Nova Sport 3 CZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2554191029.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5252489048" tvg-chno="5252489048",Nova Sport 4 CZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5252489048.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9897255902" tvg-chno="9897255902",Sport Live DK
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9897255902.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4154595177" tvg-chno="4154595177",Sport TV+ HD PT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4154595177.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6117565310" tvg-chno="6117565310",SuperSport Rugby ZA
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6117565310.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-5140871865" tvg-chno="5140871865",Pimple TV 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5140871865.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="1" tvg-id="taptv-3225157356" tvg-chno="3225157356",Pimple TV 2
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3225157356.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5289379974" tvg-chno="5289379974",Pimple TV 3
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5289379974.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-2315870213" tvg-chno="2315870213",Pimple TV 4
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2315870213.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7839256613" tvg-chno="7839256613",Pimple TV 5
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7839256613.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4378793801" tvg-chno="4378793801",Pimple TV 6
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4378793801.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3140116037" tvg-chno="3140116037",Arena Esport RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3140116037.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5911651283" tvg-chno="5911651283",Arena Fight RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5911651283.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9055808728" tvg-chno="9055808728",Arena Premium 1 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9055808728.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6994621961" tvg-chno="6994621961",Arena Premium 2 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6994621961.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6488092776" tvg-chno="6488092776",Arena Premium 3 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6488092776.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4779244988" tvg-chno="4779244988",Arena Sport 1 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4779244988.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8797990377" tvg-chno="8797990377",Arena Sport 3 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8797990377.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5601132694" tvg-chno="5601132694",Arena Sport 3 Premium RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5601132694.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4454991014" tvg-chno="4454991014",Arena Sport 4 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4454991014.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5363241933" tvg-chno="5363241933",Arena Sport 5 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5363241933.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5380056425" tvg-chno="5380056425",Arena Sport 6 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5380056425.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5520785315" tvg-chno="5520785315",Arena Sport 7 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5520785315.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6888814228" tvg-chno="6888814228",Arena Sport 8 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6888814228.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7078521938" tvg-chno="7078521938",Arena Sport 9 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7078521938.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6902014010" tvg-chno="6902014010",Arena Sport 1x2 RS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6902014010.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7420849694" tvg-chno="7420849694",FightBox
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7420849694.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9332967852" tvg-chno="9332967852",FightBox HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9332967852.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-3528546108" tvg-chno="3528546108",Extreme Sports
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3528546108.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-1052004152" tvg-chno="1052004152",Extreme Sports
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1052004152.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6504241917" tvg-chno="6504241917",Extreme Sports HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6504241917.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8424389488" tvg-chno="8424389488",QazSport HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8424389488.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8191728206" tvg-chno="8191728206",Trace Sport Stars HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8191728206.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7365604662" tvg-chno="7365604662",Танцуй!
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7365604662.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="tennis-cnl-us" tvg-chno="3171116180",Tennis Channel [US] HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3171116180.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5236769524" tvg-chno="5236769524",Super Tennis FHD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5236769524.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5242071429" tvg-chno="5242071429",viju+ Sport
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5242071429.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-3863886582" tvg-chno="3863886582",viju+ Sport
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3863886582.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9625387651" tvg-chno="9625387651",viju+ Sport HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9625387651.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-3863417486" tvg-chno="3863417486",viju+ Sport HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3863417486.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9221779603" tvg-chno="9221779603",ViP Sport 1
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9221779603.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8892914813" tvg-chno="8892914813",ViP Sport 2
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8892914813.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9639186601" tvg-chno="9639186601",ViP Sport 3
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9639186601.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9242210034" tvg-chno="9242210034",ViP Sport 4
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9242210034.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8211138268" tvg-chno="8211138268",ViP Sport 5
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8211138268.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9542128713" tvg-chno="9542128713",ViP Sport 6
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9542128713.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4018719748" tvg-chno="4018719748",ViP Sport 7
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4018719748.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5228349153" tvg-chno="5228349153",ViP Sport 8
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5228349153.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9407207229" tvg-chno="9407207229",ViP Sport 9
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9407207229.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2490386696" tvg-chno="2490386696",ViP Sport 10
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2490386696.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1087118190" tvg-chno="1087118190",ViP Sport 11
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1087118190.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3948822869" tvg-chno="3948822869",ViP Sport 12
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3948822869.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-2193698854" tvg-chno="2193698854",Удар
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2193698854.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5250809442" tvg-chno="5250809442",Удар HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5250809442.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-4229828645" tvg-chno="4229828645",Удар HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4229828645.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9400020182" tvg-chno="9400020182",Волейбол HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9400020182.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-2082256340" tvg-chno="2082256340",Russian Extreme HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2082256340.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-8617136117" tvg-chno="8617136117",Russian Extreme HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8617136117.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5496630083" tvg-chno="5496630083",Russian Extreme UHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5496630083.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6955515777" tvg-chno="6955515777",Fast&Fun Box
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6955515777.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-1540445532" tvg-chno="1540445532",Fast&Fun Box HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1540445532.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6053980632" tvg-chno="6053980632",Старт
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6053980632.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-3266469758" tvg-chno="3266469758",Старт HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3266469758.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5729446860" tvg-chno="5729446860",Старт HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5729446860.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7495355778" tvg-chno="7495355778",Старт Триумф HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7495355778.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="start-basket" tvg-chno="9951529184",Старт Баскет HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9951529184.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-6769675018" tvg-chno="6769675018",Футбол
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6769675018.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9615098149" tvg-chno="9615098149",Футбол
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9615098149.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4496590257" tvg-chno="4496590257",Футбол HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4496590257.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6496296500" tvg-chno="6496296500",Конный Мир HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6496296500.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-5043708258" tvg-chno="5043708258",MMA-TV.com
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5043708258.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-1933294626" tvg-chno="1933294626",MMA-TV.com
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1933294626.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6649384671" tvg-chno="6649384671",MMA-TV.com HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6649384671.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-7857620347" tvg-chno="7857620347",Бокс ТВ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7857620347.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6144479375" tvg-chno="6144479375",Бокс ТВ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6144479375.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3006812738" tvg-chno="3006812738",Бокс ТВ HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3006812738.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="3" tvg-id="taptv-9027907532" tvg-chno="9027907532",ЖИВИ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9027907532.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-4590590814" tvg-chno="4590590814",ЖИВИ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4590590814.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2799809862" tvg-chno="2799809862",ЖИВИ HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2799809862.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8052691093" tvg-chno="8052691093",Мир Баскетбола
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8052691093.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4037548388" tvg-chno="4037548388",Мир Баскетбола HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4037548388.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2321924296" tvg-chno="2321924296",Хоккей ТВ HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2321924296.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-9786713071" tvg-chno="9786713071",ТВ Спорт HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9786713071.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-7268627430" tvg-chno="7268627430",Мяч HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7268627430.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-6658025998" tvg-chno="6658025998",Sky Sport F1 FHD DE
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6658025998.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" catchup="shift" catchup-days="7" tvg-id="taptv-1122169062" tvg-chno="1122169062",WWE Network HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1122169062.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5957897310" tvg-chno="5957897310",Живи Активно HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5957897310.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2250569230" tvg-chno="2250569230",Q Sport.KG HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2250569230.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7921305832" tvg-chno="7921305832",Red Bull TV
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7921305832.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8306442348" tvg-chno="8306442348",Red Bull TV HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8306442348.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6410803764" tvg-chno="6410803764",Auto Motor Sport HD DE
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6410803764.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2082690962" tvg-chno="2082690962",TNT Sports BR
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2082690962.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4911669449" tvg-chno="4911669449",TNT Sports 4 HD UK
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4911669449.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8931083747" tvg-chno="8931083747",beIN Sports Max 1 FullHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8931083747.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5247306983" tvg-chno="5247306983",beIN Sports Max 2 FullHD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5247306983.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3984027077" tvg-chno="3984027077",beIN Sports Haber HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3984027077.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8584449472" tvg-chno="8584449472",beIN Sports Max 1 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8584449472.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-1007624369" tvg-chno="1007624369",beIN Sports Max 2 HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1007624369.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7196844358" tvg-chno="7196844358",Sky Sport 24 HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7196844358.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8813931950" tvg-chno="8813931950",Sky Sport Arena HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8813931950.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6434646693" tvg-chno="6434646693",Sky Sport Calcio HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6434646693.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9831252146" tvg-chno="9831252146",Sky Cinema Adventure IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9831252146.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7894672112" tvg-chno="7894672112",Sky Sport Football HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7894672112.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-9209600598" tvg-chno="9209600598",Sky Sport Golf HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9209600598.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2580379503" tvg-chno="2580379503",Sky Sport MotoGP HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2580379503.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6594422904" tvg-chno="6594422904",Sky Sport NBA HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6594422904.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2124167385" tvg-chno="2124167385",Sky Sport Tennis HD IT
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2124167385.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-5764340404" tvg-chno="5764340404",ESPN 1 HD NL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5764340404.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2239072037" tvg-chno="2239072037",ESPN 2 HD NL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2239072037.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2601616551" tvg-chno="2601616551",ESPN 3 HD NL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2601616551.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-7536354356" tvg-chno="7536354356",ESPN 4 HD NL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7536354356.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-4097242165" tvg-chno="4097242165",Q Arena HD KZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4097242165.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-3361007394" tvg-chno="3361007394",Q League HD KZ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3361007394.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-2393495977" tvg-chno="2393495977",Setanta Sports 1 Qazaqstan HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2393495977.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-6438513359" tvg-chno="6438513359",Eleven Sports 1 4K PL
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6438513359.m3u8
-#EXTINF:-1 group-title="⚽️ Спорт" tvg-id="taptv-8063756139" tvg-chno="8063756139",Setanta Moldova HD
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8063756139.m3u8
 
 
 
