@@ -1755,7 +1755,7 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/15/Vevo_RB_Channel_1080x1080_Square_v2-bg6ynv4w.png",Vevo Hip-Hop & RnB
-https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotast-vevohiphopandrbfr-rakutenfr/playlist.m3u8
 
 #EXTINF:-1 group-title="🎶Музыка" tvg-id="no_epg_music" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/1000x1000_Vevo-pop.png?$296_164_PNG$", Vevo Pop (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
@@ -2943,539 +2943,272 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
 
 
 
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="3",VF Счастливы Вместе
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5888701151.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Бесстыжие
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9841387593.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Владимир Высоцкий
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8618012708.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Два с половиной человека
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7824689953.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Новогодний
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6502201466.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Ёлки
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5724788952.m3u8
-#EXTINF:0 group-title="🍭 VF",VF New Year
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4989373769.m3u8
-#EXTINF:0 group-title="🍭 VF",VF С новым годом!
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5087361090.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Гарри Поттер
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4139034795.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Секс в большом городе
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9960899037.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Карточный домик
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1560102214.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Disney Movie
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7267123516.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Теория большого взрыва
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1664292917.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="3",VF Сериалы Турции
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5851989195.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Вестерн
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6186167415.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Маски Шоу
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5353951822.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Каламбур
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4986324045.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Авто
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1667568852.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Охота
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4807827514.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Домашний повар
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5517174502.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Путешествия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2852137964.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Рыбалка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2867456039.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Стройка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4563440755.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Мультуб
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2174725005.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Новогодние мультфильмы
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9711919205.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Скуби-Ду
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4867389984.m3u8
-#EXTINF:0 group-title="🍭 VF",VF VHS Cartoon
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6129278413.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Малыш
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7408679243.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Disney Cartoon
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8675141376.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Союзмультфильм
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1614647088.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Ералаш
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6735827659.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Cartoon 18+
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1420946572.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Граиндхаус
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8969401215.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Юмор 18+
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4277103828.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Уральские пельмени
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4863629317.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Кухня
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6010499653.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Баня
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7562335084.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Однажды в России
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4409248465.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Концерты
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4523094505.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Орел и решка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6894111755.m3u8
-#EXTINF:0 group-title="🍭 VF",VF КВН
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3194483275.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Adventure
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5117924318.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Anime
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3596696149.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Cartoon
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8734010641.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Comedy
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3830985278.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Family
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4923851472.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Fantasy
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8535513000.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Melodrama
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7985868082.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Mystic
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3305121296.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9642106755.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF VHS MIX
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9944310388.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы VHS
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7563940721.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Премьера
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6963083133.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Premiere
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1759672737.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Классика
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2223940385.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Classic
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5915240449.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Комедия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1428072226.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Катастрофы
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4742386722.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Marvel
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5069484132.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Военные
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9839101843.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Наша победа
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5909034353.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мосфильм
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6478117544.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Фильмы СССР
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3774784927.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мультфильмы СССР
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1544285533.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Боевик
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9693423043.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Сваты
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1220791656.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Солдаты
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3766957833.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Тайны следствия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4048733448.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Воронины
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4807139347.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Универ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2628244904.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Series
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8922955941.m3u8
-#EXTINF:0 group-title="🍭 VF",VF След
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7775823738.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Сериал
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8452161081.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Мыльные оперы
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6493592213.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Thriller
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3471796161.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Индия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8501452915.m3u8
-#EXTINF:0 group-title="🍭 VF",VF История
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8155128823.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Comics
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6395307698.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Криминал
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4300803813.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Клиника
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9458783105.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Луи де Фюнес
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1426349021.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Чернобыль
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3816415416.m3u8
-#EXTINF:0 group-title="🍭 VF",VF The X-Files
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4258605226.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Сверхъестественное
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2531875092.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Леонид Гайдай
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7505244523.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Американская история ужасов
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9159456782.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Друзья
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6602262662.m3u8
-#EXTINF:0 group-title="🍭 VF",VF СашаТаня
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8090214806.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Джеки Чан
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7802522385.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Наша Раша
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1443701663.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Привет из 90х
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3770874010.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Эльдар Рязанов
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7882495504.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Универ новая общага
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5022026564.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Ходячие мертвецы
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9820900114.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Реальные пацаны
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1488542923.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Доктор Хаус
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2952484715.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Без цензуры
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1113340026.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Городок
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6083790462.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Comedy Woman
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3224225077.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Игра престолов
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5910133086.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Одесская киностудия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7308721114.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Ленфильм
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3688990663.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Киностудия им. Горького
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5316459743.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Рижская киностудия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4188414111.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Свердловская киностудия
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2405538931.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Беларусьфильм
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9511111080.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Netflix
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8476528980.m3u8
-#EXTINF:0 group-title="🍭 VF",VF HBO
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9405465367.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Кино 4K
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4769742562.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Сериал 4K
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8184608991.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Top Series
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/7406605385.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Art house
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2705318614.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Detective
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4528091430.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Fantastic
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5185931189.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Оскар
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1925446249.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Король и Шут
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1126477572.m3u8
-#EXTINF:0 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Легенды Ретро ФМ
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9675204550.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Музыкальный Новый год!
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2818774421.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Modern Talking
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9266859526.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Britney Spears
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2252485224.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Музыка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1444697561.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Music
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4042909949.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Rock
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6387485467.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Караоке
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2507484365.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Шансон
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1320047668.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Музсоюз
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/1654045530.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Metal
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/8357999941.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Rap
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9187865866.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Хит-парад
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/9225068857.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Русский рок
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/5593387232.m3u8
-#EXTINF:0 group-title="🍭 VF",VF Michael Jackson
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2625992011.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Сериалы Турции
-https://stream.zuno-tv.workers.dev/channel/9090/1a838d17/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Вестерн
-https://stream.zuno-tv.workers.dev/channel/9090/n528273d6/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Счастливы Вместе
-https://stream.zuno-tv.workers.dev/channel/9090/n7accaef4/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Бесстыжие
-https://stream.zuno-tv.workers.dev/channel/9090/n50f17f9e/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Владимир Высоцкий
-https://stream.zuno-tv.workers.dev/channel/9090/1c358a0e/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Два с половиной человека
-https://stream.zuno-tv.workers.dev/channel/9090/n61eb0115/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Новогодний
-https://stream.zuno-tv.workers.dev/channel/9090/d65b946/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ёлки
-https://stream.zuno-tv.workers.dev/channel/9090/19a06d1c/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF New Year
-https://stream.zuno-tv.workers.dev/channel/9090/753b1d01/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF С новым годом!
-https://stream.zuno-tv.workers.dev/channel/9090/174fc91b/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Гарри Поттер
-https://stream.zuno-tv.workers.dev/channel/9091/75b2c293/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Секс в большом городе
-https://stream.zuno-tv.workers.dev/channel/9090/3981b951/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Карточный домик
-https://stream.zuno-tv.workers.dev/channel/9090/n36d4b5a6/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Disney Movie
-https://stream.zuno-tv.workers.dev/channel/9090/n156c5598/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Теория большого взрыва
-https://stream.zuno-tv.workers.dev/channel/9090/63fad5f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Adventure
-https://stream.zuno-tv.workers.dev/channel/9090/n7b2b1a94/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Anime
-https://stream.zuno-tv.workers.dev/channel/9090/n1c340330/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Cartoon
-https://stream.zuno-tv.workers.dev/channel/9090/74dfb4ca/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Comedy
-https://stream.zuno-tv.workers.dev/channel/9090/n66d2e643/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Family
-https://stream.zuno-tv.workers.dev/channel/9090/n62799578/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Fantasy
-https://stream.zuno-tv.workers.dev/channel/9090/1359d482/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Melodrama
-https://stream.zuno-tv.workers.dev/channel/9090/n2090b378/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Mystic
-https://stream.zuno-tv.workers.dev/channel/9090/n553291f5/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ужасы
-https://stream.zuno-tv.workers.dev/channel/9090/1c49ef83/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF VHS MIX
-https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ужасы VHS
-https://stream.zuno-tv.workers.dev/channel/9090/nffb23c/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Премьера
-https://stream.zuno-tv.workers.dev/channel/9090/79c36785/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Premiere
-https://stream.zuno-tv.workers.dev/channel/9090/n25c46863/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Классика
-https://stream.zuno-tv.workers.dev/channel/9090/6197a3c3/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Classic
-https://stream.zuno-tv.workers.dev/channel/9090/n794af212/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Комедия
-https://stream.zuno-tv.workers.dev/channel/9090/63bea0ca/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Катастрофы
-https://stream.zuno-tv.workers.dev/channel/9090/n39976b52/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Marvel
-https://stream.zuno-tv.workers.dev/channel/9090/n5685335d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Военные
-https://stream.zuno-tv.workers.dev/channel/9090/n43d216d1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Наша победа
-https://stream.zuno-tv.workers.dev/channel/9090/n30e8cca0/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Мосфильм
-https://stream.zuno-tv.workers.dev/channel/9090/n12cab184/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Фильмы СССР
-https://stream.zuno-tv.workers.dev/channel/9090/n6aabccf9/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Мультфильмы СССР
-https://stream.zuno-tv.workers.dev/channel/9090/dd63185/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Боевик
-https://stream.zuno-tv.workers.dev/channel/9090/4eaf9130/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Кино 4K
-https://stream.zuno-tv.workers.dev/channel/9090/5983ec54/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Сериал 4K
-https://stream.zuno-tv.workers.dev/channel/9090/n52012c64/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF TOP Series
-https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Art house
-https://stream.zuno-tv.workers.dev/channel/9090/5343ad7f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Detective
-http://tv.woobl.ru:9090/channel/3f1bb9b1/index.m3u
-#EXTINF:-1 group-title="Фильмовые",VF Fantastic
-https://stream.zuno-tv.workers.dev/channel/9090/n5bc949a9/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Оскар
-https://stream.zuno-tv.workers.dev/channel/9090/1c089d83/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Сваты
-https://stream.zuno-tv.workers.dev/channel/9090/1c2bef24/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Солдаты
-https://stream.zuno-tv.workers.dev/channel/9090/n2a045a21/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Тайны следствия
-https://stream.zuno-tv.workers.dev/channel/9090/1443d724/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Воронины
-https://stream.zuno-tv.workers.dev/channel/9090/n239d9f09/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Универ
-https://stream.zuno-tv.workers.dev/channel/9090/6d5a11a3/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Series
-https://stream.zuno-tv.workers.dev/channel/9090/n4c0ff265/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF След
-https://stream.zuno-tv.workers.dev/channel/9090/19aef85d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Сериал
-https://stream.zuno-tv.workers.dev/channel/9090/69835d3b/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Мыльные оперы
-https://stream.zuno-tv.workers.dev/channel/9090/5fcebda2/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Thriller
-https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Индия
-https://stream.zuno-tv.workers.dev/channel/9090/1bb22982/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF История
-https://stream.zuno-tv.workers.dev/channel/9090/n967a72/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Comics
-https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Криминал
-https://stream.zuno-tv.workers.dev/channel/9090/777315be/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Клиника
-https://stream.zuno-tv.workers.dev/channel/9090/5e6b6b04/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Луи де Фюнес
-https://stream.zuno-tv.workers.dev/channel/9090/d84cd4/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Чернобыль
-https://stream.zuno-tv.workers.dev/channel/9090/30f28c5a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF The X-Files
-https://stream.zuno-tv.workers.dev/channel/9090/n5e77a0b1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Сверхъестественное
-https://stream.zuno-tv.workers.dev/channel/9090/n59fe43e1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Леонид Гайдай
-https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Американская история ужасов
-https://stream.zuno-tv.workers.dev/channel/9090/n1b025ffc/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Друзья
-https://stream.zuno-tv.workers.dev/channel/9090/53f0bc87/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF СашаТаня
-https://stream.zuno-tv.workers.dev/channel/9090/1ad1dc5b/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Джеки Чан
-https://stream.zuno-tv.workers.dev/channel/9090/4a8e1aa1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Наша Раша
-https://stream.zuno-tv.workers.dev/channel/9090/n4a29b367/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Привет из 90х
-https://stream.zuno-tv.workers.dev/channel/9090/9b95461/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Эльдар Рязанов
-https://stream.zuno-tv.workers.dev/channel/9090/2392d973/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Универ новая общага
-https://stream.zuno-tv.workers.dev/channel/9090/n6d1e893c/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ходячие мертвецы
-https://stream.zuno-tv.workers.dev/channel/9090/n55c845c9/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Реальные пацаны
-https://stream.zuno-tv.workers.dev/channel/9090/3c4b5f0a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Доктор Хаус
-https://stream.zuno-tv.workers.dev/channel/9090/n4b454c4f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Без цензуры
-https://stream.zuno-tv.workers.dev/channel/9090/207a9134/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Городок
-https://stream.zuno-tv.workers.dev/channel/9090/ne5087fd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Comedy Woman
-https://stream.zuno-tv.workers.dev/channel/9090/8c9433f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Игра престолов
-https://stream.zuno-tv.workers.dev/channel/9090/3a3c06b5/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Одесская киностудия
-https://stream.zuno-tv.workers.dev/channel/9090/17ce964a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ленфильм
-https://stream.zuno-tv.workers.dev/channel/9090/n5d975628/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Киностудия им. Горького
-https://stream.zuno-tv.workers.dev/channel/9090/19d8650/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Рижская киностудия
-https://stream.zuno-tv.workers.dev/channel/9090/n2782a1ca/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Свердловская киностудия
-https://stream.zuno-tv.workers.dev/channel/9090/2ca97b95/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Беларусьфильм
-https://stream.zuno-tv.workers.dev/channel/9090/n29c744b4/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF HBO
-https://stream.zuno-tv.workers.dev/channel/9090/n5a118def/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Michael Jackson
-https://stream.zuno-tv.workers.dev/channel/9090/n68a02a6a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Король и Шут
-https://stream.zuno-tv.workers.dev/channel/9090/n4439966a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Легенды Ретро ФМ
-https://stream.zuno-tv.workers.dev/channel/9090/n64eef067/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Музыкальный Новый год!
-https://stream.zuno-tv.workers.dev/channel/9090/4f5a2cf4/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Modern Talking
-https://stream.zuno-tv.workers.dev/channel/9090/n309c3147/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Britney Spears
-https://stream.zuno-tv.workers.dev/channel/9090/58c7ef7/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Музыка
-https://stream.zuno-tv.workers.dev/channel/9090/61bc9c55/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Music
-https://stream.zuno-tv.workers.dev/channel/9090/n1b87957f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Rock
-https://stream.zuno-tv.workers.dev/channel/9090/17e50789/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Караоке
-https://stream.zuno-tv.workers.dev/channel/9090/4c1105ef/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Шансон
-https://stream.zuno-tv.workers.dev/channel/9090/752d9a6f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Музсоюз
-https://stream.zuno-tv.workers.dev/channel/9090/n2a2d868e/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Metal
-https://stream.zuno-tv.workers.dev/channel/9090/n1b8ed89d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Rap
-https://stream.zuno-tv.workers.dev/channel/9090/n5a116483/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Хит-парад
-https://stream.zuno-tv.workers.dev/channel/9090/n44c8e20f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Русский рок
-https://stream.zuno-tv.workers.dev/channel/9090/718b3db0/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Disney Cartoon
-https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Союзмультфильм
-https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Ералаш
-https://stream.zuno-tv.workers.dev/channel/9090/559cfdb2/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF VHS Cartoon
-https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Малыш
-https://stream.zuno-tv.workers.dev/channel/9090/1be4bb40/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Мультуб
-https://stream.zuno-tv.workers.dev/channel/9090/n29f01acc/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Новогодние мультфильмы
-https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Скуби-Ду
-https://stream.zuno-tv.workers.dev/channel/9090/2350f52f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Авто
-https://stream.zuno-tv.workers.dev/channel/9090/19a71de2/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Охота
-https://stream.zuno-tv.workers.dev/channel/9090/1c0a8021/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Домашний повар
-https://stream.zuno-tv.workers.dev/channel/9090/n7af86f45/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Путешествия
-https://stream.zuno-tv.workers.dev/channel/9090/74270aa0/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Рыбалка
-https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Стройка
-https://stream.zuno-tv.workers.dev/channel/9090/n22e5d5b4/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Маски Шоу
-https://stream.zuno-tv.workers.dev/channel/9090/n7caae0c/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Каламбур
-https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Орел и решка
-https://stream.zuno-tv.workers.dev/channel/9090/2f3d9d6d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Концерты
-https://stream.zuno-tv.workers.dev/channel/9090/16ba75c5/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF КВН
-https://stream.zuno-tv.workers.dev/channel/9090/n5a02bc9f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Юмор 18+
-https://stream.zuno-tv.workers.dev/channel/9090/n3604f928/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Уральские пельмени
-https://stream.zuno-tv.workers.dev/channel/9090/124864a5/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Кухня
-https://stream.zuno-tv.workers.dev/channel/9090/1bd1532a/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Баня
-https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VF Однажды в России
-https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
-#EXTINF:0 group-title="Мужские",VF Рыбалка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2867456039.m3u8
-
-#EXTINF:0 group-title="Мужские",VF Стройка
-http://taptv.ru/channel/HY9AG1DW6N133MM4EC/4563440755.m3u8
-
-#EXTINF:0 group-title="Мужские",VF Охота
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/444.m3u8
-
-#EXTINF:0 group-title="Мужские",VF Авто
-http://taptv.space/channel/HY9AG1DW6N133MM4EC/443.m3u8
 
 
 
 
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Счастливы Вместе
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5888701151.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Бесстыжие
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9841387593.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Владимир Высоцкий
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8618012708.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Два с половиной человека
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7824689953.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Новогодний
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6502201466.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ёлки
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5724788952.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF New Year
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4989373769.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF С новым годом!
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5087361090.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Гарри Поттер
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4139034795.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Секс в большом городе
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9960899037.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Карточный домик
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1560102214.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Disney Movie
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7267123516.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Теория большого взрыва
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1664292917.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сериалы Турции
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5851989195.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Вестерн
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6186167415.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Маски Шоу
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5353951822.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Каламбур
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4986324045.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Авто
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1667568852.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Охота
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4807827514.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Домашний повар
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5517174502.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Путешествия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2852137964.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Рыбалка
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2867456039.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Стройка
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4563440755.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мультуб
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2174725005.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Новогодние мультфильмы
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9711919205.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Скуби-Ду
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4867389984.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF VHS Cartoon
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6129278413.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Малыш
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7408679243.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Disney Cartoon
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8675141376.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Союзмультфильм
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1614647088.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ералаш
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6735827659.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Cartoon 18+
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1420946572.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Граиндхаус
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8969401215.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Юмор 18+
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4277103828.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Уральские пельмени
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4863629317.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Кухня
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6010499653.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Баня
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7562335084.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Однажды в России
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4409248465.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Концерты
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4523094505.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Орел и решка
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6894111755.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF КВН
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3194483275.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Adventure
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5117924318.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Anime
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3596696149.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Cartoon
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8734010641.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Comedy
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3830985278.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Family
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4923851472.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Fantasy
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8535513000.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Melodrama
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7985868082.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Mystic
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3305121296.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9642106755.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF VHS MIX
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9944310388.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ужасы VHS
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7563940721.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Премьера
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6963083133.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Premiere
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1759672737.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Классика
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2223940385.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Classic
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5915240449.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Комедия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1428072226.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Катастрофы
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4742386722.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Marvel
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5069484132.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Военные
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9839101843.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Наша победа
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5909034353.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мосфильм
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6478117544.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Фильмы СССР
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3774784927.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мультфильмы СССР
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1544285533.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Боевик
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9693423043.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сваты
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1220791656.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Солдаты
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3766957833.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Тайны следствия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4048733448.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Воронины
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4807139347.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Универ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2628244904.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Series
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8922955941.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF След
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7775823738.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сериал
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8452161081.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Мыльные оперы
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6493592213.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Thriller
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3471796161.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Индия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8501452915.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF История
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8155128823.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Comics
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6395307698.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Криминал
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4300803813.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Клиника
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9458783105.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Луи де Фюнес
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1426349021.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Чернобыль
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3816415416.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF The X-Files
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4258605226.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сверхъестественное
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2531875092.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Леонид Гайдай
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7505244523.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Американская история ужасов
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9159456782.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Друзья
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6602262662.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF СашаТаня
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8090214806.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Джеки Чан
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7802522385.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Наша Раша
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1443701663.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Привет из 90х
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3770874010.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Эльдар Рязанов
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7882495504.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Универ новая общага
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5022026564.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ходячие мертвецы
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9820900114.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Реальные пацаны
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1488542923.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Доктор Хаус
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2952484715.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Без цензуры
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1113340026.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Городок
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6083790462.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Comedy Woman
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3224225077.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Игра престолов
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5910133086.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Одесская киностудия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7308721114.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ленфильм
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3688990663.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Киностудия им. Горького
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5316459743.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Рижская киностудия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4188414111.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Свердловская киностудия
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2405538931.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Беларусьфильм
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9511111080.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Netflix
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8476528980.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF HBO
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9405465367.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Кино 4K
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4769742562.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сериал 4K
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8184608991.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Top Series
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7406605385.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Art house
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2705318614.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Detective
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4528091430.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Fantastic
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5185931189.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Оскар
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1925446249.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Король и Шут
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1126477572.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Легенды Ретро ФМ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9675204550.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Музыкальный Новый год!
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2818774421.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Modern Talking
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9266859526.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Britney Spears
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2252485224.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Музыка
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1444697561.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Music
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4042909949.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Rock
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6387485467.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Караоке
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2507484365.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Шансон
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1320047668.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Музсоюз
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1654045530.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Metal
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8357999941.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Rap
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9187865866.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Хит-парад
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9225068857.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Русский рок
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5593387232.m3u8
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Michael Jackson
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2625992011.m3u8
 
 
 
