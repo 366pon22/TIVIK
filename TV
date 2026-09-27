@@ -1,3 +1,158 @@
+
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5956904716.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7270467834.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал FHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7345275194.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал UHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9186685241.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал Европа
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6514455272.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7358070873.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1 HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9851012625.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1 HD 50
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8904433698.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1 FHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9817815062.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1 UHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2044019591.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",РТР-Планета Европа
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1967408412.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6040586801.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия 24 HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7821331077.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7976505109.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия К HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5745610848.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8306865028.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",НТВ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9672539171.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",НТВ UHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5506672792.m3u8
+#EXTINF:-1 group-title="🔅 Основные",НТВ Мир
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5597074375.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятый канал
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9955791645.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятый канал
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1926244059.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Пятый канал HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3109346888.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ОТР
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8059279386.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ОТР
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2877816641.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ОТР HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4908816512.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6320664613.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВЦ International
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5517381050.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВЦ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9305286067.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2719930274.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Рен ТВ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2106541488.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Рен ТВ UHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8739751986.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Спас
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8204036385.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Спас
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5873180872.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2803856352.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС International
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1895789913.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5281308467.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5216920889.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Домашний
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8709932164.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Домашний
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9648165070.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Домашний HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1172450404.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВ3
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2645060715.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВ3
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5069385032.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВ3 HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3879062155.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятница!
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2978649195.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятница!
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6659654785.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятница! HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7159333460.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Ю
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1727534872.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Ю
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5049247315.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5562371087.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6621957254.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1461698990.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда Плюс
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5236307362.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда Плюс HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3488416845.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Мир
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1107959725.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Мир
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9886519627.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Мир HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4332331492.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1042758899.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6874050526.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ International
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1564812531.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8585889047.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5436580797.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ FHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7867632539.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ UHD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7609624569.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ HD 50
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3511547454.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ4
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3789886710.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ4
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4291790259.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ4 HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1769817587.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Муз ТВ
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7665893338.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Муз ТВ HD
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3835038990.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС Love
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9846948740.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС Love
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6116053723.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Че!
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2528438055.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Че
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/1966321490.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Перец International
+http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6359547316.m3u8
+
+
+
+
+
+
 #EXTINF:0 tvg-id="" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="📡 Федеральные", Первый канал
 #EXTGRP:📡 Федеральные
 http://ottlinks.club/low/mbdapn76zt/1.m3u8
