@@ -5617,56 +5617,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/
 
 
 
-#EXTINF:-1 group-title="Армения",ATV Kinoman
-http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1 group-title="Армения",ATV Bazmoc
-http://109.68.122.117:8899/bazmoc
-#EXTINF:-1 group-title="Армения",ATV Hay
-http://109.68.122.117:8899/hay_tv
-#EXTINF:-1 group-title="Армения",Amga
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
-https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/deltamusic1.png",Delta Music
-http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/deltatravel.png",Delta Travel
-http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
-https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
-#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
-http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 group-title="Армения",UHUT
-http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="http://epg.one/img/5934.png",USArmenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/icon/velary.png",Velari TV
-http://185.57.68.33:80/233/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://cdn.epg.one/img2/5941.png",Արմաունթ TV
-https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/geghama.png",Գեղամա TV
-http://45.11.139.43:8555/geghama/index.m3u8
-#EXTINF:-1 group-title="Армения",Մհնt6
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Շանթ
-http://5.188.172.179/Shant/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/fitnes.png",Ֆիթնես TV
-http://45.11.139.43:8555/fitnes/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-logo="https://cdn.epg.one/img2/5606.png",Ֆրեշ TV FRESH
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 group-title="Армения" tvg-logo="https://livemaralik.do.am/icon/highvision.png",Շանթ High Vision
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Армения",Азатутюн ТВ (Свобода ТВ)
-http://185.57.68.33/240/mpegts
-#EXTINF:-1 group-title="Армения",5TV Armenia
-http://176.124.103.200:18000/5tv/index.m3u8
-#EXTINF:-1 group-title="Армения",ABN News (ARM)
-http://109.68.122.117:8899/armnews_24
-#EXTINF:-1 group-title="Армения" tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png",Առաջին Ալիք HD
-https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
-#EXTINF:-1 group-title="Армения" tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png",Լուրեր HD
-https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Армения",Azatutyun TV
-http://185.57.68.33/240/index.m3u8
 
 
 
@@ -11836,6 +11786,65 @@ https://taptv.space/channel/HY9AG1DW6N133MM4EC/9944295652.m3u8
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/5875745751.m3u8
 #EXTINF:-1 group-title="🇦🇲 Армения",Fast Sports HD AM
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/6680337998.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Армения",ATV Kinoman
+http://s7.merlive.am/Kinoman/index.m3u8
+#EXTINF:-1 group-title="Армения",ATV Bazmoc
+http://109.68.122.117:8899/bazmoc
+#EXTINF:-1 group-title="Армения",ATV Hay
+http://109.68.122.117:8899/hay_tv
+#EXTINF:-1 group-title="Армения",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/deltamusic1.png",Delta Music
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/deltatravel.png",Delta Travel
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/W2Qfw8N/SGN-08-28-2021-1630166352824.png",Fresh TV
+https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/xS74qgH/SGN-12-18-2021-1639837346709.png",Luys
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 group-title="Армения",UHUT
+http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="http://epg.one/img/5934.png",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/icon/velary.png",Velari TV
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://cdn.epg.one/img2/5941.png",Արմաունթ TV
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/geghama.png",Գեղամա TV
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 group-title="Армения",Մհնt6
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://i.ibb.co/Y7Rxs9J/SGN-03-22-2022-1647976102720.png",Շանթ
+http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://mytv.do.am/logo/fitnes.png",Ֆիթնես TV
+http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-logo="https://cdn.epg.one/img2/5606.png",Ֆրեշ TV FRESH
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Армения" tvg-logo="https://livemaralik.do.am/icon/highvision.png",Շանթ High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения",Азатутюн ТВ (Свобода ТВ)
+http://185.57.68.33/240/mpegts
+#EXTINF:-1 group-title="Армения",5TV Armenia
+http://176.124.103.200:18000/5tv/index.m3u8
+#EXTINF:-1 group-title="Армения",ABN News (ARM)
+http://109.68.122.117:8899/armnews_24
+#EXTINF:-1 group-title="Армения" tvg-id="h1-am-hd-orig" tvg-rec="7" tvg-logo="http://epg.one/img/2060.png",Առաջին Ալիք HD
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 group-title="Армения" tvg-id="FirstChannelNews.am" tvg-logo="http://epg.one/img/5930.png",Լուրեր HD
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения",Azatutyun TV
+http://185.57.68.33/240/index.m3u8
+
+
+
+
+
 
 
 
