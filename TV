@@ -1408,6 +1408,273 @@ https://taptv.space/channel/HY9AG1DW6N133MM4EC/9005567881.m3u8
 
 
 
+Обновленный плейлист с замененным названием группы на `🧸 Детские` и выровненными в одну строку тегами `#EXTINF`:
+
+```m3u
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="ani" tvg-name="Ani" tvg-logo="https://iptvx.one/picons/ani.png" tvg-rec="7",Ani
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/129/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="baby-time" tvg-name="Baby Time" tvg-logo="https://iptvx.one/picons/baby-time.png" tvg-rec="0",Baby Time
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/20030/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="baby-tv" tvg-name="Baby TV" tvg-logo="https://iptvx.one/picons/baby-tv.png" tvg-rec="3",Baby TV
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/2084/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="BCU Kids 4K" tvg-rec="0",BCU Kids 4K
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/17023/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="bcu-kids-plus" tvg-name="BCU Kids+ HDR" tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" tvg-rec="7",BCU Kids+ HDR
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11036/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="bcu-little" tvg-name="BCU Little HD" tvg-logo="https://iptvx.one/picons/bcu-little.png" tvg-rec="0",BCU Little HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/19425/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="bcu-multserial" tvg-name="BCU Мультсериал HD" tvg-logo="https://iptvx.one/picons/bcu-multserial.png" tvg-rec="7",BCU Мультсериал HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11025/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="cartoon-classics" tvg-name="Cartoon Classics" tvg-logo="https://iptvx.one/picons/cartoon-classics.png" tvg-rec="0",Cartoon Classics
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/2075/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="cartoon-network" tvg-name="Cartoon Network HD orig" tvg-logo="https://iptvx.one/picons/cartoon-network.png" tvg-rec="3",Cartoon Network HD orig
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/9261/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="boomerang" tvg-name="Cartoonito" tvg-logo="https://iptvx.one/picons/boomerang.png" tvg-rec="7",Cartoonito
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/723/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="CineMan Cartoons 90" tvg-rec="7",CineMan Cartoons 90
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11001/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="CineMan Cartoons Big" tvg-rec="7",CineMan Cartoons Big
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11003/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="CineMan Cartoons Short" tvg-rec="7",CineMan Cartoons Short
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11002/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="cineman-kids4k" tvg-name="CineMan Kids 4K" tvg-logo="https://iptvx.one/picons/cineman-kids4k.png" tvg-rec="0",CineMan Kids 4K
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/32229/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="410" tvg-name="Da Vinci orig" tvg-logo="http://epg.one/img2/410.png" tvg-rec="3",Da Vinci orig
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/1033/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="ducktv" tvg-name="Duck TV HD" tvg-logo="https://iptvx.one/picons/ducktv.png" tvg-rec="3",Duck TV HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/1031/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Geo Super PK" tvg-rec="0",Geo Super PK
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/32295/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="gulli-girl" tvg-name="Gulli Girl" tvg-logo="https://iptvx.one/picons/gulli-girl.png" tvg-rec="7",Gulli Girl
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/109/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="IPTVPLAY МультСказки HD",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="jimjam" tvg-name="JimJam" tvg-logo="https://iptvx.one/picons/jimjam.png" tvg-rec="7",JimJam
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/138/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="kidstv" tvg-name="Kids TV HD" tvg-logo="https://iptvx.one/picons/kidstv.png" tvg-rec="0",Kids TV HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/20008/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="kinokazka" tvg-name="KinoKazka" tvg-logo="https://iptvx.one/picons/kinokazka.png" tvg-rec="0",KinoKazka
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15019/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="liberty-bebimult" tvg-name="Liberty Бебимульт FHD" tvg-logo="https://iptvx.one/picons/liberty-bebimult.png" tvg-rec="0",Liberty Бебимульт FHD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/17027/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Liberty Дисней FHD" tvg-rec="0",Liberty Дисней FHD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15093/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="liberty-mult" tvg-name="Liberty Мульт 4K" tvg-logo="https://iptvx.one/picons/liberty-mult.png" tvg-rec="0",Liberty Мульт 4K
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/18051/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Liberty Мульт UKR FHD" tvg-rec="0",Liberty Мульт UKR FHD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31659/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Liberty Пиксар FHD" tvg-rec="0",Liberty Пиксар FHD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15092/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="magic-disney" tvg-name="Magic Disney HD" tvg-logo="https://iptvx.one/picons/magic-disney.png" tvg-rec="0",Magic Disney HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/18064/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="MYTV Kids" tvg-rec="0",MYTV Kids
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/19409/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="nick-jr" tvg-name="Nick Jr." tvg-logo="https://iptvx.one/picons/nick-jr.png" tvg-rec="7",Nick Jr.
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/114/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" tvg-rec="7",Nickelodeon
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/541/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="nicktoons" tvg-name="NickToons HD" tvg-logo="https://iptvx.one/picons/nicktoons.png" tvg-rec="7",NickToons HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/849/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="StrahTV Весёлая Карусель HD" tvg-rec="7",StrahTV Весёлая Карусель HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11057/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="StrahTV Ералаш HD" tvg-rec="7",StrahTV Ералаш HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11058/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="StrahTV Кроха ТВ" tvg-rec="7",StrahTV Кроха ТВ
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11066/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="StrahTV Том и Джерри" tvg-rec="0",StrahTV Том и Джерри
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31721/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="tiji" tvg-name="TiJi" tvg-logo="https://iptvx.one/picons/tiji.png",TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Tiji TV" tvg-rec="7",Tiji TV
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/108/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="veles-kids" tvg-name="VeleS Kids" tvg-logo="https://iptvx.one/picons/veles-kids.png" tvg-rec="0",VeleS Kids
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31646/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV 101 далматинец" tvg-rec="0",Venera.TV 101 далматинец
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30198/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Peppa Pig" tvg-rec="0",Venera.TV Peppa Pig
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30159/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Аладдин" tvg-rec="0",Venera.TV Аладдин
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30194/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Барбоскины" tvg-rec="0",Venera.TV Барбоскины
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30195/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Бивис и Батт-Хед" tvg-rec="0",Venera.TV Бивис и Батт-Хед
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30193/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Воскресное утро 90х" tvg-rec="0",Venera.TV Воскресное утро 90х
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30152/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Вспыш и чудо-машинки" tvg-rec="0",Venera.TV Вспыш и чудо-машинки
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30155/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Вуди Вудпекер" tvg-rec="0",Venera.TV Вуди Вудпекер
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30154/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Гриффины" tvg-rec="0",Venera.TV Гриффины
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30187/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Губка Боб" tvg-rec="0",Venera.TV Губка Боб
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30186/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Даша-путешественница" tvg-rec="0",Venera.TV Даша-путешественница
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30181/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Детский мир 4K" tvg-rec="0",Venera.TV Детский мир 4K
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30150/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Енотки.Первые слова" tvg-rec="0",Venera.TV Енотки. Первые слова
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30189/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Еноты" tvg-rec="0",Venera.TV Еноты
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30188/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Корги по имени Моко" tvg-rec="0",Venera.TV Корги по имени Моко
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30184/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Крепыш и команда" tvg-rec="0",Venera.TV Крепыш и команда
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30183/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Леди Баг и Супер-Кот" tvg-rec="0",Venera.TV Леди Баг и Супер-Кот
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30182/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Маша и Медведь" tvg-rec="0",Venera.TV Маша и Медведь
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30180/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Микки Маус" tvg-rec="0",Venera.TV Микки Маус
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30179/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Мини-мишки" tvg-rec="0",Venera.TV Мини-мишки
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30178/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Мишки Гамми" tvg-rec="0",Venera.TV Мишки Гамми
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30177/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Ну, погоди!" tvg-rec="0",Venera.TV Ну, погоди!
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30161/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Охотники за привидениями" tvg-rec="0",Venera.TV Охотники за привидениями
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30175/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Очень странные делишки" tvg-rec="0",Venera.TV Очень странные делишки
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30176/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Панда и Антилопа" tvg-rec="0",Venera.TV Панда и Антилопа
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30174/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Подводная одиссея" tvg-rec="0",Venera.TV Подводная одиссея
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30196/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Простоквашино" tvg-rec="0",Venera.TV Простоквашино
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30160/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Пчёлка Майя" tvg-rec="0",Venera.TV Пчёлка Майя
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30173/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Рапунцель" tvg-rec="0",Venera.TV Рапунцель
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30172/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Рик и Морти" tvg-rec="0",Venera.TV Рик и Морти
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30171/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Розовая пантера" tvg-rec="0",Venera.TV Розовая пантера
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30170/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Свинка Пеппа" tvg-rec="0",Venera.TV Свинка Пеппа
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30158/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Симпсоны" tvg-rec="0",Venera.TV Симпсоны
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30169/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Смешарики" tvg-rec="0",Venera.TV Смешарики
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30168/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Смурфики" tvg-rec="0",Venera.TV Смурфики
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30166/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Суперкрошки" tvg-rec="0",Venera.TV Суперкрошки
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30165/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Тимон и Пумба" tvg-rec="0",Venera.TV Тимон и Пумба
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30164/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Том и Джерри 4K" tvg-rec="0",Venera.TV Том и Джерри 4K
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30162/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Три кота" tvg-rec="0",Venera.TV Три кота
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30157/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Утиные истории" tvg-rec="0",Venera.TV Утиные истории
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30156/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Фиксики" tvg-rec="0",Venera.TV Фиксики
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30153/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Чип и Дейл" tvg-rec="0",Venera.TV Чип и Дейл
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30191/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Чудеса на виражах" tvg-rec="0",Venera.TV Чудеса на виражах
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30192/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Щенячий патруль" tvg-rec="0",Venera.TV Щенячий патруль
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30167/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Venera.TV Экстрасенсы" tvg-rec="0",Venera.TV Экстрасенсы
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/30190/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-disney-cartoon" tvg-name="VF Disney Cartoon" tvg-logo="https://iptvx.one/picons/vf-disney-cartoon.png" tvg-rec="0",VF Disney Cartoon
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15027/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-vhs-cartoon" tvg-name="VF VHS Cartoon" tvg-logo="https://iptvx.one/picons/vf-vhs-cartoon.png" tvg-rec="0",VF VHS Cartoon
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11118/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-eralash" tvg-name="VF Ералаш" tvg-logo="https://iptvx.one/picons/vf-eralash.png" tvg-rec="0",VF Ералаш
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14163/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-malysh" tvg-name="VF Малыш" tvg-logo="https://iptvx.one/picons/vf-malysh.png" tvg-rec="0",VF Малыш
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/11123/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="VF Мультуб" tvg-rec="0",VF Мультуб
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15520/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-nowogodmult" tvg-name="VF Новогодние мультфильмы" tvg-logo="https://iptvx.one/picons/vf-nowogodmult.png" tvg-rec="0",VF Новогодние мультфильмы
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15523/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-skubidu" tvg-name="VF Скуби-Ду" tvg-logo="https://iptvx.one/picons/vf-skubidu.png" tvg-rec="0",VF Скуби-Ду
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/17007/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="vf-soyuzmultfilm" tvg-name="VF Союзмультфильм" tvg-logo="https://iptvx.one/picons/vf-soyuzmultfilm.png" tvg-rec="0",VF Союзмультфильм
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14238/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="yosso-kids" tvg-name="Yosso TV Kids" tvg-logo="https://iptvx.one/picons/yosso-kids.png" tvg-rec="0",Yosso TV Kids
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14173/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="yosso-ndetskoe" tvg-name="Yosso TV Наше Детское" tvg-logo="https://iptvx.one/picons/yosso-ndetskoe.png" tvg-rec="0",Yosso TV Наше Детское
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/19433/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="yosso-soyuzmult" tvg-name="Yosso TV Союзмульт" tvg-logo="https://iptvx.one/picons/yosso-soyuzmult.png" tvg-rec="0",Yosso TV Союзмульт
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14178/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки HD" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" tvg-rec="0",В гостях у сказки HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/20005/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Весёлые малыши HD" tvg-rec="0",Весёлые малыши HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31918/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="detsky" tvg-name="Детский" tvg-logo="https://iptvx.one/picons/unikum.png" tvg-rec="7",Детский
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/730/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="https://iptvx.one/picons/detsky-mir.png" tvg-rec="7",Детский мир
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/543/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="2438" tvg-name="Капитан Фантастика HD" tvg-logo="http://epg.one/img2/2438.png",Капитан Фантастика HD
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="karusel" tvg-name="Карусель HD" tvg-logo="https://iptvx.one/picons/karusel.png" tvg-rec="0",Карусель HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/20012/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Карусель +0 (Элиста)" tvg-rec="0",Карусель +0 (Элиста)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15453/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="karusel-pl3" tvg-name="Карусель +3" tvg-logo="https://iptvx.one/picons/karusel-pl3.png" tvg-rec="3",Карусель +3
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/740/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Карусель +3 (Омск)" tvg-rec="0",Карусель +3 (Омск)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15436/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="karusel-pl7" tvg-name="Карусель +7" tvg-logo="https://iptvx.one/picons/karusel-pl7.png" tvg-rec="0",Карусель +7
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15442/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Карусель +7 (Владивосток)" tvg-rec="0",Карусель +7 (Владивосток)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15340/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Карусель (Ставрополь)" tvg-rec="0",Карусель (Ставрополь)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31930/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="kinomult" tvg-name="КиноМульт" tvg-logo="https://iptvx.one/picons/kinomult.png" tvg-rec="0",КиноМульт
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/20009/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="liova" tvg-name="Лёва HD" tvg-logo="https://iptvx.one/picons/liova.png" tvg-rec="0",Лёва HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15098/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="mult" tvg-name="Мульт" tvg-logo="https://iptvx.one/picons/mult.png" tvg-rec="7",Мульт
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/909/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="multimania" tvg-name="Мультиландия HD" tvg-logo="https://iptvx.one/picons/multimania.png" tvg-rec="0",Мультиландия HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/31910/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="multimuzyka" tvg-name="Мультимузыка" tvg-logo="https://iptvx.one/picons/multimuzyka.png" tvg-rec="7",Мультимузыка
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/749/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="o_" tvg-name="О!" tvg-logo="https://iptvx.one/picons/o_.png" tvg-rec="7",О!
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/727/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Радио Kids FM" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png",Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Радость моя" tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-rec="7",Радость моя
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/853/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="https://iptvx.one/picons/ryzhy.png" tvg-rec="3",Рыжий
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/2052/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="skazki-zayki" tvg-name="Сказки Зайки HD" tvg-logo="https://iptvx.one/picons/skazki-zayki.png" tvg-rec="0",Сказки Зайки HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14150/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Смайл ТВ HD" tvg-rec="3",Смайл ТВ HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/2157/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Смайлик ТВ" tvg-logo="http://rafail1982.uz/logo/Смайлик ТВ.png",Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=QkuMcRYb3s5QP8UeGEtUGw&e=2068506964&scheme=https
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Солнце" tvg-logo="http://rafail1982.uz/logo/Солнце.png",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="СоюзМультфильм",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="sts-kids-hd" tvg-name="СТС Kids HD orig" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" tvg-rec="3",СТС Kids HD orig
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/9063/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="malysh" tvg-name="СуперГерои HD" tvg-logo="https://iptvx.one/picons/malysh.png" tvg-rec="0",СуперГерои HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/15099/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="2440" tvg-name="Тамыр (Уфа)" tvg-logo="http://epg.one/img2/2440.png",Тамыр (Уфа)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="tiptop" tvg-name="ТипТоп HD" tvg-logo="https://iptvx.one/picons/tiptop.png" tvg-rec="0",ТипТоп HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14007/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Тооку (Якутия)" tvg-rec="3",Тооку (Якутия)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/9172/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-id="chizhik" tvg-name="Чижик HD" tvg-logo="https://iptvx.one/picons/chizhik.png" tvg-rec="0",Чижик HD
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/14034/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Чип и Дейл" tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="🧸 Детские" tvg-name="Шаян ТВ (Татарстан)" tvg-rec="0",Шаян ТВ (Татарстан)
+http://904e432b.ottrast.com/iptv/WKZ27YF2Z8AA25W3UFFXDSF6/32216/index.m3u8
+
+```
+
+
+
+
 
 
 
