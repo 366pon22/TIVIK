@@ -1360,7 +1360,7 @@ https://taptv.space/channel/HY9AG1DW6N133MM4EC/3921332423.m3u8
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/5531962803.m3u8
 #EXTINF:-1 group-title="👶 Детские" catchup="shift" catchup-days="3",Cartoon Network HD
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/2481402752.m3u8
-#EXTINF:-1 group-title="👶 Детские",КиноМульт
+#EXTINF:-1 group-title="👶 Детские",Мульт
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/3852958227.m3u8
 #EXTINF:-1 group-title="👶 Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
 https://taptv.space/channel/HY9AG1DW6N133MM4EC/8812653625.m3u8
@@ -2412,15 +2412,15 @@ http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/6083790462.m3u8
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3224225077.m3u8
 #EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Игра престолов
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5910133086.m3u8
-#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Одесская киностудия
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Одесская студия
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/7308721114.m3u8
 #EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Ленфильм
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/3688990663.m3u8
-#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Киностудия им. Горького
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF студия им. Горького
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/5316459743.m3u8
-#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Рижская киностудия
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Рижская студия
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4188414111.m3u8
-#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Свердловская киностудия
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Свердловская студия
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/2405538931.m3u8
 #EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Беларусьфильм
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9511111080.m3u8
@@ -2428,7 +2428,7 @@ http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9511111080.m3u8
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8476528980.m3u8
 #EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF HBO
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/9405465367.m3u8
-#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Кино 4K
+#EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF  4K
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/4769742562.m3u8
 #EXTINF:-1 group-title="🍭 VF" catchup="shift" catchup-days="7",VF Сериал 4K
 http://taptv.ru/channel/PQTMXBPEXQIBJJ7NS1/8184608991.m3u8
@@ -2733,6 +2733,319 @@ http://taptv.ru/channel/HY9AG1DW6N133MM4EC/6571520018.m3u8
 http://taptv.ru/channel/HY9AG1DW6N133MM4EC/3472849307.m3u8
 #EXTINF:0 group-title="𝓜𝓜 MM",MM OldSchool HD
 http://taptv.ru/channel/HY9AG1DW6N133MM4EC/2579328890.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png",Сити Эдем ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" tvg-id="russkaya-komedia",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",.sci-fi
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Amedia 2
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",КиноХит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" tvg-id="no_epg_cinema",Всё ТВ Трейлеры
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥" tvg-id="indiyskoe-kino",Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносат
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносерия
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Дорама
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Сериал НТВ
+http://195.64.140.147:10073/73
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НТВ Хит
+http://195.64.140.147:10074/74
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НТВ Стиль
+http://195.64.140.147:10173/173
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",НТВ Право
+http://195.64.140.147:10181/181
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносемья
+http://195.64.140.147:10042/42
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киноужас
+http://195.64.140.147:10043/43
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Кинокомедия
+http://195.64.140.147:10047/47
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Индийское Кино
+http://195.64.140.147:10049/49
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Родное Кино
+http://195.64.140.147:10052/52
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Наше Новое Кино
+http://195.64.140.147:10053/53
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Дом Кино
+http://195.64.140.147:10057/57
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Классика Кино
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",TV1000 Русское Кино
+http://195.64.140.147:10069/69
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский Бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский Роман
+http://195.64.140.147:10076/9976
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский Детектив
+http://195.64.140.147:10077/77
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Мосфильм. Золотая коллекция
+http://195.64.140.147:10078/78
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",ЕвроКино
+http://195.64.140.147:10088/88
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Мир Сериала
+http://195.64.140.147:10089/89
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Иллюзион+
+http://195.64.140.147:10090/90
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Любимое Кино
+http://195.64.140.147:10091/91
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Комедия
+http://195.64.140.147:10092/92
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Русский Иллюзион
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Победа
+http://195.64.140.147:10141/141
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Продвижение
+http://195.64.140.147:10142/142
+#EXTINF:-1 group-title="3-Кино  📽🎞🎥",Арсенал HD
+http://195.64.140.147:10157/157
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",CineMan Thriller HD
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://iptvx.one/picons/star-cinema.png" tvg-id="star-cinema",Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://images.live.vkvideo.ru/user/23442796/avatar?change_time=1749539489&croped=1&mh=140&mw=140",Disney Онлайн
+http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://iptvx.one/picons/hustler-tv.png" tvg-id="horrortv",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://iptvx.one/picons/kinosezon.png" tvg-id="kinosezon",КиноСезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://iptvx.one/picons/sovkino.png" tvg-id="sovkino",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Amedia Hit HD
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",TV1000 Русское кино HD
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Vip Comedy HD
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",VIP Megahit HD
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Vip Premiere HD
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Bollywood HD
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",T+
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="http://cdn.teleon.tv/logo/kinozal.png",Твое ТВ
+http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman
+http://kinowalk.hopto.org/aisman_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",KINOWALK
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Scripach TV
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",NikNik-TV
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Disney XD
+http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Kycman
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",dj Zour
+http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",MAX
+http://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Solo ink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",TopMoment LiVE
+http://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",SeleCaoTV1
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",swat2k
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",ОсторожноМодерн
+http://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Тоха Киноман
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",JTX Online
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",4ever Drama HD
+http://stream.mcquack.net/260/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",4ever Theater HD
+http://stream.mcquack.net/259/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",4ever Cinema HD
+http://stream.mcquack.net/258/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",.red HD
+http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кино HD 📽🎞🎥",.Sci-Fi HD
+http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Фильмач
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=fVU07vxWA3c3JWGAaAkaRw&e=2089239031&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Детективы каждый день
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=CA47z_e0zRpYa3TmEZgkEg&e=2089239031&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Apple TV+Action Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=eGuMa6LTGdm-m_hS5NlbWg&e=2089239032&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Apple TV+Woman's Story
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=ucBT2-FB6vK1Xznnkvk0tQ&e=2089239032&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Epic Media Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=bBmIZ99bam-NwwGjuS0myA&e=2089239032&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Epic Media Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=4AUpgfryc8NwWjEbDbV3Hg&e=2089239034&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Звездные войны
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=j8Q2oYnW2dPooSSc1WzQuQ&e=2089239034&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Гарри Поттер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=TJsU7-Ilyp47WutbuFVxrA&e=2089239035&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=IY-2UaZppgVcUYu2N9n-Wg&e=2089239035&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Amazon Prime Video mans' club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=mgLOTWLlP73cWT6-i7-RvQ&e=2089239035&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Amazon Prime Video Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=V6FPCf935-0Em3C7Z3jy-g&e=2089239036&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Твой кинотеатр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=wRfLKI6Zy_LdG64WcW-UUA&e=2089239036&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg",Киножелезо
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=WJ7hU0urLkJORdf1PGt4-g&e=2081895422&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://pic.rtbcdn.ru/video/2025-03-14/87/c6/87c6d211fd30f5019ebf2bc074b5f7e5.jpg",Кинолаффка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=M_1Gq9dpTL8DoBHq_98ZKA&e=2081895422&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://rtp.media/assets/images/news/2025-11-19/photo02.jpg",Кино и Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=AssL-T0rnwhSXkOFcWnThA&e=2082240619&scheme=https
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺" tvg-logo="https://prodigtv.ru/wp-content/uploads/2022/02/lampa-300x188.jpg",lampoTV
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="3-Кинотеатр 24/7 📽🎞🎥 🇷🇺",У КРАЯ БЕЗДНЫ 24/7
+http://kinowalk.hopto.org/ddator_live
+
+
 
 
 
@@ -3388,6 +3701,33 @@ https://taptv.space/channel/HY9AG1DW6N133MM4EC/4696914619.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",National Geographic HD
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",Investigation Discovery HD
+http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=MbVIRYTYdbZhFx7plPdClA&e=2089239024&scheme=https
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",viju Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",viju History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",viju Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎" tvg-id="terra-inkognita",Терра Инкогнита
+http://178.124.153.123:44400/terra
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",TLC HD
+http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎" tvg-logo="https://i.imgur.com/rPAbMSu.png",TV5 Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",Animal Planet HD
+http://195.64.140.147:10032/32
+#EXTINF:-1 group-title="4-Discovery 🌏 ❤ 🌎",CGTN
+http://195.64.140.147:10182/182
 
 
 
